@@ -1,5 +1,5 @@
 ### Performance Mods
-* [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
+* [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) version [1.16.5-0.2.11](https://mediafilez.forgecdn.net/files/4397/474/rubidium-0.2.11.jar)
 * [Rubidium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra)
 * [Magnesium/Rubidium Dynamic Lights ](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
 * [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options)
