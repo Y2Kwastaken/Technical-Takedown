@@ -27,8 +27,6 @@
 * [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks/files/3330406)
 * [Jade](https://www.curseforge.com/minecraft/mc-mods/jade/files/3910873)
 * [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
-* [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
-* [Catelogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 * [Armor Toughness Bar](https://www.curseforge.com/minecraft/mc-mods/armor-toughness-bar)
 * [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
 * [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -87,7 +85,31 @@
 * [Simply Tea!](https://www.curseforge.com/minecraft/mc-mods/simply-tea)
 * [Farmer's Tea](https://www.curseforge.com/minecraft/mc-mods/farmers-tea)
 * [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+* [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)
 * [Abnormal's Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight)
 * [Cookielicious](https://www.curseforge.com/minecraft/mc-mods/cookielicious)
 * [Seasonals](https://www.curseforge.com/minecraft/mc-mods/seasonals)
 * [Peculiars](https://www.curseforge.com/minecraft/mc-mods/peculiars)
+
+### Misc Content
+* [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
+* [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon)
+* [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+* [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+* [Alex's Delight](https://www.curseforge.com/minecraft/mc-mods/alexs-delight)
+* [Alex's Abnormalities](https://www.curseforge.com/minecraft/mc-mods/alexs-abnormalities)
+* [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+* [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+* [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+* [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts)
+
+### Tech/Automation
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+* [Create Crafts and Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition)
+* [Create Plus](https://www.curseforge.com/minecraft/mc-mods/create-plus)
+* [More Create Stuffs](https://www.curseforge.com/minecraft/mc-mods/more-create-stuffs)
+
+### Magic
+* [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+* [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo)
+* [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
