@@ -102,6 +102,7 @@
 * [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4167327)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/3776277)
 * [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3665636)
+* [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/4408133)
 
 ### Tech/Automation
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/3536025)
