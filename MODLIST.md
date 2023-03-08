@@ -108,7 +108,15 @@
 * [Create Crafts and Additions](https://www.curseforge.com/minecraft/mc-mods/createaddition/files/3629494)
 * [Create Plus](https://www.curseforge.com/minecraft/mc-mods/create-plus/files/3388486)
 * [More Create Stuffs](https://www.curseforge.com/minecraft/mc-mods/more-create-stuffs/files/3449683)
-
+* [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/files/3809596)
+* [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum/files/3384353)
+* [Just Enough Immersive Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-immersive-multiblocks/files/3836732)
+* [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/3834640)
+* [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/4395617)
+* [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3527504)
+* [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3527508)
+* [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify/files/3597580)
+  
 ### Magic
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/4300733)
 * [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo/files/3899109)
