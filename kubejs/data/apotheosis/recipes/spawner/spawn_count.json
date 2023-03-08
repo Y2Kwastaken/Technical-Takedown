@@ -1,0 +1,24 @@
+{
+    "type": "apotheosis:spawner_modifier",
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "spawner"
+        }
+    ],
+    "mainhand": {
+        "item": "create:create_turntable"
+    },
+    "offhand": {
+        "item": "minecraft:nether_star"
+    },
+    "consumes_offhand": false,
+    "stat_changes": [
+        {
+            "id": "spawn_count",
+            "value": 1,
+            "min": -1,
+            "max": 16
+        }
+    ]
+}

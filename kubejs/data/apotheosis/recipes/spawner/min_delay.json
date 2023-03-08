@@ -1,0 +1,24 @@
+{
+    "type": "apotheosis:spawner_modifier",
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "spawner"
+        }
+    ],
+    "mainhand": {
+        "item": "ars_nouveau:glyph_duration_down"
+    },
+    "offhand": {
+        "item": "minecraft:nether_star"
+    },
+    "consumes_offhand": false,
+    "stat_changes": [
+        {
+            "id": "min_delay",
+            "value": -10,
+            "min": 20,
+            "max": -1
+        }
+    ]
+}

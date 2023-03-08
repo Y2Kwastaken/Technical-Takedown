@@ -1,0 +1,24 @@
+{
+    "type": "apotheosis:spawner_modifier",
+    "conditions": [
+        {
+            "type": "apotheosis:module",
+            "module": "spawner"
+        }
+    ],
+    "mainhand": {
+        "item": "pneumaticcraft:advanced_pcb"
+    },
+    "offhand": {
+        "item": "minecraft:nether_star"
+    },
+    "consumes_offhand": false,
+    "stat_changes": [
+        {
+            "id": "max_nearby_entities",
+            "value": 2,
+            "min": -1,
+            "max": 32
+        }
+    ]
+}

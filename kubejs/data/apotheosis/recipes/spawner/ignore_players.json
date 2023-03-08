@@ -1,0 +1,18 @@
+{
+	"type": "apotheosis:spawner_modifier",
+	"conditions": [{
+		"type": "apotheosis:module",
+		"module": "spawner"
+	}],
+	"mainhand": {
+		"item": "ars_nouveau:glyph_orbit"
+	},
+    "offhand": {
+		"item": "minecraft:nether_star"
+	},
+	"consumes_offhand": true,
+	"stat_changes": [{
+		"id": "ignore_players",
+		"value": true
+	}]
+}
