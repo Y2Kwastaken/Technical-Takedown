@@ -1,0 +1,6049 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 7, 2023 8:55:36 PM
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:ores/biotite
+- quark:biotite_ore
+
+#nethers_delight:soul_compost_activators
+- minecraft:crimson_fungus
+- minecraft:warped_fungus
+- minecraft:podzol
+- minecraft:mycelium
+- minecraft:soul_sand
+- minecraft:soul_soil
+- minecraft:bone_block
+- minecraft:nether_wart
+- nethers_delight:soul_compost
+- nethers_delight:rich_soul_soil
+- nethers_delight:mimicarnation
+- nethers_delight:crimson_fungus_colony
+- nethers_delight:warped_fungus_colony
+
+#quark:planks_vertical_slab
+- quark:black_stained_planks_vertical_slab
+- quark:blue_stained_planks_vertical_slab
+- quark:brown_stained_planks_vertical_slab
+- quark:cyan_stained_planks_vertical_slab
+- quark:gray_stained_planks_vertical_slab
+- quark:green_stained_planks_vertical_slab
+- quark:light_blue_stained_planks_vertical_slab
+- quark:light_gray_stained_planks_vertical_slab
+- quark:lime_stained_planks_vertical_slab
+- quark:magenta_stained_planks_vertical_slab
+- quark:orange_stained_planks_vertical_slab
+- quark:pink_stained_planks_vertical_slab
+- quark:purple_stained_planks_vertical_slab
+- quark:red_stained_planks_vertical_slab
+- quark:white_stained_planks_vertical_slab
+- quark:yellow_stained_planks_vertical_slab
+
+#forge:wooden_fences
+- ars_nouveau:archwood_fence
+
+#quark:stools
+- quark:black_stool
+- quark:blue_stool
+- quark:brown_stool
+- quark:cyan_stool
+- quark:gray_stool
+- quark:green_stool
+- quark:light_blue_stool
+- quark:light_gray_stool
+- quark:lime_stool
+- quark:magenta_stool
+- quark:orange_stool
+- quark:pink_stool
+- quark:purple_stool
+- quark:red_stool
+- quark:white_stool
+- quark:yellow_stool
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#supplementaries:beams
+- betternether:cincinnasite_pedestal?
+- terrestria:small_oak_log?
+- terrestria:stripped_sakura_log?
+- terrestria:stripped_small_oak_log?
+- terrestria:stripped_yucca_palm_log?
+- terrestria:yucca_palm_log?
+- #valhelsia_structures:posts?
+- valhelsia_structures:oak_post?
+- valhelsia_structures:spruce_post?
+- valhelsia_structures:birch_post?
+- valhelsia_structures:jungle_post?
+- valhelsia_structures:acacia_post?
+- valhelsia_structures:dark_oak_post?
+- valhelsia_structures:warped_post?
+- valhelsia_structures:crimson_post?
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#forge:storage_blocks/nickel
+- immersiveengineering:storage_nickel
+
+#botania:floating_flowers
+- #botania:mundane_floating_flowers
+- #botania:special_floating_flowers
+
+#alexsmobs:roadrunner_spawns
+- #minecraft:sand
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#forge:ores/niter
+
+#inspirations:cauldron_fire
+- minecraft:fire
+- minecraft:soul_fire
+- #minecraft:campfires
+
+#tconstruct:harvestable/stackable
+- immersiveengineering:hemp
+
+#quark:candles
+- quark:black_candle
+- quark:blue_candle
+- quark:brown_candle
+- quark:cyan_candle
+- quark:gray_candle
+- quark:green_candle
+- quark:light_blue_candle
+- quark:light_gray_candle
+- quark:lime_candle
+- quark:magenta_candle
+- quark:orange_candle
+- quark:pink_candle
+- quark:purple_candle
+- quark:red_candle
+- quark:white_candle
+- quark:yellow_candle
+
+#minecraft:dragon_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- minecraft:end_stone
+- minecraft:iron_bars
+- minecraft:respawn_anchor
+- supplementaries:spring_launcher_arm
+- supplementaries:safe
+- botania:infrangible_platform
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:acidian_lantern
+- endergetic:crystal_holder
+- endergetic:ender_fire
+- endergetic:poismoss
+- quark:biotite_ore
+- quark:basalt
+- quark:polished_basalt
+- quark:basalt_stairs
+- quark:polished_basalt_stairs
+- quark:basalt_slab
+- quark:polished_basalt_slab
+- quark:basalt_vertical_slab
+- quark:polished_basalt_vertical_slab
+- quark:basalt_wall
+- quark:basalt_speleothem
+- quark:basalt_bricks
+- quark:basalt_pavement
+- quark:chiseled_basalt_bricks
+- quark:basalt_bricks_slab
+- quark:basalt_bricks_stairs
+- quark:basalt_bricks_vertical_slab
+- quark:basalt_bricks_wall
+- quark:basalt_pillar
+- quark:myalite
+- quark:polished_myalite
+- quark:myalite_stairs
+- quark:polished_myalite_stairs
+- quark:myalite_slab
+- quark:polished_myalite_slab
+- quark:myalite_vertical_slab
+- quark:polished_myalite_vertical_slab
+- quark:myalite_wall
+- quark:myalite_bricks
+- quark:myalite_pavement
+- quark:chiseled_myalite_bricks
+- quark:myalite_bricks_slab
+- quark:myalite_bricks_stairs
+- quark:myalite_bricks_vertical_slab
+- quark:myalite_bricks_wall
+- quark:myalite_pillar
+- quark:duskbound_lantern
+- quark:duskbound_block
+- quark:duskbound_block_stairs
+- quark:duskbound_block_slab
+- quark:duskbound_block_vertical_slab
+- quark:myalite_crystal
+
+#farmersdelight:heat_sources
+- byg:magmatic_stone?
+- byg:cryptic_magma_block?
+- byg:frost_magma?
+- minecraft:magma_block
+- farmersdelight:stove
+- #farmersdelight:tray_heat_sources
+- nether_extension:glowing_obsidian?
+- nethers_delight:blackstone_stove
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:chests
+- #pneumaticcraft:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+- quark:nether_brick_chest
+- quark:purpur_chest
+- quark:prismarine_chest
+- quark:mushroom_chest
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#forge:storage_blocks/uranium
+- immersiveengineering:storage_uranium
+
+#forge:sheetmetals/nickel
+- immersiveengineering:sheetmetal_nickel
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#chiselsandbits:chiselable/forced
+- immersiveengineering:insulating_glass
+- immersiveengineering:wooden_barrel
+- immersiveengineering:turntable
+- immersiveengineering:crate
+- immersiveengineering:reinforced_crate
+- immersiveengineering:item_batcher
+- immersiveengineering:fluid_sorter
+- immersiveengineering:sorter
+- immersiveengineering:capacitor_lv
+- immersiveengineering:capacitor_mv
+- immersiveengineering:capacitor_hv
+- immersiveengineering:capacitor_creative
+- immersiveengineering:metal_barrel
+- immersiveengineering:furnace_heater
+- immersiveengineering:dynamo
+- immersiveengineering:thermoelectric_generator
+
+#forge:sheetmetals/steel
+- immersiveengineering:sheetmetal_steel
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#minecraft:prevent_mob_spawning_inside
+- #minecraft:rails
+
+#pneumaticcraft:wall_lamps
+- pneumaticcraft:wall_lamp_white
+- pneumaticcraft:wall_lamp_orange
+- pneumaticcraft:wall_lamp_magenta
+- pneumaticcraft:wall_lamp_light_blue
+- pneumaticcraft:wall_lamp_yellow
+- pneumaticcraft:wall_lamp_lime
+- pneumaticcraft:wall_lamp_pink
+- pneumaticcraft:wall_lamp_gray
+- pneumaticcraft:wall_lamp_light_gray
+- pneumaticcraft:wall_lamp_cyan
+- pneumaticcraft:wall_lamp_purple
+- pneumaticcraft:wall_lamp_blue
+- pneumaticcraft:wall_lamp_brown
+- pneumaticcraft:wall_lamp_green
+- pneumaticcraft:wall_lamp_red
+- pneumaticcraft:wall_lamp_black
+
+#forge:fiber
+- supplementaries:flax
+
+#forge:chests/trapped
+- environmental:willow_trapped_chest
+- environmental:cherry_trapped_chest
+- environmental:wisteria_trapped_chest
+- enhanced_mushrooms:brown_mushroom_trapped_chest
+- enhanced_mushrooms:glowshroom_trapped_chest
+- quark:mushroom_trapped_chest?
+- bayou_blues:cypress_trapped_chest
+- minecraft:trapped_chest
+- endergetic:poise_trapped_chest
+- upgrade_aquatic:driftwood_trapped_chest
+- upgrade_aquatic:river_trapped_chest
+- abundance:jacaranda_trapped_chest
+- abundance:redbud_trapped_chest
+- atmospheric:rosewood_trapped_chest
+- atmospheric:morado_trapped_chest
+- atmospheric:yucca_trapped_chest
+- atmospheric:kousa_trapped_chest
+- atmospheric:aspen_trapped_chest
+- atmospheric:grimwood_trapped_chest
+- autumnity:maple_trapped_chest
+- quark:oak_trapped_chest
+- quark:spruce_trapped_chest
+- quark:birch_trapped_chest
+- quark:jungle_trapped_chest
+- quark:acacia_trapped_chest
+- quark:dark_oak_trapped_chest
+- quark:warped_trapped_chest
+- quark:crimson_trapped_chest
+- quark:nether_brick_trapped_chest
+- quark:purpur_trapped_chest
+- quark:prismarine_trapped_chest
+- quark:mushroom_trapped_chest
+- charm:acacia_trapped_chest
+- charm:birch_trapped_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_trapped_chest
+- charm:oak_trapped_chest
+- charm:spruce_trapped_chest
+- charm:warped_trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+- quark:nether_brick_fence_gate
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+- atmospheric:arid_sandstone
+- atmospheric:cut_arid_sandstone
+- atmospheric:chiseled_arid_sandstone
+- atmospheric:smooth_arid_sandstone
+- atmospheric:red_arid_sandstone
+- atmospheric:cut_red_arid_sandstone
+- atmospheric:chiseled_red_arid_sandstone
+- atmospheric:smooth_red_arid_sandstone
+
+#forge:storage_blocks/copper
+- immersiveengineering:storage_copper
+- create:copper_block
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#pneumaticcraft:compressed_stone_bricks
+- pneumaticcraft:compressed_bricks
+
+#atmospheric:rosewood_logs
+- atmospheric:rosewood_log
+- atmospheric:rosewood
+- atmospheric:stripped_rosewood_log
+- atmospheric:stripped_rosewood
+
+#inspirations:cauldron_ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+
+#inspirations:enlightened_bushes
+- inspirations:white_enlightened_bush
+- inspirations:red_enlightened_bush
+- inspirations:green_enlightened_bush
+- inspirations:blue_enlightened_bush
+
+#computercraft:monitor
+- computercraft:monitor_normal
+- computercraft:monitor_advanced
+
+#forge:storage_blocks/cinnabar
+
+#pneumaticcraft:probe_target
+
+#upgrade_aquatic:river_logs
+- upgrade_aquatic:river_log
+- upgrade_aquatic:river_wood
+- upgrade_aquatic:stripped_river_log
+- upgrade_aquatic:stripped_river_wood
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#pneumaticcraft:chests
+- pneumaticcraft:smart_chest
+- pneumaticcraft:reinforced_chest
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#forge:sheetmetals/aluminum
+- immersiveengineering:sheetmetal_aluminum
+
+#pneumaticcraft:reinforced_stone
+- pneumaticcraft:reinforced_stone
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#forge:ores/lead
+- immersiveengineering:ore_lead
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- supplementaries:gold_door
+- supplementaries:netherite_door
+- buzzier_bees:honeycomb_door
+- #pneumaticcraft:doors
+- ars_nouveau:archwood_door
+- upgrade_aquatic:tooth_door
+- upgrade_aquatic:glass_door
+- inspirations:glass_door
+
+#minecraft:infiniburn_overworld
+- minecraft:netherrack
+- minecraft:magma_block
+
+#minecraft:flower_pots
+- minecraft:flower_pot
+- minecraft:potted_poppy
+- minecraft:potted_blue_orchid
+- minecraft:potted_allium
+- minecraft:potted_azure_bluet
+- minecraft:potted_red_tulip
+- minecraft:potted_orange_tulip
+- minecraft:potted_white_tulip
+- minecraft:potted_pink_tulip
+- minecraft:potted_oxeye_daisy
+- minecraft:potted_dandelion
+- minecraft:potted_oak_sapling
+- minecraft:potted_spruce_sapling
+- minecraft:potted_birch_sapling
+- minecraft:potted_jungle_sapling
+- minecraft:potted_acacia_sapling
+- minecraft:potted_dark_oak_sapling
+- minecraft:potted_red_mushroom
+- minecraft:potted_brown_mushroom
+- minecraft:potted_dead_bush
+- minecraft:potted_fern
+- minecraft:potted_cactus
+- minecraft:potted_cornflower
+- minecraft:potted_lily_of_the_valley
+- minecraft:potted_wither_rose
+- minecraft:potted_bamboo
+- minecraft:potted_crimson_fungus
+- minecraft:potted_warped_fungus
+- minecraft:potted_crimson_roots
+- minecraft:potted_warped_roots
+- fruitful:potted_flowering_oak_sapling
+- environmental:potted_willow_sapling
+- environmental:potted_cherry_sapling
+- environmental:potted_pink_wisteria_sapling
+- environmental:potted_blue_wisteria_sapling
+- environmental:potted_white_wisteria_sapling
+- environmental:potted_purple_wisteria_sapling
+- environmental:potted_cattail
+- environmental:potted_cartwheel
+- environmental:potted_bluebell
+- environmental:potted_violet
+- environmental:potted_dianthus
+- environmental:potted_red_lotus_flower
+- environmental:potted_white_lotus_flower
+- environmental:potted_bird_of_paradise
+- environmental:potted_red_hibiscus
+- environmental:potted_orange_hibiscus
+- environmental:potted_yellow_hibiscus
+- environmental:potted_pink_hibiscus
+- environmental:potted_magenta_hibiscus
+- environmental:potted_purple_hibiscus
+- environmental:potted_blue_delphinium
+- environmental:potted_pink_delphinium
+- environmental:potted_white_delphinium
+- environmental:potted_purple_delphinium
+- buzzier_bees:potted_buttercup
+- buzzier_bees:potted_white_clover
+- buzzier_bees:potted_pink_clover
+- bayou_blues:potted_cypress_sapling
+- endergetic:potted_poise_bush
+- endergetic:potted_tall_poise_bush
+- upgrade_aquatic:potted_blue_pickerelweed
+- upgrade_aquatic:potted_purple_pickerelweed
+- upgrade_aquatic:potted_white_searocket
+- upgrade_aquatic:potted_pink_searocket
+- upgrade_aquatic:potted_river_sapling
+- immersiveengineering:potted_hemp
+- abundance:potted_jacaranda_sapling
+- abundance:potted_redbud_sapling
+- abundance:potted_flowering_redbud_sapling
+- abundance:potted_sunny_marigold
+- abundance:potted_shady_marigold
+- abundance:potted_saguaro_sprout
+- abundance:potted_chicory
+- abundance:potted_amaranthus
+- abundance:potted_nemophila
+- abundance:potted_yellow_african_daisy
+- abundance:potted_purple_african_daisy
+- atmospheric:potted_rosewood_sapling
+- atmospheric:potted_morado_sapling
+- atmospheric:potted_yucca_sapling
+- atmospheric:potted_kousa_sapling
+- atmospheric:potted_aspen_sapling
+- atmospheric:potted_grimwood_sapling
+- atmospheric:potted_warm_monkey_brush
+- atmospheric:potted_hot_monkey_brush
+- atmospheric:potted_scalding_monkey_brush
+- atmospheric:potted_water_hyacinth
+- atmospheric:potted_yucca_flower
+- atmospheric:potted_barrel_cactus
+- atmospheric:potted_gilia
+- savageandravage:potted_creeper_spores
+- #inspirations:flower_pots
+- autumnity:potted_maple_sapling
+- autumnity:potted_yellow_maple_sapling
+- autumnity:potted_orange_maple_sapling
+- autumnity:potted_red_maple_sapling
+- autumnity:potted_foul_berries
+- autumnity:potted_autumn_crocus
+- quark:potted_beetroot
+- quark:potted_berries
+- quark:potted_blue_blossom_sapling
+- quark:potted_carrot
+- quark:potted_chorus
+- quark:potted_cocoa_bean
+- quark:potted_glowshroom
+- quark:potted_grass
+- quark:potted_large_fern
+- quark:potted_lavender_blossom_sapling
+- quark:potted_lilac
+- quark:potted_melon
+- quark:potted_nether_sprouts
+- quark:potted_nether_wart
+- quark:potted_orange_blossom_sapling
+- quark:potted_peony
+- quark:potted_pink_blossom_sapling
+- quark:potted_potato
+- quark:potted_pumpkin
+- quark:potted_red_blossom_sapling
+- quark:potted_rose
+- quark:potted_sea_pickle
+- quark:potted_sugar_cane
+- quark:potted_sunflower
+- quark:potted_tall_grass
+- quark:potted_twisting_vines
+- quark:potted_vine
+- quark:potted_weeping_vines
+- quark:potted_wheat
+- quark:potted_yellow_blossom_sapling
+- nethers_delight:potted_mimicarnation
+
+#forge:storage_blocks/sugar_cane
+
+#forge:storage_blocks/signalum
+
+#forge:storage_blocks/invar
+
+#computercraft:turtle_always_breakable
+- #minecraft:leaves
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+
+#supplementaries:posts
+- #minecraft:fences
+- #quark:hedges?
+- betterendforge:end_lotus_stem?
+- darkerdepths:petrified_post?
+- darkerdepths:stripped_petrified_post?
+- desolation:charred_fence?
+- forbidden_arcanus:arcane_polished_darkstone_rod?
+- forbidden_arcanus:cherrywood_fence?
+- forbidden_arcanus:edelwood_fence?
+- forbidden_arcanus:mysterywood_fence?
+- mysticalworld:pearl_small_post?
+- mysticalworld:uncanny_mushroom_small_post?
+- terraqueous:pergola_wall?
+- twilightdecor:canopy_post?
+- twilightdecor:darkwood_post?
+- twilightdecor:mangrove_post?
+- twilightdecor:mining_post?
+- twilightdecor:sorting_post?
+- twilightdecor:stripped_canopy_post?
+- twilightdecor:stripped_darkwood_post?
+- twilightdecor:stripped_mangrove_post?
+- twilightdecor:stripped_mining_post?
+- twilightdecor:stripped_sorting_post?
+- twilightdecor:stripped_timewood_post?
+- twilightdecor:stripped_transformation_post?
+- twilightdecor:stripped_twilight_oak_post?
+- twilightdecor:timewood_post?
+- twilightdecor:transformation_post?
+- twilightdecor:twilight_oak_post?
+- #adorn:posts?
+- mysticalworld:pearl_small_post?
+- mysticalworld:uncanny_mushroom_small_post?
+- quark:oak_post?
+- quark:birch_post?
+- quark:spruce_post?
+- quark:acacia_post?
+- quark:dark_oak_post?
+- quark:jungle_post?
+- quark:warped_post?
+- quark:crimson_post?
+- quark:stripped_oak_post?
+- quark:stripped_birch_post?
+- quark:stripped_spruce_post?
+- quark:stripped_acacia_post?
+- quark:stripped_dark_oak_post?
+- quark:stripped_jungle_post?
+- quark:stripped_warped_post?
+- quark:stripped_crimson_post?
+- car:sign_post?
+- mysticalworld:thatch_small_post?
+- mysticalworld:red_mushroom_small_post?
+- mysticalworld:brown_mushroom_small_post?
+- mysticalworld:mushroom_stem_small_post?
+- mysticalworld:mushroom_inside_small_post?
+- mysticalworld:mud_block_small_post?
+- mysticalworld:mud_brick_small_post?
+- mysticalworld:charred_small_post?
+- mysticalworld:terracotta_brick_small_post?
+- mysticalworld:iron_brick_small_post?
+- mysticalworld:soft_stone_small_post?
+- mysticalworld:cracked_stone_small_post?
+- mysticalworld:blackened_stone_small_post?
+- mysticalworld:soft_obsidian_small_post?
+- mysticalworld:amethyst_small_post?
+- mysticalworld:copper_small_post?
+- mysticalworld:lead_small_post?
+- mysticalworld:quicksilver_small_post?
+- mysticalworld:silver_small_post?
+- mysticalworld:tin_small_post?
+- environmental:stripped_willow_post?
+- environmental:willow_post?
+- environmental:stripped_cherry_post?
+- environmental:cherry_post?
+- environmental:stripped_wisteria_post?
+- environmental:wisteria_post?
+- atmospheric:stripped_rosewood_post?
+- atmospheric:rosewood_post?
+- atmospheric:stripped_morado_post?
+- atmospheric:morado_post?
+- atmospheric:stripped_yucca_post?
+- atmospheric:yucca_post?
+- atmospheric:stripped_kousa_post?
+- atmospheric:kousa_post?
+- atmospheric:stripped_aspen_post?
+- atmospheric:aspen_post?
+- atmospheric:stripped_grimwood_post?
+- atmospheric:grimwood_post?
+- autumnity:stripped_maple_post?
+- autumnity:maple_post?
+- upgrade_aquatic:stripped_driftwood_post?
+- upgrade_aquatic:driftwood_post?
+- upgrade_aquatic:stripped_river_post?
+- upgrade_aquatic:river_post?
+- abundance:stripped_jacaranda_post?
+- abundance:jacaranda_post?
+- abundance:stripped_redbud_post?
+- abundance:redbud_post?
+- enhanced_mushrooms:stripped_red_mushroom_post?
+- enhanced_mushrooms:red_mushroom_post?
+- enhanced_mushrooms:stripped_brown_mushroom_post?
+- enhanced_mushrooms:brown_mushroom_post?
+- enhanced_mushrooms:stripped_glowshroom_post?
+- enhanced_mushrooms:glowshroom_post?
+- bayou_blues:stripped_cypress_post?
+- bayou_blues:cypress_post?
+- habitat:stripped_fairy_ring_mushroom_post?
+- habitat:fairy_ring_mushroom_post?
+
+#buzzier_bees:dyed_candles
+- buzzier_bees:white_candle
+- buzzier_bees:orange_candle
+- buzzier_bees:magenta_candle
+- buzzier_bees:light_blue_candle
+- buzzier_bees:yellow_candle
+- buzzier_bees:lime_candle
+- buzzier_bees:pink_candle
+- buzzier_bees:gray_candle
+- buzzier_bees:light_gray_candle
+- buzzier_bees:cyan_candle
+- buzzier_bees:purple_candle
+- buzzier_bees:blue_candle
+- buzzier_bees:brown_candle
+- buzzier_bees:green_candle
+- buzzier_bees:red_candle
+- buzzier_bees:black_candle
+
+#forge:ores/tin
+
+#alexsmobs:seal_digables
+- #minecraft:sand
+- minecraft:gravel
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:clay
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#minecraft:signs
+- #minecraft:standing_signs
+- #minecraft:wall_signs
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#farmersdelight:mushroom_colony_growable_on
+- supplementaries:planter_rich
+- farmersdelight:rich_soil
+
+#minecraft:wither_summon_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#botania:mundane_floating_flowers
+- botania:black_floating_flower
+- botania:blue_floating_flower
+- botania:brown_floating_flower
+- botania:cyan_floating_flower
+- botania:gray_floating_flower
+- botania:green_floating_flower
+- botania:light_blue_floating_flower
+- botania:light_gray_floating_flower
+- botania:lime_floating_flower
+- botania:magenta_floating_flower
+- botania:orange_floating_flower
+- botania:pink_floating_flower
+- botania:purple_floating_flower
+- botania:red_floating_flower
+- botania:white_floating_flower
+- botania:yellow_floating_flower
+
+#alexsmobs:mimic_octopus_spawns
+- #minecraft:sand
+- #forge:gravel
+
+#minecraft:hoglin_repellents
+- minecraft:warped_fungus
+- minecraft:potted_warped_fungus
+- minecraft:nether_portal
+- minecraft:respawn_anchor
+- nethers_delight:warped_fungus_colony
+- nethers_delight:stuffed_hoglin
+
+#tetra:scannable
+- tetra:core_extractor
+- tetra:extractor_pipe
+- tetra:extractor_piston
+- tetra:forged_container
+- tetra:forged_crate
+- tetra:forged_pillar
+- tetra:forged_platform
+- tetra:forged_platform_slab
+- tetra:forged_vent
+- tetra:forged_wall
+- tetra:forged_workbench
+- tetra:hammer_base
+- tetra:hammer_head
+- tetra:transfer_unit
+- minecraft:ancient_debris
+
+#create:fan_transparent
+- create:blaze_burner
+- create:lit_blaze_burner
+- create:sail_frame
+- #minecraft:fences
+- minecraft:iron_bars
+- minecraft:campfire
+- minecraft:soul_campfire
+
+#endergetic:poise_stems
+- endergetic:poise_stem
+- endergetic:stripped_poise_stem
+- endergetic:poise_wood
+- endergetic:stripped_poise_wood
+- endergetic:glowing_poise_stem
+- endergetic:glowing_poise_wood
+
+#botania:mini_flowers
+- botania:agricarnation_chibi
+- botania:bellethorn_chibi
+- botania:bubbell_chibi
+- botania:clayconia_chibi
+- botania:hopperhock_chibi
+- botania:jiyuulia_chibi
+- botania:marimorphosis_chibi
+- botania:rannuncarpus_chibi
+- botania:solegnolia_chibi
+- botania:tangleberrie_chibi
+
+#minecraft:logs/archwood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+
+#forge:storage_blocks/sapphire
+
+#forge:sand/colorless
+- minecraft:sand
+- atmospheric:arid_sand
+
+#endergetic:end_plantable
+- endergetic:eumus
+
+#alexsmobs:komodo_dragon_spawns
+- #minecraft:sand
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#atmospheric:yucca_plantable_on
+- #minecraft:sand
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+
+#computercraft:turtle
+- computercraft:turtle_normal
+- computercraft:turtle_advanced
+
+#alexsmobs:mantis_shrimp_spawns
+- #minecraft:coral_blocks
+
+#enhanced_mushrooms:glowshroom_stems
+- enhanced_mushrooms:glowshroom_stem
+- enhanced_mushrooms:glowshroom_hyphae
+- enhanced_mushrooms:stripped_glowshroom_stem
+- enhanced_mushrooms:stripped_glowshroom_hyphae
+
+#quark:wooden_vertical_slabs
+- environmental:willow_vertical_slab
+- environmental:cherry_vertical_slab
+- environmental:wisteria_vertical_slab
+- enhanced_mushrooms:red_mushroom_vertical_slab
+- enhanced_mushrooms:brown_mushroom_vertical_slab
+- enhanced_mushrooms:glowshroom_vertical_slab
+- bayou_blues:cypress_vertical_slab
+- endergetic:poise_vertical_slab
+- upgrade_aquatic:driftwood_vertical_slab
+- upgrade_aquatic:river_vertical_slab
+- abundance:jacaranda_vertical_slab
+- abundance:redbud_vertical_slab
+- atmospheric:rosewood_vertical_slab
+- atmospheric:morado_vertical_slab
+- atmospheric:yucca_vertical_slab
+- atmospheric:kousa_vertical_slab
+- atmospheric:aspen_vertical_slab
+- atmospheric:grimwood_vertical_slab
+- autumnity:maple_vertical_slab
+
+#nethers_delight:unaffected_by_rich_soul_soil
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+- #farmersdelight:unaffected_by_rich_soil
+
+#inspirations:flower_pots
+- inspirations:potted_cyan
+- inspirations:potted_syringa
+- inspirations:potted_paeonia
+- inspirations:potted_rose
+
+#minecraft:soul_speed_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- quark:soul_sandstone
+- quark:soul_sandstone_slab
+- quark:soul_sandstone_stairs
+- quark:chiseled_soul_sandstone
+- quark:cut_soul_sandstone
+- quark:cut_soul_sandstone_slab
+- quark:smooth_soul_sandstone
+- quark:smooth_soul_sandstone_slab
+- quark:smooth_soul_sandstone_stairs
+- quark:soul_sandstone_bricks
+- quark:soul_sandstone_bricks_slab
+- quark:soul_sandstone_bricks_stairs
+- quark:soul_sandstone_vertical_slab
+- quark:cut_soul_sandstone_vertical_slab
+- quark:smooth_soul_sandstone_vertical_slab
+- quark:soul_sandstone_bricks_vertical_slab
+- quark:soul_sandstone_wall
+- quark:soul_sandstone_bricks_wall
+- nethers_delight:soul_compost
+- nethers_delight:rich_soul_soil
+
+#forge:storage_blocks/charcoal
+- quark:charcoal_block
+
+#forge:sheetmetals/copper
+- immersiveengineering:sheetmetal_copper
+
+#alexsmobs:lobster_spawns
+- #minecraft:sand
+- #forge:gravel
+- minecraft:stone
+- minecraft:water
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- botania:corporea_brick_wall
+- botania:dreamwood_wall
+- botania:livingrock_bricks_wall
+- botania:livingrock_wall
+- botania:livingwood_wall
+- botania:metamorphic_desert_bricks_wall
+- botania:metamorphic_desert_cobblestone_wall
+- botania:metamorphic_forest_bricks_wall
+- botania:metamorphic_forest_cobblestone_wall
+- botania:metamorphic_fungal_bricks_wall
+- botania:metamorphic_fungal_cobblestone_wall
+- botania:metamorphic_mesa_bricks_wall
+- botania:metamorphic_mesa_cobblestone_wall
+- botania:metamorphic_mountain_bricks_wall
+- botania:metamorphic_mountain_cobblestone_wall
+- botania:metamorphic_plains_bricks_wall
+- botania:metamorphic_plains_cobblestone_wall
+- botania:metamorphic_swamp_bricks_wall
+- botania:metamorphic_swamp_cobblestone_wall
+- botania:metamorphic_taiga_bricks_wall
+- botania:metamorphic_taiga_cobblestone_wall
+- botania:mossy_livingrock_bricks_wall
+- environmental:mud_brick_wall
+- environmental:ice_brick_wall
+- environmental:terracotta_brick_wall
+- environmental:white_terracotta_brick_wall
+- environmental:orange_terracotta_brick_wall
+- environmental:magenta_terracotta_brick_wall
+- environmental:light_blue_terracotta_brick_wall
+- environmental:yellow_terracotta_brick_wall
+- environmental:lime_terracotta_brick_wall
+- environmental:pink_terracotta_brick_wall
+- environmental:gray_terracotta_brick_wall
+- environmental:light_gray_terracotta_brick_wall
+- environmental:cyan_terracotta_brick_wall
+- environmental:purple_terracotta_brick_wall
+- environmental:blue_terracotta_brick_wall
+- environmental:brown_terracotta_brick_wall
+- environmental:green_terracotta_brick_wall
+- environmental:red_terracotta_brick_wall
+- environmental:black_terracotta_brick_wall
+- buzzier_bees:honeycomb_brick_wall
+- buzzier_bees:honeycomb_tile_wall
+- cookielicious:chocolate_cookie_tile_wall
+- cookielicious:vanilla_cookie_tile_wall
+- cookielicious:strawberry_cookie_tile_wall
+- cookielicious:honey_cookie_tile_wall
+- cookielicious:sweet_berry_cookie_tile_wall
+- cookielicious:cookie_tile_wall
+- cookielicious:mint_cookie_tile_wall
+- cookielicious:banana_cookie_tile_wall
+- cookielicious:adzuki_cookie_tile_wall
+- cookielicious:cherry_cookie_tile_wall
+- cookielicious:mulberry_cookie_tile_wall
+- cookielicious:maple_cookie_tile_wall
+- cookielicious:gooseberry_jam_cookie_tile_wall
+- #pneumaticcraft:walls
+- #pneumaticcraft:walls
+- endergetic:mystical_obsidian_wall
+- endergetic:eumus_brick_wall
+- neapolitan:chocolate_brick_wall
+- neapolitan:chocolate_tile_wall
+- upgrade_aquatic:kelpy_cobblestone_wall
+- upgrade_aquatic:polar_kelpy_cobblestone_wall
+- upgrade_aquatic:thorny_kelpy_cobblestone_wall
+- upgrade_aquatic:ochre_kelpy_cobblestone_wall
+- upgrade_aquatic:tongue_kelpy_cobblestone_wall
+- upgrade_aquatic:kelpy_stone_brick_wall
+- upgrade_aquatic:polar_kelpy_stone_brick_wall
+- upgrade_aquatic:thorny_kelpy_stone_brick_wall
+- upgrade_aquatic:ochre_kelpy_stone_brick_wall
+- upgrade_aquatic:tongue_kelpy_stone_brick_wall
+- upgrade_aquatic:tooth_wall
+- upgrade_aquatic:tooth_brick_wall
+- upgrade_aquatic:scute_shingle_wall
+- upgrade_aquatic:scute_pavement_wall
+- upgrade_aquatic:coralstone_wall
+- upgrade_aquatic:bubble_coralstone_wall
+- upgrade_aquatic:brain_coralstone_wall
+- upgrade_aquatic:tube_coralstone_wall
+- upgrade_aquatic:horn_coralstone_wall
+- upgrade_aquatic:fire_coralstone_wall
+- upgrade_aquatic:acan_coralstone_wall
+- upgrade_aquatic:finger_coralstone_wall
+- upgrade_aquatic:star_coralstone_wall
+- upgrade_aquatic:moss_coralstone_wall
+- upgrade_aquatic:petal_coralstone_wall
+- upgrade_aquatic:branch_coralstone_wall
+- upgrade_aquatic:rock_coralstone_wall
+- upgrade_aquatic:pillow_coralstone_wall
+- upgrade_aquatic:silk_coralstone_wall
+- upgrade_aquatic:chrome_coralstone_wall
+- upgrade_aquatic:elder_prismarine_coralstone_wall
+- upgrade_aquatic:prismarine_coralstone_wall
+- upgrade_aquatic:dead_coralstone_wall
+- atmospheric:arid_sandstone_wall
+- atmospheric:arid_sandstone_brick_wall
+- atmospheric:red_arid_sandstone_wall
+- atmospheric:red_arid_sandstone_brick_wall
+- atmospheric:ivory_travertine_wall
+- atmospheric:peach_travertine_wall
+- atmospheric:persimmon_travertine_wall
+- atmospheric:saffron_travertine_wall
+- create:granite_cobblestone_wall
+- create:granite_bricks_wall
+- create:fancy_granite_bricks_wall
+- create:paved_granite_wall
+- create:diorite_cobblestone_wall
+- create:diorite_bricks_wall
+- create:fancy_diorite_bricks_wall
+- create:paved_diorite_wall
+- create:andesite_cobblestone_wall
+- create:andesite_bricks_wall
+- create:fancy_andesite_bricks_wall
+- create:paved_andesite_wall
+- create:limestone_cobblestone_wall
+- create:polished_limestone_wall
+- create:limestone_bricks_wall
+- create:fancy_limestone_bricks_wall
+- create:paved_limestone_wall
+- create:weathered_limestone_cobblestone_wall
+- create:polished_weathered_limestone_wall
+- create:weathered_limestone_bricks_wall
+- create:fancy_weathered_limestone_bricks_wall
+- create:paved_weathered_limestone_wall
+- create:dolomite_cobblestone_wall
+- create:polished_dolomite_wall
+- create:dolomite_bricks_wall
+- create:fancy_dolomite_bricks_wall
+- create:paved_dolomite_wall
+- create:gabbro_cobblestone_wall
+- create:polished_gabbro_wall
+- create:gabbro_bricks_wall
+- create:fancy_gabbro_bricks_wall
+- create:paved_gabbro_wall
+- create:scoria_cobblestone_wall
+- create:polished_scoria_wall
+- create:scoria_bricks_wall
+- create:fancy_scoria_bricks_wall
+- create:paved_scoria_wall
+- create:dark_scoria_cobblestone_wall
+- create:polished_dark_scoria_wall
+- create:dark_scoria_bricks_wall
+- create:fancy_dark_scoria_bricks_wall
+- create:paved_dark_scoria_wall
+- savageandravage:gloomy_tile_wall
+- autumnity:snail_shell_brick_wall
+- autumnity:snail_shell_tile_wall
+- quark:andesite_bricks_wall
+- quark:basalt_bricks_wall
+- quark:basalt_wall
+- quark:blackstone_bricks_wall
+- quark:blue_nether_bricks_wall
+- quark:brimstone_bricks_wall
+- quark:brimstone_wall
+- quark:charred_nether_bricks_wall
+- quark:cobbedstone_wall
+- quark:cobbled_deepslate_wall
+- quark:cobblestone_bricks_wall
+- quark:deepslate_bricks_wall
+- quark:deepslate_tiles_wall
+- quark:diorite_bricks_wall
+- quark:dirt_bricks_wall
+- quark:elder_prismarine_wall
+- quark:granite_bricks_wall
+- quark:jasper_bricks_wall
+- quark:jasper_wall
+- quark:limestone_bricks_wall
+- quark:limestone_wall
+- quark:magma_bricks_wall
+- quark:marble_bricks_wall
+- quark:marble_wall
+- quark:mossy_cobblestone_bricks_wall
+- quark:myalite_bricks_wall
+- quark:myalite_wall
+- quark:netherrack_bricks_wall
+- quark:permafrost_bricks_wall
+- quark:permafrost_wall
+- quark:polished_deepslate_wall
+- quark:red_sandstone_bricks_wall
+- quark:sandstone_bricks_wall
+- quark:sandy_bricks_wall
+- quark:slate_bricks_wall
+- quark:slate_wall
+- quark:smooth_basalt_wall
+- quark:snow_bricks_wall
+- quark:soul_sandstone_bricks_wall
+- quark:soul_sandstone_wall
+- quark:twisted_blackstone_bricks_wall
+- quark:vanilla_basalt_bricks_wall
+- quark:weeping_blackstone_bricks_wall
+- charm:refined_obsidian_wall
+
+#minecraft:coral_blocks
+- minecraft:tube_coral_block
+- minecraft:brain_coral_block
+- minecraft:bubble_coral_block
+- minecraft:fire_coral_block
+- minecraft:horn_coral_block
+- upgrade_aquatic:acan_coral_block
+- upgrade_aquatic:finger_coral_block
+- upgrade_aquatic:star_coral_block
+- upgrade_aquatic:moss_coral_block
+- upgrade_aquatic:petal_coral_block
+- upgrade_aquatic:branch_coral_block
+- upgrade_aquatic:rock_coral_block
+- upgrade_aquatic:pillow_coral_block
+- upgrade_aquatic:chrome_coral_block
+- upgrade_aquatic:silk_coral_block
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#alexsmobs:cachalot_whale_breakables
+- #alexsmobs:orca_breakables
+- #minecraft:planks
+- #minecraft:logs
+- #minecraft:wooden_stairs
+- #minecraft:wooden_slabs
+- #minecraft:wool
+
+#forge:storage_blocks/lead
+- immersiveengineering:storage_lead
+
+#pneumaticcraft:wall_lamps_inverted
+- pneumaticcraft:wall_lamp_inverted_white
+- pneumaticcraft:wall_lamp_inverted_orange
+- pneumaticcraft:wall_lamp_inverted_magenta
+- pneumaticcraft:wall_lamp_inverted_light_blue
+- pneumaticcraft:wall_lamp_inverted_yellow
+- pneumaticcraft:wall_lamp_inverted_lime
+- pneumaticcraft:wall_lamp_inverted_pink
+- pneumaticcraft:wall_lamp_inverted_gray
+- pneumaticcraft:wall_lamp_inverted_light_gray
+- pneumaticcraft:wall_lamp_inverted_cyan
+- pneumaticcraft:wall_lamp_inverted_purple
+- pneumaticcraft:wall_lamp_inverted_blue
+- pneumaticcraft:wall_lamp_inverted_brown
+- pneumaticcraft:wall_lamp_inverted_green
+- pneumaticcraft:wall_lamp_inverted_red
+- pneumaticcraft:wall_lamp_inverted_black
+
+#forge:fences/aluminum
+- immersiveengineering:alu_fence
+
+#atmospheric:aspen_logs
+- atmospheric:aspen_log
+- atmospheric:aspen_wood
+- atmospheric:stripped_aspen_log
+- atmospheric:stripped_aspen_wood
+- atmospheric:crustose_log
+- atmospheric:crustose_wood
+- atmospheric:watchful_aspen_log
+- atmospheric:watchful_aspen_wood
+
+#environmental:cherry_logs
+- environmental:cherry_log
+- environmental:cherry_wood
+- environmental:stripped_cherry_log
+- environmental:stripped_cherry_wood
+
+#minecraft:underwater_bonemeals
+- minecraft:seagrass
+- #minecraft:corals
+- #minecraft:wall_corals
+
+#minecraft:impermeable
+- minecraft:glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+- botania:elf_glass
+- botania:mana_glass
+- botania:bifrost
+- botania:bifrost_perm
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+- create:oak_window
+- create:spruce_window
+- create:birch_window
+- create:jungle_window
+- create:acacia_window
+- create:dark_oak_window
+- create:crimson_window
+- create:warped_window
+- create:ornate_iron_window
+- quark:dirty_glass
+- quark:framed_glass
+- quark:black_framed_glass
+- quark:blue_framed_glass
+- quark:brown_framed_glass
+- quark:cyan_framed_glass
+- quark:gray_framed_glass
+- quark:green_framed_glass
+- quark:light_blue_framed_glass
+- quark:light_gray_framed_glass
+- quark:lime_framed_glass
+- quark:magenta_framed_glass
+- quark:orange_framed_glass
+- quark:pink_framed_glass
+- quark:purple_framed_glass
+- quark:red_framed_glass
+- quark:white_framed_glass
+- quark:yellow_framed_glass
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+- atmospheric:arid_sand
+- atmospheric:red_arid_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:sandstone/colorless
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+
+#forge:storage_blocks/terrasteel
+- botania:terrasteel_block
+
+#forge:ores/sulfur
+
+#forge:wg_stone
+- minecraft:granite
+- minecraft:andesite
+- minecraft:stone
+- minecraft:diorite
+- create:limestone
+- create:weathered_limestone
+- create:dolomite
+- create:gabbro
+- create:natural_scoria
+
+#supplementaries:walls
+- #minecraft:walls
+- cfm:acacia_hedge?
+- cfm:birch_hedge?
+- cfm:dark_oak_hedge?
+- cfm:jungle_hedge?
+- cfm:oak_hedge?
+- cfm:spruce_hedge?
+- #ilikewood:posts?
+- ilikewood:acacia_post?
+- ilikewood:oak_post?
+- ilikewood:dark_oak_post?
+- ilikewood:jungle_post?
+- ilikewood:spruce_post?
+- ilikewood:birch_post?
+- ilikewood:crimson_post?
+- ilikewood:warped_post?
+- ilikewood:stripped_acacia_post?
+- ilikewood:stripped_oak_post?
+- ilikewood:stripped_dark_oak_post?
+- ilikewood:stripped_jungle_post?
+- ilikewood:stripped_spruce_post?
+- ilikewood:stripped_birch_post?
+- ilikewood:stripped_crimson_post?
+- ilikewood:stripped_warped_post?
+- #ilikewood:stripped_posts?
+- simplefarming:fruit_log?
+- #cfm:fences/hedge?
+- #lotr:branches?
+- betternether:willow_trunk?
+- mysticalworld:amethyst_wide_post?
+- mysticalworld:blackened_stone_wide_post?
+- mysticalworld:brown_mushroom_wide_post?
+- mysticalworld:charred_wide_post?
+- mysticalworld:copper_wide_post?
+- mysticalworld:cracked_stone_wide_post?
+- mysticalworld:iron_brick_wide_post?
+- mysticalworld:lead_wide_post?
+- mysticalworld:mud_block_wide_post?
+- mysticalworld:mud_brick_wide_post?
+- mysticalworld:mushroom_inside_wide_post?
+- mysticalworld:mushroom_stem_wide_post?
+- mysticalworld:pearl_wide_post?
+- mysticalworld:quicksilver_wide_post?
+- mysticalworld:red_mushroom_wide_post?
+- mysticalworld:silver_wide_post?
+- mysticalworld:soft_obsidian_wide_post?
+- mysticalworld:soft_stone_wide_post?
+- mysticalworld:terracotta_brick_wide_post?
+- mysticalworld:thatch_wide_post?
+- mysticalworld:tin_wide_post?
+- mysticalworld:uncanny_mushroom_wide_post?
+
+#copperpot:partial_fume_inhibitors
+- minecraft:coal_block
+- minecraft:dried_kelp_block
+- minecraft:warped_nylium
+- minecraft:crimson_nylium
+- architects_palette:charcoal_block?
+
+#forge:treated_wood
+- immersiveengineering:treated_wood_horizontal
+- immersiveengineering:treated_wood_vertical
+- immersiveengineering:treated_wood_packaged
+
+#forge:fences/wooden
+- environmental:willow_fence
+- environmental:cherry_fence
+- environmental:wisteria_fence
+- enhanced_mushrooms:red_mushroom_fence
+- enhanced_mushrooms:brown_mushroom_fence
+- enhanced_mushrooms:glowshroom_fence
+- bayou_blues:cypress_fence
+- ars_nouveau:archwood_fence
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- endergetic:poise_fence
+- upgrade_aquatic:driftwood_fence
+- upgrade_aquatic:river_fence
+- abundance:jacaranda_fence
+- abundance:redbud_fence
+- atmospheric:rosewood_fence
+- atmospheric:morado_fence
+- atmospheric:yucca_fence
+- atmospheric:kousa_fence
+- atmospheric:aspen_fence
+- atmospheric:grimwood_fence
+- autumnity:maple_fence
+
+#sereneseasons:summer_crops
+- farmersdelight:tomatoes
+- farmersdelight:rice_crop
+- farmersdelight:rice_upper_crop
+
+#forge:wg_sediment
+- minecraft:sand
+- minecraft:gravel
+
+#supplementaries:vine_support
+- #minecraft:campfires
+
+#forge:storage_blocks
+- supplementaries:flax_block
+- supplementaries:magma_cream_block
+- #forge:storage_blocks/elementium
+- #forge:storage_blocks/manasteel
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/terrasteel
+- #forge:storage_blocks/compressed_iron
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- immersiveengineering:storage_copper
+- immersiveengineering:storage_aluminum
+- immersiveengineering:storage_lead
+- immersiveengineering:storage_silver
+- immersiveengineering:storage_nickel
+- immersiveengineering:storage_uranium
+- immersiveengineering:storage_constantan
+- immersiveengineering:storage_electrum
+- immersiveengineering:storage_steel
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- #forge:storage_blocks/biotite
+- #forge:storage_blocks/charcoal
+
+#minecraft:campfires
+- minecraft:campfire
+- minecraft:soul_campfire
+- endergetic:ender_campfire
+
+#forge:sheetmetals/uranium
+- immersiveengineering:sheetmetal_uranium
+
+#minecraft:infiniburn_nether
+- #minecraft:infiniburn_overworld
+
+#ars_nouveau:an_decorative
+- ars_nouveau:ab_smooth
+- ars_nouveau:ab_clover
+- ars_nouveau:arcane_stone
+- ars_nouveau:arcane_bricks
+- ars_nouveau:ab_mosaic
+- ars_nouveau:ab_herring
+- ars_nouveau:ab_basket
+- ars_nouveau:ab_alternating
+- ars_nouveau:ab_smooth_slab
+- ars_nouveau:sas_basket
+- ars_nouveau:sas_clover
+- ars_nouveau:sas_herring
+- ars_nouveau:sas_mosaic
+- ars_nouveau:sas_alternating
+- ars_nouveau:sas_ashlar
+- ars_nouveau:as_gold_alt
+- ars_nouveau:as_gold_ashlar
+- ars_nouveau:as_gold_basket
+- ars_nouveau:as_gold_clover
+- ars_nouveau:as_gold_herring
+- ars_nouveau:as_gold_mosaic
+- ars_nouveau:as_gold_slab
+- ars_nouveau:as_gold_stone
+- ars_nouveau:ab_smooth_slab
+- ars_nouveau:ab_smooth
+- ars_nouveau:ab_clover
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#atmospheric:grimwood_logs
+- atmospheric:grimwood_log
+- atmospheric:grimwood
+- atmospheric:stripped_grimwood_log
+- atmospheric:stripped_grimwood
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#ars_nouveau:harvest/foliage
+- #minecraft:leaves
+- minecraft:brown_mushroom_block
+- minecraft:red_mushroom_block
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+- minecraft:shroomlight
+- minecraft:vine
+- minecraft:weeping_vines
+- minecraft:twisting_vines
+- minecraft:pumpkin
+- minecraft:melon
+
+#forge:supports_conduit
+- upgrade_aquatic:prismarine_coral_block
+- upgrade_aquatic:prismarine_coral_shower
+- upgrade_aquatic:prismarine_coral_fan
+- upgrade_aquatic:prismarine_coral
+- upgrade_aquatic:elder_prismarine_coral_block
+- upgrade_aquatic:elder_prismarine_coral_shower
+- upgrade_aquatic:elder_prismarine_coral_fan
+- upgrade_aquatic:elder_prismarine_coral
+- upgrade_aquatic:prismarine_rod_bundle
+- minecraft:prismarine_brick_slab
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_slab
+- minecraft:prismarine_stairs
+- minecraft:prismarine_wall
+- minecraft:dark_prismarine_slab
+- minecraft:dark_prismarine_stairs
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- environmental:willow_trapdoor
+- environmental:cherry_trapdoor
+- environmental:wisteria_trapdoor
+- enhanced_mushrooms:red_mushroom_trapdoor
+- enhanced_mushrooms:brown_mushroom_trapdoor
+- enhanced_mushrooms:glowshroom_trapdoor
+- bayou_blues:cypress_trapdoor
+- ars_nouveau:archwood_trapdoor
+- endergetic:poise_trapdoor
+- upgrade_aquatic:driftwood_trapdoor
+- upgrade_aquatic:river_trapdoor
+- abundance:jacaranda_trapdoor
+- abundance:redbud_trapdoor
+- atmospheric:rosewood_trapdoor
+- atmospheric:morado_trapdoor
+- atmospheric:yucca_trapdoor
+- atmospheric:kousa_trapdoor
+- atmospheric:aspen_trapdoor
+- atmospheric:grimwood_trapdoor
+- #inspirations:carpeted_trapdoors
+- autumnity:maple_trapdoor
+
+#create:valve_handles
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#tetra:nailed
+- #minecraft:banners
+- #minecraft:beds
+- #minecraft:planks
+- #minecraft:rails
+- #minecraft:signs
+- #minecraft:wooden_buttons
+- #minecraft:wooden_doors
+- #minecraft:wooden_fences
+- #minecraft:wooden_pressure_plates
+- #minecraft:wooden_slabs
+- #minecraft:wooden_stairs
+- #minecraft:wooden_trapdoors
+- #forge:fence_gates/wooden
+- #forge:fences/wooden
+- #forge:chests/wooden
+- tetra:basic_workbench
+- minecraft:bookshelf
+- minecraft:trapped_chest
+- minecraft:ladder
+- minecraft:jukebox
+- minecraft:note_block
+- minecraft:daylight_detector
+- minecraft:scaffolding
+- minecraft:crafting_table
+- minecraft:loom
+- minecraft:barrel
+- minecraft:smoker
+- minecraft:blast_furnace
+- minecraft:cartography_table
+- minecraft:fletching_table
+- minecraft:grindstone
+- minecraft:lectern
+- minecraft:smithing_table
+- minecraft:stonecutter
+- minecraft:bell
+- minecraft:composter
+- minecraft:lantern
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#botania:special_floating_flowers
+- botania:floating_agricarnation
+- botania:floating_agricarnation_chibi
+- botania:floating_bellethorn
+- botania:floating_bellethorn_chibi
+- botania:floating_bergamute
+- botania:floating_bubbell
+- botania:floating_bubbell_chibi
+- botania:floating_clayconia
+- botania:floating_clayconia_chibi
+- botania:floating_daffomill
+- botania:floating_dandelifeon
+- botania:floating_dreadthorn
+- botania:floating_endoflame
+- botania:floating_entropinnyum
+- botania:floating_exoflame
+- botania:floating_fallen_kanade
+- botania:floating_gourmaryllis
+- botania:floating_heisei_dream
+- botania:floating_hopperhock
+- botania:floating_hopperhock_chibi
+- botania:floating_hyacidus
+- botania:floating_hydroangeas
+- botania:floating_jaded_amaranthus
+- botania:floating_jiyuulia
+- botania:floating_jiyuulia_chibi
+- botania:floating_kekimurus
+- botania:floating_labellia
+- botania:floating_loonium
+- botania:floating_manastar
+- botania:floating_marimorphosis
+- botania:floating_marimorphosis_chibi
+- botania:floating_medumone
+- botania:floating_munchdew
+- botania:floating_narslimmus
+- botania:floating_orechid
+- botania:floating_orechid_ignem
+- botania:floating_pollidisiac
+- botania:floating_pure_daisy
+- botania:floating_rafflowsia
+- botania:floating_rannuncarpus
+- botania:floating_rannuncarpus_chibi
+- botania:floating_rosa_arcana
+- botania:floating_shulk_me_not
+- botania:floating_solegnolia
+- botania:floating_solegnolia_chibi
+- botania:floating_spectranthemum
+- botania:floating_spectrolus
+- botania:floating_tangleberrie
+- botania:floating_tangleberrie_chibi
+- botania:floating_thermalily
+- botania:floating_tigerseye
+- botania:floating_vinculotus
+
+#jade:pick
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#charm:chests/trapped
+- minecraft:trapped_chest
+- charm:acacia_trapped_chest
+- charm:birch_trapped_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_trapped_chest
+- charm:oak_trapped_chest
+- charm:spruce_trapped_chest
+- charm:warped_trapped_chest
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- botania:black_pavement_stairs
+- botania:blaze_quartz_stairs
+- botania:blue_pavement_stairs
+- botania:corporea_brick_stairs
+- botania:corporea_stairs
+- botania:dark_quartz_stairs
+- botania:dreamwood_planks_stairs
+- botania:dreamwood_stairs
+- botania:elf_quartz_stairs
+- botania:green_pavement_stairs
+- botania:lavender_quartz_stairs
+- botania:livingrock_bricks_stairs
+- botania:livingrock_stairs
+- botania:livingwood_planks_stairs
+- botania:livingwood_stairs
+- botania:mana_quartz_stairs
+- botania:metamorphic_desert_bricks_stairs
+- botania:metamorphic_desert_cobblestone_stairs
+- botania:metamorphic_desert_stone_stairs
+- botania:metamorphic_forest_bricks_stairs
+- botania:metamorphic_forest_cobblestone_stairs
+- botania:metamorphic_forest_stone_stairs
+- botania:metamorphic_fungal_bricks_stairs
+- botania:metamorphic_fungal_cobblestone_stairs
+- botania:metamorphic_fungal_stone_stairs
+- botania:metamorphic_mesa_bricks_stairs
+- botania:metamorphic_mesa_cobblestone_stairs
+- botania:metamorphic_mesa_stone_stairs
+- botania:metamorphic_mountain_bricks_stairs
+- botania:metamorphic_mountain_cobblestone_stairs
+- botania:metamorphic_mountain_stone_stairs
+- botania:metamorphic_plains_bricks_stairs
+- botania:metamorphic_plains_cobblestone_stairs
+- botania:metamorphic_plains_stone_stairs
+- botania:metamorphic_swamp_bricks_stairs
+- botania:metamorphic_swamp_cobblestone_stairs
+- botania:metamorphic_swamp_stone_stairs
+- botania:metamorphic_taiga_bricks_stairs
+- botania:metamorphic_taiga_cobblestone_stairs
+- botania:metamorphic_taiga_stone_stairs
+- botania:mossy_livingrock_bricks_stairs
+- botania:red_pavement_stairs
+- botania:red_quartz_stairs
+- botania:shimmerrock_stairs
+- botania:shimmerwood_planks_stairs
+- botania:sunny_quartz_stairs
+- botania:white_pavement_stairs
+- botania:yellow_pavement_stairs
+- environmental:grass_thatch_stairs
+- environmental:cattail_thatch_stairs
+- environmental:duckweed_thatch_stairs
+- environmental:mud_brick_stairs
+- environmental:ice_brick_stairs
+- environmental:terracotta_brick_stairs
+- environmental:white_terracotta_brick_stairs
+- environmental:orange_terracotta_brick_stairs
+- environmental:magenta_terracotta_brick_stairs
+- environmental:light_blue_terracotta_brick_stairs
+- environmental:yellow_terracotta_brick_stairs
+- environmental:lime_terracotta_brick_stairs
+- environmental:pink_terracotta_brick_stairs
+- environmental:gray_terracotta_brick_stairs
+- environmental:light_gray_terracotta_brick_stairs
+- environmental:cyan_terracotta_brick_stairs
+- environmental:purple_terracotta_brick_stairs
+- environmental:blue_terracotta_brick_stairs
+- environmental:brown_terracotta_brick_stairs
+- environmental:green_terracotta_brick_stairs
+- environmental:red_terracotta_brick_stairs
+- environmental:black_terracotta_brick_stairs
+- buzzier_bees:honeycomb_brick_stairs
+- buzzier_bees:honeycomb_tile_stairs
+- cookielicious:chocolate_cookie_tile_stairs
+- cookielicious:vanilla_cookie_tile_stairs
+- cookielicious:strawberry_cookie_tile_stairs
+- cookielicious:honey_cookie_tile_stairs
+- cookielicious:sweet_berry_cookie_tile_stairs
+- cookielicious:cookie_tile_stairs
+- cookielicious:mint_cookie_tile_stairs
+- cookielicious:banana_cookie_tile_stairs
+- cookielicious:adzuki_cookie_tile_stairs
+- cookielicious:cherry_cookie_tile_stairs
+- cookielicious:mulberry_cookie_tile_stairs
+- cookielicious:maple_cookie_tile_stairs
+- cookielicious:gooseberry_jam_cookie_tile_stairs
+- #pneumaticcraft:stairs
+- #pneumaticcraft:stairs
+- ars_nouveau:archwood_stairs
+- endergetic:eumus_brick_stairs
+- neapolitan:chocolate_brick_stairs
+- neapolitan:chocolate_tile_stairs
+- upgrade_aquatic:kelpy_cobblestone_stairs
+- upgrade_aquatic:polar_kelpy_cobblestone_stairs
+- upgrade_aquatic:thorny_kelpy_cobblestone_stairs
+- upgrade_aquatic:ochre_kelpy_cobblestone_stairs
+- upgrade_aquatic:tongue_kelpy_cobblestone_stairs
+- upgrade_aquatic:kelpy_stone_brick_stairs
+- upgrade_aquatic:polar_kelpy_stone_brick_stairs
+- upgrade_aquatic:thorny_kelpy_stone_brick_stairs
+- upgrade_aquatic:ochre_kelpy_stone_brick_stairs
+- upgrade_aquatic:tongue_kelpy_stone_brick_stairs
+- upgrade_aquatic:tooth_stairs
+- upgrade_aquatic:tooth_brick_stairs
+- upgrade_aquatic:scute_shingle_stairs
+- upgrade_aquatic:scute_pavement_stairs
+- upgrade_aquatic:coralstone_stairs
+- upgrade_aquatic:bubble_coralstone_stairs
+- upgrade_aquatic:brain_coralstone_stairs
+- upgrade_aquatic:tube_coralstone_stairs
+- upgrade_aquatic:horn_coralstone_stairs
+- upgrade_aquatic:fire_coralstone_stairs
+- upgrade_aquatic:acan_coralstone_stairs
+- upgrade_aquatic:finger_coralstone_stairs
+- upgrade_aquatic:star_coralstone_stairs
+- upgrade_aquatic:moss_coralstone_stairs
+- upgrade_aquatic:petal_coralstone_stairs
+- upgrade_aquatic:branch_coralstone_stairs
+- upgrade_aquatic:rock_coralstone_stairs
+- upgrade_aquatic:pillow_coralstone_stairs
+- upgrade_aquatic:silk_coralstone_stairs
+- upgrade_aquatic:chrome_coralstone_stairs
+- upgrade_aquatic:elder_prismarine_coralstone_stairs
+- upgrade_aquatic:prismarine_coralstone_stairs
+- upgrade_aquatic:dead_coralstone_stairs
+- upgrade_aquatic:beachgrass_thatch_stairs
+- atmospheric:arid_sandstone_stairs
+- atmospheric:smooth_arid_sandstone_stairs
+- atmospheric:arid_sandstone_brick_stairs
+- atmospheric:red_arid_sandstone_stairs
+- atmospheric:smooth_red_arid_sandstone_stairs
+- atmospheric:red_arid_sandstone_brick_stairs
+- atmospheric:ivory_travertine_stairs
+- atmospheric:peach_travertine_stairs
+- atmospheric:persimmon_travertine_stairs
+- atmospheric:saffron_travertine_stairs
+- create:granite_cobblestone_stairs
+- create:granite_bricks_stairs
+- create:fancy_granite_bricks_stairs
+- create:paved_granite_stairs
+- create:diorite_cobblestone_stairs
+- create:diorite_bricks_stairs
+- create:fancy_diorite_bricks_stairs
+- create:paved_diorite_stairs
+- create:andesite_cobblestone_stairs
+- create:andesite_bricks_stairs
+- create:fancy_andesite_bricks_stairs
+- create:paved_andesite_stairs
+- create:limestone_cobblestone_stairs
+- create:polished_limestone_stairs
+- create:limestone_bricks_stairs
+- create:fancy_limestone_bricks_stairs
+- create:paved_limestone_stairs
+- create:weathered_limestone_cobblestone_stairs
+- create:polished_weathered_limestone_stairs
+- create:weathered_limestone_bricks_stairs
+- create:fancy_weathered_limestone_bricks_stairs
+- create:paved_weathered_limestone_stairs
+- create:dolomite_cobblestone_stairs
+- create:polished_dolomite_stairs
+- create:dolomite_bricks_stairs
+- create:fancy_dolomite_bricks_stairs
+- create:paved_dolomite_stairs
+- create:gabbro_cobblestone_stairs
+- create:polished_gabbro_stairs
+- create:gabbro_bricks_stairs
+- create:fancy_gabbro_bricks_stairs
+- create:paved_gabbro_stairs
+- create:scoria_cobblestone_stairs
+- create:polished_scoria_stairs
+- create:scoria_bricks_stairs
+- create:fancy_scoria_bricks_stairs
+- create:paved_scoria_stairs
+- create:dark_scoria_cobblestone_stairs
+- create:polished_dark_scoria_stairs
+- create:dark_scoria_bricks_stairs
+- create:fancy_dark_scoria_bricks_stairs
+- create:paved_dark_scoria_stairs
+- savageandravage:gloomy_tile_stairs
+- savageandravage:blast_proof_stairs
+- autumnity:maple_stairs
+- quark:andesite_bricks_stairs
+- quark:basalt_bricks_stairs
+- quark:basalt_stairs
+- quark:biotite_block_stairs
+- quark:blackstone_bricks_stairs
+- quark:black_shingles_stairs
+- quark:black_stained_planks_stairs
+- quark:blue_nether_bricks_stairs
+- quark:blue_shingles_stairs
+- quark:blue_stained_planks_stairs
+- quark:brimstone_bricks_stairs
+- quark:brimstone_stairs
+- quark:brown_shingles_stairs
+- quark:brown_stained_planks_stairs
+- quark:charred_nether_bricks_stairs
+- quark:cobbedstone_stairs
+- quark:cobbled_deepslate_stairs
+- quark:cobblestone_bricks_stairs
+- quark:cyan_shingles_stairs
+- quark:cyan_stained_planks_stairs
+- quark:dark_elder_prismarine_stairs
+- quark:deepslate_bricks_stairs
+- quark:deepslate_tiles_stairs
+- quark:diorite_bricks_stairs
+- quark:dirt_bricks_stairs
+- quark:duskbound_block_stairs
+- quark:elder_prismarine_bricks_stairs
+- quark:elder_prismarine_stairs
+- quark:granite_bricks_stairs
+- quark:gray_shingles_stairs
+- quark:gray_stained_planks_stairs
+- quark:green_shingles_stairs
+- quark:green_stained_planks_stairs
+- quark:iron_plate_stairs
+- quark:jasper_bricks_stairs
+- quark:jasper_stairs
+- quark:light_blue_shingles_stairs
+- quark:light_blue_stained_planks_stairs
+- quark:light_gray_shingles_stairs
+- quark:light_gray_stained_planks_stairs
+- quark:limestone_bricks_stairs
+- quark:limestone_stairs
+- quark:lime_shingles_stairs
+- quark:lime_stained_planks_stairs
+- quark:magenta_shingles_stairs
+- quark:magenta_stained_planks_stairs
+- quark:magma_bricks_stairs
+- quark:marble_bricks_stairs
+- quark:marble_stairs
+- quark:midori_block_stairs
+- quark:mossy_cobblestone_bricks_stairs
+- quark:myalite_bricks_stairs
+- quark:myalite_stairs
+- quark:netherrack_bricks_stairs
+- quark:orange_shingles_stairs
+- quark:orange_stained_planks_stairs
+- quark:permafrost_bricks_stairs
+- quark:permafrost_stairs
+- quark:pink_shingles_stairs
+- quark:pink_stained_planks_stairs
+- quark:polished_basalt_stairs
+- quark:polished_deepslate_stairs
+- quark:polished_jasper_stairs
+- quark:polished_limestone_stairs
+- quark:polished_marble_stairs
+- quark:polished_myalite_stairs
+- quark:polished_slate_stairs
+- quark:purple_shingles_stairs
+- quark:purple_stained_planks_stairs
+- quark:red_sandstone_bricks_stairs
+- quark:red_shingles_stairs
+- quark:red_stained_planks_stairs
+- quark:rusty_iron_plate_stairs
+- quark:sandstone_bricks_stairs
+- quark:sandy_bricks_stairs
+- quark:shingles_stairs
+- quark:slate_bricks_stairs
+- quark:slate_stairs
+- quark:smooth_basalt_stairs
+- quark:smooth_biotite_stairs
+- quark:smooth_soul_sandstone_stairs
+- quark:snow_bricks_stairs
+- quark:soul_sandstone_bricks_stairs
+- quark:soul_sandstone_stairs
+- quark:thatch_stairs
+- quark:turf_stairs
+- quark:twisted_blackstone_bricks_stairs
+- quark:vanilla_basalt_bricks_stairs
+- quark:weeping_blackstone_bricks_stairs
+- quark:white_shingles_stairs
+- quark:white_stained_planks_stairs
+- quark:yellow_shingles_stairs
+- quark:yellow_stained_planks_stairs
+- charm:refined_obsidian_stairs
+
+#alexsmobs:grizzly_beehive
+- #minecraft:beehives
+
+#forge:logs/archwood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_purple_archwood_wood
+
+#quark:underground_biome_replaceable
+- minecraft:stone
+- minecraft:netherrack
+- minecraft:end_stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- quark:basalt
+- quark:marble
+- quark:limestone
+- quark:jasper
+- quark:slate
+
+#sereneseasons:unbreakable_infertile_crops
+- farmersdelight:onions
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+
+#forge:ores/cinnabar
+
+#forge:sandstone/red
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#inspirations:mulch
+- inspirations:plain_mulch
+- inspirations:brown_mulch
+- inspirations:red_mulch
+- inspirations:black_mulch
+- inspirations:blue_mulch
+
+#forge:treated_wood_slab
+- immersiveengineering:slab_treated_wood_horizontal
+- immersiveengineering:slab_treated_wood_vertical
+- immersiveengineering:slab_treated_wood_packaged
+
+#pneumaticcraft:walls
+- pneumaticcraft:reinforced_brick_wall
+- pneumaticcraft:compressed_brick_wall
+
+#alexsmobs:crocodile_spawns
+- #minecraft:sand
+- #forge:gravel
+- #forge:dirt
+- minecraft:hay_block
+
+#minecraft:valid_spawn
+- minecraft:grass_block
+- minecraft:podzol
+
+#minecraft:mushroom_grow_block
+- minecraft:mycelium
+- minecraft:podzol
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+- supplementaries:planter
+- supplementaries:planter_rich?
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- quark:glowcelium
+
+#quark:wraith_spawnable
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- environmental:willow_door
+- environmental:cherry_door
+- environmental:wisteria_door
+- enhanced_mushrooms:red_mushroom_door
+- enhanced_mushrooms:brown_mushroom_door
+- enhanced_mushrooms:glowshroom_door
+- bayou_blues:cypress_door
+- ars_nouveau:archwood_door
+- endergetic:poise_door
+- upgrade_aquatic:driftwood_door
+- upgrade_aquatic:river_door
+- abundance:jacaranda_door
+- abundance:redbud_door
+- atmospheric:rosewood_door
+- atmospheric:morado_door
+- atmospheric:yucca_door
+- atmospheric:kousa_door
+- atmospheric:aspen_door
+- atmospheric:grimwood_door
+- inspirations:glass_door
+- autumnity:maple_door
+
+#autumnity:maple_logs
+- autumnity:maple_log
+- autumnity:maple_wood
+- autumnity:stripped_maple_log
+- autumnity:stripped_maple_wood
+- autumnity:sappy_maple_log
+- autumnity:sappy_maple_wood
+
+#sereneseasons:autumn_crops
+- farmersdelight:cabbages
+- farmersdelight:onions
+- farmersdelight:rice_crop
+- farmersdelight:rice_upper_crop
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#quark:slime_blocks
+- minecraft:slime_block
+- quark:red_slime_block
+- quark:blue_slime_block
+- quark:cyan_slime_block
+- quark:magenta_slime_block
+- quark:yellow_slime_block
+
+#minecraft:fences/wooden
+- ars_nouveau:archwood_fence
+- ars_nouveau:archwood_fence
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+
+#computercraft:turtle_sword_harvestable
+- #minecraft:wool
+- minecraft:cobweb
+
+#abundance:jacaranda_logs
+- abundance:jacaranda_log
+- abundance:jacaranda_wood
+- abundance:stripped_jacaranda_log
+- abundance:stripped_jacaranda_wood
+
+#quark:vertical_slab
+- cookielicious:chocolate_cookie_tile_vertical_slab
+- cookielicious:honey_cookie_tile_vertical_slab
+- cookielicious:strawberry_cookie_tile_vertical_slab
+- cookielicious:sweet_berry_cookie_tile_vertical_slab
+- cookielicious:vanilla_cookie_tile_vertical_slab
+- cookielicious:cookie_tile_vertical_slab
+- cookielicious:mint_cookie_tile_vertical_slab
+- cookielicious:banana_cookie_tile_vertical_slab
+- cookielicious:adzuki_cookie_tile_vertical_slab
+- cookielicious:cherry_cookie_tile_vertical_slab
+- cookielicious:mulberry_cookie_tile_vertical_slab
+- cookielicious:maple_cookie_tile_vertical_slab
+- cookielicious:gooseberry_jam_cookie_tile_vertical_slab
+- quark:acacia_vertical_slab
+- quark:andesite_bricks_vertical_slab
+- quark:andesite_vertical_slab
+- quark:basalt_bricks_vertical_slab
+- quark:basalt_vertical_slab
+- quark:biotite_block_vertical_slab
+- quark:birch_vertical_slab
+- quark:blackstone_bricks_vertical_slab
+- quark:blackstone_vertical_slab
+- quark:black_shingles_vertical_slab
+- quark:black_stained_planks_vertical_slab
+- quark:blue_nether_bricks_vertical_slab
+- quark:blue_shingles_vertical_slab
+- quark:blue_stained_planks_vertical_slab
+- quark:brick_vertical_slab
+- quark:brimstone_bricks_vertical_slab
+- quark:brimstone_vertical_slab
+- quark:brown_shingles_vertical_slab
+- quark:brown_stained_planks_vertical_slab
+- quark:charred_nether_bricks_vertical_slab
+- quark:cobbedstone_vertical_slab
+- quark:cobbled_deepslate_vertical_slab
+- quark:cobblestone_bricks_vertical_slab
+- quark:cobblestone_vertical_slab
+- quark:crimson_vertical_slab
+- quark:cut_red_sandstone_vertical_slab
+- quark:cut_sandstone_vertical_slab
+- quark:cut_soul_sandstone_vertical_slab
+- quark:cyan_shingles_vertical_slab
+- quark:cyan_stained_planks_vertical_slab
+- quark:dark_elder_prismarine_vertical_slab
+- quark:dark_oak_vertical_slab
+- quark:dark_prismarine_vertical_slab
+- quark:deepslate_bricks_vertical_slab
+- quark:deepslate_tiles_vertical_slab
+- quark:diorite_bricks_vertical_slab
+- quark:diorite_vertical_slab
+- quark:dirt_bricks_vertical_slab
+- quark:duskbound_block_vertical_slab
+- quark:elder_prismarine_bricks_vertical_slab
+- quark:elder_prismarine_vertical_slab
+- quark:end_stone_brick_vertical_slab
+- quark:granite_bricks_vertical_slab
+- quark:granite_vertical_slab
+- quark:gray_shingles_vertical_slab
+- quark:gray_stained_planks_vertical_slab
+- quark:green_shingles_vertical_slab
+- quark:green_stained_planks_vertical_slab
+- quark:iron_plate_vertical_slab
+- quark:jasper_bricks_vertical_slab
+- quark:jasper_vertical_slab
+- quark:jungle_vertical_slab
+- quark:light_blue_shingles_vertical_slab
+- quark:light_blue_stained_planks_vertical_slab
+- quark:light_gray_shingles_vertical_slab
+- quark:light_gray_stained_planks_vertical_slab
+- quark:limestone_bricks_vertical_slab
+- quark:limestone_vertical_slab
+- quark:lime_shingles_vertical_slab
+- quark:lime_stained_planks_vertical_slab
+- quark:magenta_shingles_vertical_slab
+- quark:magenta_stained_planks_vertical_slab
+- quark:magma_bricks_vertical_slab
+- quark:marble_bricks_vertical_slab
+- quark:marble_vertical_slab
+- quark:midori_block_vertical_slab
+- quark:mossy_cobblestone_bricks_vertical_slab
+- quark:mossy_cobblestone_vertical_slab
+- quark:mossy_stone_brick_vertical_slab
+- quark:myalite_bricks_vertical_slab
+- quark:myalite_vertical_slab
+- quark:netherrack_bricks_vertical_slab
+- quark:nether_brick_vertical_slab
+- quark:oak_vertical_slab
+- quark:orange_shingles_vertical_slab
+- quark:orange_stained_planks_vertical_slab
+- quark:permafrost_bricks_vertical_slab
+- quark:permafrost_vertical_slab
+- quark:pink_shingles_vertical_slab
+- quark:pink_stained_planks_vertical_slab
+- quark:polished_andesite_vertical_slab
+- quark:polished_basalt_vertical_slab
+- quark:polished_blackstone_brick_vertical_slab
+- quark:polished_blackstone_vertical_slab
+- quark:polished_deepslate_vertical_slab
+- quark:polished_diorite_vertical_slab
+- quark:polished_granite_vertical_slab
+- quark:polished_jasper_vertical_slab
+- quark:polished_limestone_vertical_slab
+- quark:polished_marble_vertical_slab
+- quark:polished_myalite_vertical_slab
+- quark:polished_slate_vertical_slab
+- quark:prismarine_brick_vertical_slab
+- quark:prismarine_vertical_slab
+- quark:purple_shingles_vertical_slab
+- quark:purple_stained_planks_vertical_slab
+- quark:purpur_vertical_slab
+- quark:quartz_vertical_slab
+- quark:red_nether_brick_vertical_slab
+- quark:red_sandstone_bricks_vertical_slab
+- quark:red_sandstone_vertical_slab
+- quark:red_shingles_vertical_slab
+- quark:red_stained_planks_vertical_slab
+- quark:rusty_iron_plate_vertical_slab
+- quark:sandstone_bricks_vertical_slab
+- quark:sandstone_vertical_slab
+- quark:sandy_bricks_vertical_slab
+- quark:shingles_vertical_slab
+- quark:slate_bricks_vertical_slab
+- quark:slate_vertical_slab
+- quark:smooth_basalt_vertical_slab
+- quark:smooth_biotite_vertical_slab
+- quark:smooth_quartz_vertical_slab
+- quark:smooth_red_sandstone_vertical_slab
+- quark:smooth_sandstone_vertical_slab
+- quark:smooth_soul_sandstone_vertical_slab
+- quark:smooth_stone_vertical_slab
+- quark:snow_bricks_vertical_slab
+- quark:soul_sandstone_bricks_vertical_slab
+- quark:soul_sandstone_vertical_slab
+- quark:spruce_vertical_slab
+- quark:stone_brick_vertical_slab
+- quark:stone_vertical_slab
+- quark:thatch_vertical_slab
+- quark:turf_vertical_slab
+- quark:twisted_blackstone_bricks_vertical_slab
+- quark:vanilla_basalt_bricks_vertical_slab
+- quark:warped_vertical_slab
+- quark:weeping_blackstone_bricks_vertical_slab
+- quark:white_shingles_vertical_slab
+- quark:white_stained_planks_vertical_slab
+- quark:yellow_shingles_vertical_slab
+- quark:yellow_stained_planks_vertical_slab
+
+#quark:hedges
+- fruitful:budding_oak_hedge
+- fruitful:flowering_oak_hedge
+- fruitful:blossoming_oak_hedge
+- fruitful:apple_oak_hedge
+- environmental:willow_hedge
+- environmental:cherry_hedge
+- environmental:pink_wisteria_hedge
+- environmental:purple_wisteria_hedge
+- environmental:blue_wisteria_hedge
+- environmental:white_wisteria_hedge
+- bayou_blues:cypress_hedge
+- upgrade_aquatic:river_hedge
+- abundance:jacaranda_hedge
+- abundance:budding_jacaranda_hedge
+- abundance:flowering_jacaranda_hedge
+- abundance:redbud_hedge
+- abundance:budding_redbud_hedge
+- abundance:flowering_redbud_hedge
+- atmospheric:rosewood_hedge
+- atmospheric:morado_hedge
+- atmospheric:flowering_morado_hedge
+- atmospheric:yucca_hedge
+- atmospheric:kousa_hedge
+- atmospheric:aspen_hedge
+- atmospheric:grimwood_hedge
+- autumnity:maple_hedge
+- autumnity:red_maple_hedge
+- autumnity:orange_maple_hedge
+- autumnity:yellow_maple_hedge
+- quark:oak_hedge
+- quark:birch_hedge
+- quark:spruce_hedge
+- quark:jungle_hedge
+- quark:acacia_hedge
+- quark:dark_oak_hedge
+- quark:blue_blossom_hedge
+- quark:lavender_blossom_hedge
+- quark:orange_blossom_hedge
+- quark:pink_blossom_hedge
+- quark:yellow_blossom_hedge
+- quark:red_blossom_hedge
+
+#charm:immovable_by_pistons
+- charm:refined_obsidian
+- charm:refined_obsidian_slab
+- charm:refined_obsidian_stairs
+- charm:refined_obsidian_wall
+
+#alexsmobs:gorilla_breakables
+- #minecraft:leaves
+- minecraft:bamboo
+
+#forge:storage_blocks/ruby
+
+#forge:storage_blocks/compressed_iron
+- pneumaticcraft:compressed_iron_block
+
+#minecraft:beacon_base_blocks
+- minecraft:netherite_block
+- minecraft:emerald_block
+- minecraft:diamond_block
+- minecraft:gold_block
+- minecraft:iron_block
+- botania:manasteel_block
+- botania:terrasteel_block
+- botania:elementium_block
+- botania:mana_diamond_block
+- botania:dragonstone_block
+- create:copper_block
+- create:zinc_block
+- create:brass_block
+- quark:golden_apple_crate
+
+#alexsmobs:orca_breakables
+- minecraft:ice
+- minecraft:frosted_ice
+- minecraft:lily_pad
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#forge:storage_blocks/enderium
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#minecraft:wall_corals
+- minecraft:tube_coral_wall_fan
+- minecraft:brain_coral_wall_fan
+- minecraft:bubble_coral_wall_fan
+- minecraft:fire_coral_wall_fan
+- minecraft:horn_coral_wall_fan
+- upgrade_aquatic:acan_coral_wall_fan
+- upgrade_aquatic:finger_coral_wall_fan
+- upgrade_aquatic:star_coral_wall_fan
+- upgrade_aquatic:moss_coral_wall_fan
+- upgrade_aquatic:petal_coral_wall_fan
+- upgrade_aquatic:branch_coral_wall_fan
+- upgrade_aquatic:rock_coral_wall_fan
+- upgrade_aquatic:pillow_coral_wall_fan
+- upgrade_aquatic:chrome_coral_wall_fan
+- upgrade_aquatic:silk_coral_wall_fan
+
+#forge:sheetmetals/lead
+- immersiveengineering:sheetmetal_lead
+
+#thermal:rockwool
+
+#forge:storage_blocks/tar
+
+#alexsmobs:elephant_foodblocks
+- #minecraft:leaves
+- minecraft:hay_block
+- minecraft:melon
+- minecraft:hay_block
+- minecraft:sweet_berry_bush
+
+#forge:storage_blocks/silver
+- immersiveengineering:storage_silver
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#forge:pumpkins/carved
+- minecraft:carved_pumpkin
+
+#botania:mystical_flowers
+- botania:black_mystical_flower
+- botania:blue_mystical_flower
+- botania:brown_mystical_flower
+- botania:cyan_mystical_flower
+- botania:gray_mystical_flower
+- botania:green_mystical_flower
+- botania:light_blue_mystical_flower
+- botania:light_gray_mystical_flower
+- botania:lime_mystical_flower
+- botania:magenta_mystical_flower
+- botania:orange_mystical_flower
+- botania:pink_mystical_flower
+- botania:purple_mystical_flower
+- botania:red_mystical_flower
+- botania:white_mystical_flower
+- botania:yellow_mystical_flower
+
+#pneumaticcraft:fluid_tanks
+- pneumaticcraft:small_tank
+- pneumaticcraft:medium_tank
+- pneumaticcraft:large_tank
+
+#minecraft:piglin_repellents
+- minecraft:soul_fire
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_wall_torch
+- minecraft:soul_campfire
+- supplementaries:sconce_soul
+- supplementaries:sconce_wall_soul
+- buzzier_bees:soul_candle
+- inspirations:wall_soul_torch_lever
+- inspirations:soul_torch_lever
+- autumnity:soul_jack_o_lantern
+- autumnity:large_soul_jack_o_lantern_slice
+- charm:gold_soul_lantern
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#charm:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+- charm:acacia_chest
+- charm:acacia_trapped_chest
+- charm:birch_chest
+- charm:birch_trapped_chest
+- charm:crimson_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_chest
+- charm:jungle_trapped_chest
+- charm:oak_chest
+- charm:oak_trapped_chest
+- charm:spruce_chest
+- charm:spruce_trapped_chest
+- charm:warped_chest
+- charm:warped_trapped_chest
+
+#minecraft:portals
+- minecraft:nether_portal
+- minecraft:end_portal
+- minecraft:end_gateway
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- environmental:willow_chest
+- environmental:willow_trapped_chest
+- environmental:cherry_chest
+- environmental:cherry_trapped_chest
+- environmental:wisteria_chest
+- environmental:wisteria_trapped_chest
+- enhanced_mushrooms:brown_mushroom_chest
+- enhanced_mushrooms:brown_mushroom_trapped_chest
+- enhanced_mushrooms:glowshroom_chest
+- enhanced_mushrooms:glowshroom_trapped_chest
+- quark:mushroom_chest?
+- quark:mushroom_trapped_chest?
+- bayou_blues:cypress_chest
+- bayou_blues:cypress_trapped_chest
+- minecraft:chest
+- minecraft:trapped_chest
+- endergetic:poise_chest
+- endergetic:poise_trapped_chest
+- upgrade_aquatic:driftwood_chest
+- upgrade_aquatic:driftwood_trapped_chest
+- upgrade_aquatic:river_chest
+- upgrade_aquatic:river_trapped_chest
+- abundance:jacaranda_chest
+- abundance:jacaranda_trapped_chest
+- abundance:redbud_chest
+- abundance:redbud_trapped_chest
+- atmospheric:rosewood_chest
+- atmospheric:rosewood_trapped_chest
+- atmospheric:morado_chest
+- atmospheric:morado_trapped_chest
+- atmospheric:yucca_chest
+- atmospheric:yucca_trapped_chest
+- atmospheric:kousa_chest
+- atmospheric:kousa_trapped_chest
+- atmospheric:aspen_chest
+- atmospheric:aspen_trapped_chest
+- atmospheric:grimwood_chest
+- atmospheric:grimwood_trapped_chest
+- autumnity:maple_chest
+- autumnity:maple_trapped_chest
+- quark:oak_chest
+- quark:spruce_chest
+- quark:birch_chest
+- quark:jungle_chest
+- quark:acacia_chest
+- quark:dark_oak_chest
+- quark:warped_chest
+- quark:crimson_chest
+- quark:oak_trapped_chest
+- quark:spruce_trapped_chest
+- quark:birch_trapped_chest
+- quark:jungle_trapped_chest
+- quark:acacia_trapped_chest
+- quark:dark_oak_trapped_chest
+- quark:warped_trapped_chest
+- quark:crimson_trapped_chest
+- charm:acacia_chest
+- charm:acacia_trapped_chest
+- charm:birch_chest
+- charm:birch_trapped_chest
+- charm:crimson_chest
+- charm:crimson_trapped_chest
+- charm:dark_oak_chest
+- charm:dark_oak_trapped_chest
+- charm:jungle_chest
+- charm:jungle_trapped_chest
+- charm:oak_chest
+- charm:oak_trapped_chest
+- charm:spruce_chest
+- charm:spruce_trapped_chest
+- charm:warped_chest
+- charm:warped_trapped_chest
+
+#forge:storage_blocks/aluminum
+- immersiveengineering:storage_aluminum
+
+#immersiveengineering:scaffoldings/aluminum
+- immersiveengineering:alu_scaffolding_standard
+- immersiveengineering:alu_scaffolding_grate_top
+- immersiveengineering:alu_scaffolding_wooden_top
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#forge:storage_blocks/biotite
+- quark:biotite_block
+
+#forge:storage_blocks/sulfur
+
+#buzzier_bees:candles
+- buzzier_bees:candle
+- buzzier_bees:soul_candle
+- buzzier_bees:ender_candle
+- buzzier_bees:cursed_candle
+- #buzzier_bees:dyed_candles
+- #buzzier_bees:scented_candles
+
+#bayou_blues:cypress_logs
+- bayou_blues:cypress_log
+- bayou_blues:cypress_wood
+- bayou_blues:stripped_cypress_log
+- bayou_blues:stripped_cypress_wood
+
+#botania:double_mystical_flowers
+- botania:black_double_flower
+- botania:blue_double_flower
+- botania:brown_double_flower
+- botania:cyan_double_flower
+- botania:gray_double_flower
+- botania:green_double_flower
+- botania:light_blue_double_flower
+- botania:light_gray_double_flower
+- botania:lime_double_flower
+- botania:magenta_double_flower
+- botania:orange_double_flower
+- botania:pink_double_flower
+- botania:purple_double_flower
+- botania:red_double_flower
+- botania:white_double_flower
+- botania:yellow_double_flower
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- environmental:willow_stairs
+- environmental:cherry_stairs
+- environmental:wisteria_stairs
+- enhanced_mushrooms:red_mushroom_stairs
+- enhanced_mushrooms:brown_mushroom_stairs
+- enhanced_mushrooms:glowshroom_stairs
+- bayou_blues:cypress_stairs
+- ars_nouveau:archwood_stairs
+- endergetic:poise_stairs
+- upgrade_aquatic:driftwood_stairs
+- upgrade_aquatic:river_stairs
+- abundance:jacaranda_stairs
+- abundance:redbud_stairs
+- atmospheric:rosewood_stairs
+- atmospheric:morado_stairs
+- atmospheric:yucca_stairs
+- atmospheric:kousa_stairs
+- atmospheric:aspen_stairs
+- atmospheric:grimwood_stairs
+- autumnity:maple_stairs
+
+#thermal:glass/hardened
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+- farmersdelight:full_tatami_mat
+- farmersdelight:half_tatami_mat
+- inspirations:white_fitted_carpet
+- inspirations:orange_fitted_carpet
+- inspirations:magenta_fitted_carpet
+- inspirations:light_blue_fitted_carpet
+- inspirations:yellow_fitted_carpet
+- inspirations:lime_fitted_carpet
+- inspirations:pink_fitted_carpet
+- inspirations:gray_fitted_carpet
+- inspirations:light_gray_fitted_carpet
+- inspirations:cyan_fitted_carpet
+- inspirations:purple_fitted_carpet
+- inspirations:blue_fitted_carpet
+- inspirations:brown_fitted_carpet
+- inspirations:green_fitted_carpet
+- inspirations:red_fitted_carpet
+- inspirations:black_fitted_carpet
+
+#minecraft:base_stone_overworld
+- minecraft:stone
+- minecraft:granite
+- minecraft:diorite
+- minecraft:andesite
+- create:limestone
+- create:weathered_limestone
+- create:dolomite
+- create:gabbro
+- create:natural_scoria
+- quark:jasper
+- quark:limestone
+- quark:marble
+- quark:slate
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- environmental:willow_button
+- environmental:cherry_button
+- environmental:wisteria_button
+- enhanced_mushrooms:red_mushroom_button
+- enhanced_mushrooms:brown_mushroom_button
+- enhanced_mushrooms:glowshroom_button
+- bayou_blues:cypress_button
+- ars_nouveau:archwood_button
+- endergetic:poise_button
+- upgrade_aquatic:driftwood_button
+- upgrade_aquatic:river_button
+- abundance:jacaranda_button
+- abundance:redbud_button
+- atmospheric:rosewood_button
+- atmospheric:morado_button
+- atmospheric:yucca_button
+- atmospheric:kousa_button
+- atmospheric:aspen_button
+- atmospheric:grimwood_button
+- autumnity:maple_button
+
+#quark:crystal
+- quark:red_crystal
+- quark:orange_crystal
+- quark:yellow_crystal
+- quark:green_crystal
+- quark:blue_crystal
+- quark:indigo_crystal
+- quark:violet_crystal
+- quark:white_crystal
+- quark:black_crystal
+
+#alexsmobs:crow_foodblocks
+- #minecraft:crops
+
+#forge:storage_blocks/glowstone
+- minecraft:glowstone
+
+#charm:nether_portal_frames
+- minecraft:obsidian
+- minecraft:crying_obsidian
+- charm:refined_obsidian
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+- #pneumaticcraft:reinforced_stone_bricks
+- #pneumaticcraft:compressed_stone_bricks
+
+#forge:storage_blocks/quartz
+- botania:dark_quartz
+- botania:mana_quartz
+- botania:blaze_quartz
+- botania:lavender_quartz
+- botania:red_quartz
+- botania:elf_quartz
+- botania:sunny_quartz
+- minecraft:quartz_block
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#apotheosis:basic_skulls
+- minecraft:skeleton_skull
+- minecraft:skeleton_wall_skull
+- minecraft:creeper_head
+- minecraft:creeper_wall_head
+- minecraft:zombie_head
+- minecraft:zombie_wall_head
+
+#forge:planks/archwood
+- ars_nouveau:archwood_planks
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- supplementaries:checker_slab
+- supplementaries:stone_tile_slab
+- supplementaries:blackstone_tile_slab
+- botania:black_pavement_slab
+- botania:blaze_quartz_slab
+- botania:blue_pavement_slab
+- botania:corporea_brick_slab
+- botania:corporea_slab
+- botania:dark_quartz_slab
+- botania:dreamwood_planks_slab
+- botania:dreamwood_slab
+- botania:elf_quartz_slab
+- botania:green_pavement_slab
+- botania:lavender_quartz_slab
+- botania:livingrock_bricks_slab
+- botania:livingrock_slab
+- botania:livingwood_planks_slab
+- botania:livingwood_slab
+- botania:mana_quartz_slab
+- botania:metamorphic_desert_bricks_slab
+- botania:metamorphic_desert_cobblestone_slab
+- botania:metamorphic_desert_stone_slab
+- botania:metamorphic_forest_bricks_slab
+- botania:metamorphic_forest_cobblestone_slab
+- botania:metamorphic_forest_stone_slab
+- botania:metamorphic_fungal_bricks_slab
+- botania:metamorphic_fungal_cobblestone_slab
+- botania:metamorphic_fungal_stone_slab
+- botania:metamorphic_mesa_bricks_slab
+- botania:metamorphic_mesa_cobblestone_slab
+- botania:metamorphic_mesa_stone_slab
+- botania:metamorphic_mountain_bricks_slab
+- botania:metamorphic_mountain_cobblestone_slab
+- botania:metamorphic_mountain_stone_slab
+- botania:metamorphic_plains_bricks_slab
+- botania:metamorphic_plains_cobblestone_slab
+- botania:metamorphic_plains_stone_slab
+- botania:metamorphic_swamp_bricks_slab
+- botania:metamorphic_swamp_cobblestone_slab
+- botania:metamorphic_swamp_stone_slab
+- botania:metamorphic_taiga_bricks_slab
+- botania:metamorphic_taiga_cobblestone_slab
+- botania:metamorphic_taiga_stone_slab
+- botania:mossy_livingrock_bricks_slab
+- botania:red_pavement_slab
+- botania:red_quartz_slab
+- botania:shimmerrock_slab
+- botania:shimmerwood_planks_slab
+- botania:sunny_quartz_slab
+- botania:white_pavement_slab
+- botania:yellow_pavement_slab
+- environmental:grass_thatch_slab
+- environmental:cattail_thatch_slab
+- environmental:duckweed_thatch_slab
+- environmental:mud_brick_slab
+- environmental:ice_brick_slab
+- environmental:terracotta_brick_slab
+- environmental:white_terracotta_brick_slab
+- environmental:orange_terracotta_brick_slab
+- environmental:magenta_terracotta_brick_slab
+- environmental:light_blue_terracotta_brick_slab
+- environmental:yellow_terracotta_brick_slab
+- environmental:lime_terracotta_brick_slab
+- environmental:pink_terracotta_brick_slab
+- environmental:gray_terracotta_brick_slab
+- environmental:light_gray_terracotta_brick_slab
+- environmental:cyan_terracotta_brick_slab
+- environmental:purple_terracotta_brick_slab
+- environmental:blue_terracotta_brick_slab
+- environmental:brown_terracotta_brick_slab
+- environmental:green_terracotta_brick_slab
+- environmental:red_terracotta_brick_slab
+- environmental:black_terracotta_brick_slab
+- buzzier_bees:honeycomb_brick_slab
+- buzzier_bees:honeycomb_tile_slab
+- cookielicious:chocolate_cookie_tile_slab
+- cookielicious:vanilla_cookie_tile_slab
+- cookielicious:strawberry_cookie_tile_slab
+- cookielicious:honey_cookie_tile_slab
+- cookielicious:sweet_berry_cookie_tile_slab
+- cookielicious:cookie_tile_slab
+- cookielicious:mint_cookie_tile_slab
+- cookielicious:banana_cookie_tile_slab
+- cookielicious:adzuki_cookie_tile_slab
+- cookielicious:cherry_cookie_tile_slab
+- cookielicious:mulberry_cookie_tile_slab
+- cookielicious:maple_cookie_tile_slab
+- cookielicious:gooseberry_jam_cookie_tile_slab
+- #pneumaticcraft:slabs
+- #pneumaticcraft:slabs
+- ars_nouveau:archwood_slab
+- endergetic:eumus_brick_slab
+- neapolitan:chocolate_brick_slab
+- neapolitan:chocolate_tile_slab
+- upgrade_aquatic:kelpy_cobblestone_slab
+- upgrade_aquatic:polar_kelpy_cobblestone_slab
+- upgrade_aquatic:thorny_kelpy_cobblestone_slab
+- upgrade_aquatic:ochre_kelpy_cobblestone_slab
+- upgrade_aquatic:tongue_kelpy_cobblestone_slab
+- upgrade_aquatic:kelpy_stone_brick_slab
+- upgrade_aquatic:polar_kelpy_stone_brick_slab
+- upgrade_aquatic:thorny_kelpy_stone_brick_slab
+- upgrade_aquatic:ochre_kelpy_stone_brick_slab
+- upgrade_aquatic:tongue_kelpy_stone_brick_slab
+- upgrade_aquatic:tooth_slab
+- upgrade_aquatic:tooth_brick_slab
+- upgrade_aquatic:scute_shingle_slab
+- upgrade_aquatic:scute_pavement_slab
+- upgrade_aquatic:coralstone_slab
+- upgrade_aquatic:bubble_coralstone_slab
+- upgrade_aquatic:brain_coralstone_slab
+- upgrade_aquatic:tube_coralstone_slab
+- upgrade_aquatic:horn_coralstone_slab
+- upgrade_aquatic:fire_coralstone_slab
+- upgrade_aquatic:acan_coralstone_slab
+- upgrade_aquatic:finger_coralstone_slab
+- upgrade_aquatic:star_coralstone_slab
+- upgrade_aquatic:moss_coralstone_slab
+- upgrade_aquatic:petal_coralstone_slab
+- upgrade_aquatic:branch_coralstone_slab
+- upgrade_aquatic:rock_coralstone_slab
+- upgrade_aquatic:pillow_coralstone_slab
+- upgrade_aquatic:silk_coralstone_slab
+- upgrade_aquatic:chrome_coralstone_slab
+- upgrade_aquatic:elder_prismarine_coralstone_slab
+- upgrade_aquatic:prismarine_coralstone_slab
+- upgrade_aquatic:dead_coralstone_slab
+- upgrade_aquatic:beachgrass_thatch_slab
+- atmospheric:arid_sandstone_slab
+- atmospheric:smooth_arid_sandstone_slab
+- atmospheric:cut_arid_sandstone_slab
+- atmospheric:arid_sandstone_brick_slab
+- atmospheric:red_arid_sandstone_slab
+- atmospheric:smooth_red_arid_sandstone_slab
+- atmospheric:cut_red_arid_sandstone_slab
+- atmospheric:red_arid_sandstone_brick_slab
+- atmospheric:ivory_travertine_slab
+- atmospheric:peach_travertine_slab
+- atmospheric:persimmon_travertine_slab
+- atmospheric:saffron_travertine_slab
+- create:granite_cobblestone_slab
+- create:granite_bricks_slab
+- create:fancy_granite_bricks_slab
+- create:paved_granite_slab
+- create:diorite_cobblestone_slab
+- create:diorite_bricks_slab
+- create:fancy_diorite_bricks_slab
+- create:paved_diorite_slab
+- create:andesite_cobblestone_slab
+- create:andesite_bricks_slab
+- create:fancy_andesite_bricks_slab
+- create:paved_andesite_slab
+- create:limestone_cobblestone_slab
+- create:polished_limestone_slab
+- create:limestone_bricks_slab
+- create:fancy_limestone_bricks_slab
+- create:paved_limestone_slab
+- create:weathered_limestone_cobblestone_slab
+- create:polished_weathered_limestone_slab
+- create:weathered_limestone_bricks_slab
+- create:fancy_weathered_limestone_bricks_slab
+- create:paved_weathered_limestone_slab
+- create:dolomite_cobblestone_slab
+- create:polished_dolomite_slab
+- create:dolomite_bricks_slab
+- create:fancy_dolomite_bricks_slab
+- create:paved_dolomite_slab
+- create:gabbro_cobblestone_slab
+- create:polished_gabbro_slab
+- create:gabbro_bricks_slab
+- create:fancy_gabbro_bricks_slab
+- create:paved_gabbro_slab
+- create:scoria_cobblestone_slab
+- create:polished_scoria_slab
+- create:scoria_bricks_slab
+- create:fancy_scoria_bricks_slab
+- create:paved_scoria_slab
+- create:dark_scoria_cobblestone_slab
+- create:polished_dark_scoria_slab
+- create:dark_scoria_bricks_slab
+- create:fancy_dark_scoria_bricks_slab
+- create:paved_dark_scoria_slab
+- savageandravage:gloomy_tile_slab
+- savageandravage:blast_proof_slab
+- autumnity:maple_slab
+- quark:andesite_bricks_slab
+- quark:basalt_bricks_slab
+- quark:basalt_slab
+- quark:biotite_block_slab
+- quark:blackstone_bricks_slab
+- quark:black_shingles_slab
+- quark:black_stained_planks_slab
+- quark:blue_nether_bricks_slab
+- quark:blue_shingles_slab
+- quark:blue_stained_planks_slab
+- quark:brimstone_bricks_slab
+- quark:brimstone_slab
+- quark:brown_shingles_slab
+- quark:brown_stained_planks_slab
+- quark:charred_nether_bricks_slab
+- quark:cobbedstone_slab
+- quark:cobbled_deepslate_slab
+- quark:cobblestone_bricks_slab
+- quark:cut_soul_sandstone_slab
+- quark:cyan_shingles_slab
+- quark:cyan_stained_planks_slab
+- quark:dark_elder_prismarine_slab
+- quark:deepslate_bricks_slab
+- quark:deepslate_tiles_slab
+- quark:diorite_bricks_slab
+- quark:dirt_bricks_slab
+- quark:duskbound_block_slab
+- quark:elder_prismarine_bricks_slab
+- quark:elder_prismarine_slab
+- quark:granite_bricks_slab
+- quark:gray_shingles_slab
+- quark:gray_stained_planks_slab
+- quark:green_shingles_slab
+- quark:green_stained_planks_slab
+- quark:iron_plate_slab
+- quark:jasper_bricks_slab
+- quark:jasper_slab
+- quark:light_blue_shingles_slab
+- quark:light_blue_stained_planks_slab
+- quark:light_gray_shingles_slab
+- quark:light_gray_stained_planks_slab
+- quark:limestone_bricks_slab
+- quark:limestone_slab
+- quark:lime_shingles_slab
+- quark:lime_stained_planks_slab
+- quark:magenta_shingles_slab
+- quark:magenta_stained_planks_slab
+- quark:magma_bricks_slab
+- quark:marble_bricks_slab
+- quark:marble_slab
+- quark:midori_block_slab
+- quark:mossy_cobblestone_bricks_slab
+- quark:myalite_bricks_slab
+- quark:myalite_slab
+- quark:netherrack_bricks_slab
+- quark:orange_shingles_slab
+- quark:orange_stained_planks_slab
+- quark:permafrost_bricks_slab
+- quark:permafrost_slab
+- quark:pink_shingles_slab
+- quark:pink_stained_planks_slab
+- quark:polished_basalt_slab
+- quark:polished_deepslate_slab
+- quark:polished_jasper_slab
+- quark:polished_limestone_slab
+- quark:polished_marble_slab
+- quark:polished_myalite_slab
+- quark:polished_slate_slab
+- quark:purple_shingles_slab
+- quark:purple_stained_planks_slab
+- quark:red_sandstone_bricks_slab
+- quark:red_shingles_slab
+- quark:red_stained_planks_slab
+- quark:rusty_iron_plate_slab
+- quark:sandstone_bricks_slab
+- quark:sandy_bricks_slab
+- quark:shingles_slab
+- quark:slate_bricks_slab
+- quark:slate_slab
+- quark:smooth_basalt_slab
+- quark:smooth_biotite_slab
+- quark:smooth_soul_sandstone_slab
+- quark:snow_bricks_slab
+- quark:soul_sandstone_bricks_slab
+- quark:soul_sandstone_slab
+- quark:thatch_slab
+- quark:turf_slab
+- quark:twisted_blackstone_bricks_slab
+- quark:vanilla_basalt_bricks_slab
+- quark:weeping_blackstone_bricks_slab
+- quark:white_shingles_slab
+- quark:white_stained_planks_slab
+- quark:yellow_shingles_slab
+- quark:yellow_stained_planks_slab
+- charm:refined_obsidian_slab
+
+#minecraft:guarded_by_piglins
+- minecraft:gold_block
+- minecraft:barrel
+- minecraft:chest
+- minecraft:ender_chest
+- minecraft:gilded_blackstone
+- minecraft:trapped_chest
+- #minecraft:shulker_boxes
+- #minecraft:gold_ores
+- supplementaries:sack
+- supplementaries:gold_door
+- supplementaries:gold_trapdoor
+- supplementaries:gold_gate
+- atmospheric:shimmering_passionfruit_crate
+- savageandravage:blast_proof_plates
+- savageandravage:blast_proof_stairs
+- savageandravage:blast_proof_slab
+- savageandravage:blast_proof_vertical_slab
+- #forge:chests
+- #charm:chests/wooden
+- #charm:barrels
+- #charm:crates
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:storage_blocks/bitumen
+
+#computercraft:wired_modem
+- computercraft:cable
+- computercraft:wired_modem_full
+
+#botania:misc_special_flowers
+- botania:manastar
+- botania:pure_daisy
+- botania:bergamute
+
+#charm:bookshelves
+- charm:acacia_bookshelf
+- charm:birch_bookshelf
+- charm:crimson_bookshelf
+- charm:dark_oak_bookshelf
+- charm:jungle_bookshelf
+- charm:spruce_bookshelf
+- charm:warped_bookshelf
+
+#forge:ores/apatite
+
+#minecraft:corals
+- #minecraft:coral_plants
+- minecraft:tube_coral_fan
+- minecraft:brain_coral_fan
+- minecraft:bubble_coral_fan
+- minecraft:fire_coral_fan
+- minecraft:horn_coral_fan
+- upgrade_aquatic:acan_coral_fan
+- upgrade_aquatic:finger_coral_fan
+- upgrade_aquatic:star_coral_fan
+- upgrade_aquatic:moss_coral_fan
+- upgrade_aquatic:petal_coral_fan
+- upgrade_aquatic:branch_coral_fan
+- upgrade_aquatic:rock_coral_fan
+- upgrade_aquatic:pillow_coral_fan
+- upgrade_aquatic:chrome_coral_fan
+- upgrade_aquatic:silk_coral_fan
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- ars_nouveau:archwood_button
+- quark:gold_button
+- quark:iron_button
+
+#quark:foxhound_spawnable
+- minecraft:netherrack
+- minecraft:soul_sand
+- minecraft:basalt
+- minecraft:soul_soil
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+- botania:ghost_rail
+- create:cart_assembler
+- create:reinforced_rail
+- create:controller_rail
+
+#forge:barrels/wooden
+- minecraft:barrel
+
+#upgrade_aquatic:driftwood_logs
+- upgrade_aquatic:driftwood_log
+- upgrade_aquatic:driftwood
+- upgrade_aquatic:stripped_driftwood_log
+- upgrade_aquatic:stripped_driftwood
+
+#pneumaticcraft:slabs
+- pneumaticcraft:reinforced_brick_slab
+- pneumaticcraft:reinforced_stone_slab
+- pneumaticcraft:compressed_brick_slab
+- pneumaticcraft:compressed_stone_slab
+
+#botania:gaia_break_blacklist
+- minecraft:beacon
+- botania:mana_pylon
+- botania:natura_pylon
+- botania:gaia_pylon
+
+#forge:storage_blocks/niter
+
+#minecraft:strider_warm_blocks
+- minecraft:lava
+
+#forge:storage_blocks/clay
+- minecraft:clay
+
+#atmospheric:morado_logs
+- atmospheric:morado_log
+- atmospheric:morado_wood
+- atmospheric:stripped_morado_log
+- atmospheric:stripped_morado_wood
+
+#endergetic:chorus_plantable
+- endergetic:end_corrock_block
+- endergetic:nether_corrock_block
+- endergetic:overworld_corrock_block
+- endergetic:petrified_end_corrock_block
+- endergetic:petrified_nether_corrock_block
+- endergetic:petrified_overworld_corrock_block
+- minecraft:end_stone
+
+#minecraft:bee_growables
+- #minecraft:crops
+- minecraft:sweet_berry_bush
+- fruitful:blossoming_oak_leaves
+- berry_good:sweet_berry_bush_pips
+- ars_nouveau:mana_bloom_crop
+- atmospheric:passion_vine
+- autumnity:foul_berry_bush_pips
+- autumnity:foul_berry_bush
+- autumnity:tall_foul_berry_bush
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- environmental:willow_pressure_plate
+- environmental:cherry_pressure_plate
+- environmental:wisteria_pressure_plate
+- enhanced_mushrooms:red_mushroom_pressure_plate
+- enhanced_mushrooms:brown_mushroom_pressure_plate
+- enhanced_mushrooms:glowshroom_pressure_plate
+- bayou_blues:cypress_pressure_plate
+- endergetic:poise_pressure_plate
+- upgrade_aquatic:driftwood_pressure_plate
+- upgrade_aquatic:river_pressure_plate
+- abundance:jacaranda_pressure_plate
+- abundance:redbud_pressure_plate
+- atmospheric:rosewood_pressure_plate
+- atmospheric:morado_pressure_plate
+- atmospheric:yucca_pressure_plate
+- atmospheric:kousa_pressure_plate
+- atmospheric:aspen_pressure_plate
+- atmospheric:grimwood_pressure_plate
+- autumnity:maple_pressure_plate
+
+#create:brittle
+- create:nozzle
+- create:hand_crank
+- create:copper_valve_handle
+- create:white_valve_handle
+- create:orange_valve_handle
+- create:magenta_valve_handle
+- create:light_blue_valve_handle
+- create:yellow_valve_handle
+- create:lime_valve_handle
+- create:pink_valve_handle
+- create:gray_valve_handle
+- create:light_gray_valve_handle
+- create:cyan_valve_handle
+- create:purple_valve_handle
+- create:blue_valve_handle
+- create:brown_valve_handle
+- create:green_valve_handle
+- create:red_valve_handle
+- create:black_valve_handle
+- create:rope
+- create:pulley_magnet
+- create:furnace_engine
+- create:redstone_link
+- create:peculiar_bell
+- create:haunted_bell
+- #minecraft:doors
+- #minecraft:beds
+- minecraft:flower_pot
+- minecraft:bell
+- minecraft:cocoa
+
+#abundance:redbud_logs
+- abundance:redbud_log
+- abundance:redbud_wood
+- abundance:stripped_redbud_log
+- abundance:stripped_redbud_wood
+- abundance:flowering_redbud_log
+- abundance:flowering_redbud_wood
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+- #botania:double_mystical_flowers
+- environmental:bird_of_paradise
+- environmental:blue_delphinium
+- environmental:pink_delphinium
+- environmental:white_delphinium
+- environmental:purple_delphinium
+- upgrade_aquatic:flowering_rush
+- abundance:tall_lavender
+- abundance:tall_marigold
+- atmospheric:tall_yucca_flower
+
+#forge:doors
+- ars_nouveau:archwood_door
+
+#pneumaticcraft:compressed_stone
+- pneumaticcraft:compressed_stone
+
+#inspirations:carpeted_pressure_plates
+- inspirations:white_carpeted_pressure_plate
+- inspirations:orange_carpeted_pressure_plate
+- inspirations:magenta_carpeted_pressure_plate
+- inspirations:light_blue_carpeted_pressure_plate
+- inspirations:yellow_carpeted_pressure_plate
+- inspirations:lime_carpeted_pressure_plate
+- inspirations:pink_carpeted_pressure_plate
+- inspirations:gray_carpeted_pressure_plate
+- inspirations:light_gray_carpeted_pressure_plate
+- inspirations:cyan_carpeted_pressure_plate
+- inspirations:purple_carpeted_pressure_plate
+- inspirations:blue_carpeted_pressure_plate
+- inspirations:brown_carpeted_pressure_plate
+- inspirations:green_carpeted_pressure_plate
+- inspirations:red_carpeted_pressure_plate
+- inspirations:black_carpeted_pressure_plate
+
+#forge:bookshelves
+- endergetic:poise_bookshelf
+- quark:acacia_bookshelf
+- quark:birch_bookshelf
+- quark:dark_oak_bookshelf
+- quark:jungle_bookshelf
+- quark:spruce_bookshelf
+- quark:warped_bookshelf
+- quark:crimson_bookshelf
+
+#minecraft:stone_pressure_plates
+- minecraft:stone_pressure_plate
+- minecraft:polished_blackstone_pressure_plate
+
+#supplementaries:concrete_powders
+- minecraft:white_concrete_powder
+- minecraft:yellow_concrete_powder
+- minecraft:orange_concrete_powder
+- minecraft:red_concrete_powder
+- minecraft:pink_concrete_powder
+- minecraft:magenta_concrete_powder
+- minecraft:purple_concrete_powder
+- minecraft:blue_concrete_powder
+- minecraft:cyan_concrete_powder
+- minecraft:light_blue_concrete_powder
+- minecraft:lime_concrete_powder
+- minecraft:green_concrete_powder
+- minecraft:brown_concrete_powder
+- minecraft:black_concrete_powder
+- minecraft:gray_concrete_powder
+- minecraft:light_gray_concrete_powder
+
+#charm:lanterns
+- minecraft:lantern
+- minecraft:soul_lantern
+- charm:gold_lantern
+- charm:gold_soul_lantern
+- charm:redstone_lantern
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:sheetmetals/silver
+- immersiveengineering:sheetmetal_silver
+
+#supplementaries:palisades
+- betternether:stalagnate_stem?
+- betternether:mushroom_fir_stem?
+- betternether:mushroom_stem?
+- decorative_blocks:oak_palisade?
+- decorative_blocks:birch_palisade?
+- decorative_blocks:spruce_palisade?
+- decorative_blocks:acacia_palisade?
+- decorative_blocks:dark_oak_palisade?
+- decorative_blocks:jungle_palisade?
+- decorative_blocks:warped_palisade?
+- decorative_blocks:crimson_palisade?
+- #druidcraft:beams?
+- druidcraft:oak_beam?
+- druidcraft:birch_beam?
+- druidcraft:spruce_beam?
+- druidcraft:jungle_beam?
+- druidcraft:acacia_beam?
+- druidcraft:dark_oak_beam?
+- druidcraft:darkwood_beam?
+- druidcraft:elder_beam?
+- druidcraft:oak_small_beam?
+- druidcraft:birch_small_beam?
+- druidcraft:spruce_small_beam?
+- druidcraft:jungle_small_beam?
+- druidcraft:acacia_small_beam?
+- druidcraft:dark_oak_small_beam?
+- druidcraft:darkwood_small_beam?
+- druidcraft:elder_small_beam?
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#minecraft:dirt
+
+#forge:netherrack
+- minecraft:netherrack
+
+#create:non_movable
+- immersiveengineering:connector_lv?
+- immersiveengineering:connector_lv_relay?
+- immersiveengineering:connector_mv?
+- immersiveengineering:connector_mv_relay?
+- immersiveengineering:connector_hv?
+- immersiveengineering:connector_hv_relay?
+- immersiveengineering:connector_bundled?
+- immersiveengineering:connector_structural?
+- immersiveengineering:connector_redstone?
+- immersiveengineering:connector_probe?
+- immersiveengineering:breaker_switch?
+
+#neapolitan:vanilla_plantable_on
+- #minecraft:leaves
+- #minecraft:logs_that_burn
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+- quark:soul_sandstone
+- quark:soul_sandstone_slab
+- quark:soul_sandstone_stairs
+- quark:soul_sandstone_wall
+- quark:soul_sandstone_vertical_slab
+- quark:chiseled_soul_sandstone
+- quark:cut_soul_sandstone
+- quark:cut_soul_sandstone_slab
+- quark:cut_soul_sandstone_vertical_slab
+- quark:smooth_soul_sandstone
+- quark:smooth_soul_sandstone_slab
+- quark:smooth_soul_sandstone_stairs
+- quark:smooth_soul_sandstone_vertical_slab
+- quark:soul_sandstone_bricks
+- quark:soul_sandstone_bricks_slab
+- quark:soul_sandstone_bricks_stairs
+- quark:soul_sandstone_bricks_wall
+- quark:soul_sandstone_bricks_vertical_slab
+- nethers_delight:soul_compost
+- nethers_delight:rich_soul_soil
+
+#forge:crops/flax
+- supplementaries:flax
+
+#forge:sheetmetals
+- immersiveengineering:sheetmetal_copper
+- immersiveengineering:sheetmetal_aluminum
+- immersiveengineering:sheetmetal_lead
+- immersiveengineering:sheetmetal_silver
+- immersiveengineering:sheetmetal_nickel
+- immersiveengineering:sheetmetal_uranium
+- immersiveengineering:sheetmetal_constantan
+- immersiveengineering:sheetmetal_electrum
+- immersiveengineering:sheetmetal_steel
+- immersiveengineering:sheetmetal_iron
+- immersiveengineering:sheetmetal_gold
+- immersiveengineering:sheetmetal_colored_white
+- immersiveengineering:sheetmetal_colored_orange
+- immersiveengineering:sheetmetal_colored_magenta
+- immersiveengineering:sheetmetal_colored_light_blue
+- immersiveengineering:sheetmetal_colored_yellow
+- immersiveengineering:sheetmetal_colored_lime
+- immersiveengineering:sheetmetal_colored_pink
+- immersiveengineering:sheetmetal_colored_gray
+- immersiveengineering:sheetmetal_colored_light_gray
+- immersiveengineering:sheetmetal_colored_cyan
+- immersiveengineering:sheetmetal_colored_purple
+- immersiveengineering:sheetmetal_colored_blue
+- immersiveengineering:sheetmetal_colored_brown
+- immersiveengineering:sheetmetal_colored_green
+- immersiveengineering:sheetmetal_colored_red
+- immersiveengineering:sheetmetal_colored_black
+
+#neapolitan:unaffected_by_mint
+- neapolitan:mint
+
+#farmersdelight:unaffected_by_rich_soil
+- minecraft:grass
+- minecraft:tall_grass
+- minecraft:fern
+- minecraft:large_fern
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+- #farmersdelight:wild_crops
+
+#ars_nouveau:sylph/greatly_likes
+
+#forge:gravel
+- minecraft:gravel
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+- quark:white_quilted_wool
+- quark:orange_quilted_wool
+- quark:magenta_quilted_wool
+- quark:light_blue_quilted_wool
+- quark:yellow_quilted_wool
+- quark:lime_quilted_wool
+- quark:pink_quilted_wool
+- quark:gray_quilted_wool
+- quark:light_gray_quilted_wool
+- quark:cyan_quilted_wool
+- quark:purple_quilted_wool
+- quark:blue_quilted_wool
+- quark:brown_quilted_wool
+- quark:green_quilted_wool
+- quark:red_quilted_wool
+- quark:black_quilted_wool
+
+#ars_nouveau:harvest/stems
+- #minecraft:logs
+- minecraft:mushroom_stem
+- minecraft:bamboo
+- minecraft:sugar_cane
+- minecraft:cactus
+
+#forge:glass/colorless
+- minecraft:glass
+- create:tiled_glass
+- create:framed_glass
+- create:horizontal_framed_glass
+- create:vertical_framed_glass
+
+#charm:crates
+- charm:acacia_crate
+- charm:birch_crate
+- charm:crimson_crate
+- charm:dark_oak_crate
+- charm:jungle_crate
+- charm:oak_crate
+- charm:spruce_crate
+- charm:warped_crate
+
+#forge:ores/mana_gem
+- ars_nouveau:arcane_ore
+
+#forge:rubberwood_logs
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#minecraft:beehives
+- minecraft:bee_nest
+- minecraft:beehive
+- environmental:willow_beehive
+- environmental:cherry_beehive
+- environmental:wisteria_beehive
+- buzzier_bees:birch_beehive
+- buzzier_bees:spruce_beehive
+- buzzier_bees:jungle_beehive
+- buzzier_bees:acacia_beehive
+- buzzier_bees:dark_oak_beehive
+- buzzier_bees:crimson_beehive
+- buzzier_bees:warped_beehive
+- enhanced_mushrooms:red_mushroom_beehive
+- enhanced_mushrooms:brown_mushroom_beehive
+- enhanced_mushrooms:glowshroom_beehive
+- bayou_blues:cypress_beehive
+- endergetic:poise_beehive
+- upgrade_aquatic:driftwood_beehive
+- upgrade_aquatic:river_beehive
+- abundance:jacaranda_beehive
+- abundance:redbud_beehive
+- atmospheric:rosewood_beehive
+- atmospheric:morado_beehive
+- atmospheric:yucca_beehive
+- atmospheric:kousa_beehive
+- atmospheric:aspen_beehive
+- atmospheric:grimwood_beehive
+- autumnity:maple_beehive
+
+#minecraft:ice
+- minecraft:ice
+- minecraft:packed_ice
+- minecraft:blue_ice
+- minecraft:frosted_ice
+
+#forge:ores/zinc
+- create:zinc_ore
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#minecraft:crops
+- minecraft:beetroots
+- minecraft:carrots
+- minecraft:potatoes
+- minecraft:wheat
+- minecraft:melon_stem
+- minecraft:pumpkin_stem
+- supplementaries:flax
+- farmersdelight:cabbages
+- farmersdelight:onions
+- farmersdelight:rice_upper_crop
+- farmersdelight:tomatoes
+- ars_nouveau:mana_bloom_crop
+
+#alexsmobs:alligator_snapping_turtle_spawns
+- #minecraft:sand
+- #forge:gravel
+- #forge:dirt
+
+#quark:quilted_wools
+- quark:black_quilted_wool
+- quark:blue_quilted_wool
+- quark:brown_quilted_wool
+- quark:cyan_quilted_wool
+- quark:gray_quilted_wool
+- quark:green_quilted_wool
+- quark:light_blue_quilted_wool
+- quark:light_gray_quilted_wool
+- quark:lime_quilted_wool
+- quark:magenta_quilted_wool
+- quark:orange_quilted_wool
+- quark:pink_quilted_wool
+- quark:purple_quilted_wool
+- quark:red_quilted_wool
+- quark:white_quilted_wool
+- quark:yellow_quilted_wool
+
+#forge:fiber/flax
+- supplementaries:flax
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+
+#botania:magnet_ring_blacklist
+- botania:mana_pool
+- botania:creative_pool
+- botania:diluted_pool
+- botania:fabulous_pool
+- botania:terra_plate
+- botania:runic_altar
+
+#forge:fences/steel
+- immersiveengineering:steel_fence
+
+#forge:storage_blocks/coal_coke
+- immersiveengineering:coke
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#create:seats
+- create:white_seat
+- create:orange_seat
+- create:magenta_seat
+- create:light_blue_seat
+- create:yellow_seat
+- create:lime_seat
+- create:pink_seat
+- create:gray_seat
+- create:light_gray_seat
+- create:cyan_seat
+- create:purple_seat
+- create:blue_seat
+- create:brown_seat
+- create:green_seat
+- create:red_seat
+- create:black_seat
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#create:wrench_pickup
+- #minecraft:rails
+- #minecraft:buttons
+- #minecraft:pressure_plates
+- minecraft:redstone_wire
+- minecraft:redstone_torch
+- minecraft:repeater
+- minecraft:lever
+- minecraft:comparator
+- minecraft:observer
+- minecraft:redstone_wall_torch
+- minecraft:piston
+- minecraft:sticky_piston
+- minecraft:tripwire
+- minecraft:tripwire_hook
+- minecraft:daylight_detector
+- minecraft:target
+
+#forge:ores/sapphire
+
+#botania:corporea_spark_override
+- botania:corporea_block
+- botania:corporea_brick
+- botania:corporea_brick_slab
+- botania:corporea_brick_stairs
+- botania:corporea_brick_wall
+- botania:corporea_crystal_cube
+- botania:corporea_funnel
+- botania:corporea_index
+- botania:corporea_interceptor
+- botania:corporea_slab
+- botania:corporea_stairs
+
+#minecraft:climbable
+- minecraft:ladder
+- minecraft:vine
+- minecraft:scaffolding
+- minecraft:weeping_vines
+- minecraft:weeping_vines_plant
+- minecraft:twisting_vines
+- minecraft:twisting_vines_plant
+- supplementaries:rope
+- botania:solid_vine
+- environmental:ice_chain
+- environmental:willow_ladder
+- environmental:cherry_ladder
+- environmental:wisteria_ladder
+- enhanced_mushrooms:red_mushroom_ladder
+- enhanced_mushrooms:brown_mushroom_ladder
+- enhanced_mushrooms:glowshroom_ladder
+- bayou_blues:cypress_ladder
+- endergetic:poise_ladder
+- upgrade_aquatic:driftwood_ladder
+- upgrade_aquatic:river_ladder
+- immersiveengineering:metal_ladder_none
+- immersiveengineering:metal_ladder_alu
+- immersiveengineering:metal_ladder_steel
+- abundance:jacaranda_ladder
+- abundance:redbud_ladder
+- atmospheric:passion_vine
+- atmospheric:rosewood_ladder
+- atmospheric:morado_ladder
+- atmospheric:yucca_ladder
+- atmospheric:kousa_ladder
+- atmospheric:aspen_ladder
+- atmospheric:grimwood_ladder
+- inspirations:rope
+- inspirations:vine
+- autumnity:maple_ladder
+- quark:acacia_ladder
+- quark:birch_ladder
+- quark:dark_oak_ladder
+- quark:jungle_ladder
+- quark:spruce_ladder
+- quark:crimson_ladder
+- quark:warped_ladder
+- quark:iron_ladder
+- charm:acacia_ladder
+- charm:birch_ladder
+- charm:crimson_ladder
+- charm:dark_oak_ladder
+- charm:jungle_ladder
+- charm:oak_ladder
+- charm:spruce_ladder
+- charm:warped_ladder
+
+#minecraft:leaves/archwood_leaves
+- ars_nouveau:blue_archwood_leaves
+- ars_nouveau:red_archwood_leaves
+- ars_nouveau:green_archwood_leaves
+- ars_nouveau:purple_archwood_leaves
+- ars_nouveau:blue_archwood_leaves
+- ars_nouveau:red_archwood_leaves
+- ars_nouveau:green_archwood_leaves
+- ars_nouveau:purple_archwood_leaves
+
+#storagedrawers:drawers
+- storagedrawers:oak_full_drawers_1
+- storagedrawers:oak_full_drawers_2
+- storagedrawers:oak_full_drawers_4
+- storagedrawers:oak_half_drawers_1
+- storagedrawers:oak_half_drawers_2
+- storagedrawers:oak_half_drawers_4
+- storagedrawers:spruce_full_drawers_1
+- storagedrawers:spruce_full_drawers_2
+- storagedrawers:spruce_full_drawers_4
+- storagedrawers:spruce_half_drawers_1
+- storagedrawers:spruce_half_drawers_2
+- storagedrawers:spruce_half_drawers_4
+- storagedrawers:birch_full_drawers_1
+- storagedrawers:birch_full_drawers_2
+- storagedrawers:birch_full_drawers_4
+- storagedrawers:birch_half_drawers_1
+- storagedrawers:birch_half_drawers_2
+- storagedrawers:birch_half_drawers_4
+- storagedrawers:jungle_full_drawers_1
+- storagedrawers:jungle_full_drawers_2
+- storagedrawers:jungle_full_drawers_4
+- storagedrawers:jungle_half_drawers_1
+- storagedrawers:jungle_half_drawers_2
+- storagedrawers:jungle_half_drawers_4
+- storagedrawers:acacia_full_drawers_1
+- storagedrawers:acacia_full_drawers_2
+- storagedrawers:acacia_full_drawers_4
+- storagedrawers:acacia_half_drawers_1
+- storagedrawers:acacia_half_drawers_2
+- storagedrawers:acacia_half_drawers_4
+- storagedrawers:dark_oak_full_drawers_1
+- storagedrawers:dark_oak_full_drawers_2
+- storagedrawers:dark_oak_full_drawers_4
+- storagedrawers:dark_oak_half_drawers_1
+- storagedrawers:dark_oak_half_drawers_2
+- storagedrawers:dark_oak_half_drawers_4
+- storagedrawers:crimson_full_drawers_1
+- storagedrawers:crimson_full_drawers_2
+- storagedrawers:crimson_full_drawers_4
+- storagedrawers:crimson_half_drawers_1
+- storagedrawers:crimson_half_drawers_2
+- storagedrawers:crimson_half_drawers_4
+- storagedrawers:warped_full_drawers_1
+- storagedrawers:warped_full_drawers_2
+- storagedrawers:warped_full_drawers_4
+- storagedrawers:warped_half_drawers_1
+- storagedrawers:warped_half_drawers_2
+- storagedrawers:warped_half_drawers_4
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+
+#farmersdelight:compost_activators
+- biomesoplenty:glowshroom?
+- biomesoplenty:toadstool?
+- byg:purple_glowshroom?
+- byg:blue_glowshroom?
+- byg:green_mushroom?
+- quark:glowshroom?
+- betterendforge:end_mycelium?
+- betterendforge:small_jellyshroom?
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:podzol
+- minecraft:mycelium
+- farmersdelight:organic_compost
+- farmersdelight:rich_soil
+- farmersdelight:rich_soil_farmland
+- farmersdelight:brown_mushroom_colony
+- farmersdelight:red_mushroom_colony
+
+#forge:storage_blocks/steel
+- immersiveengineering:storage_steel
+
+#ars_nouveau:magic_saplings
+- ars_nouveau:blue_archwood_sapling
+- ars_nouveau:red_archwood_sapling
+- ars_nouveau:green_archwood_sapling
+- ars_nouveau:purple_archwood_sapling
+
+#quark:ladders
+- environmental:willow_ladder
+- environmental:cherry_ladder
+- environmental:wisteria_ladder
+- enhanced_mushrooms:red_mushroom_ladder
+- enhanced_mushrooms:brown_mushroom_ladder
+- enhanced_mushrooms:glowshroom_ladder
+- bayou_blues:cypress_ladder
+- endergetic:poise_ladder
+- upgrade_aquatic:driftwood_ladder
+- upgrade_aquatic:river_ladder
+- abundance:jacaranda_ladder
+- abundance:redbud_ladder
+- atmospheric:rosewood_ladder
+- atmospheric:morado_ladder
+- atmospheric:yucca_ladder
+- atmospheric:kousa_ladder
+- atmospheric:aspen_ladder
+- atmospheric:grimwood_ladder
+- autumnity:maple_ladder
+- minecraft:ladder
+- quark:spruce_ladder
+- quark:birch_ladder
+- quark:jungle_ladder
+- quark:acacia_ladder
+- quark:dark_oak_ladder
+- quark:warped_ladder
+- quark:crimson_ladder
+- quark:iron_ladder
+
+#farmersdelight:tray_heat_sources
+- #minecraft:campfires
+- #minecraft:fire
+- decorative_blocks:brazier?
+- decorative_blocks:soul_brazier?
+- decorative_blocks_abnormals:ender_brazier?
+- valhelsia_structures:brazier?
+- extlights:light_brazier_stand_iron?
+- extlights:light_soulbrazier_stand_iron?
+- extlights:light_brazier_bowl_stone?
+- extlights:light_brazier_bowl_granite?
+- extlights:light_brazier_bowl_diorite?
+- extlights:light_brazier_bowl_andesite?
+- extlights:light_soulbrazier_bowl_stone?
+- extlights:light_soulbrazier_bowl_blackstone?
+- create:blaze_burner?
+- minecraft:lava
+- #minecraft:campfires
+- #minecraft:fire
+- #caverns_and_chasms:braziers?
+
+#forge:planks
+- ars_nouveau:archwood_planks
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+- create:tiled_glass_pane
+- create:framed_glass_pane
+- create:horizontal_framed_glass_pane
+- create:vertical_framed_glass_pane
+- create:oak_window_pane
+- create:spruce_window_pane
+- create:birch_window_pane
+- create:jungle_window_pane
+- create:acacia_window_pane
+- create:dark_oak_window_pane
+- create:crimson_window_pane
+- create:warped_window_pane
+- create:ornate_iron_window_pane
+- quark:dirty_glass_pane
+- quark:framed_glass_pane
+- quark:black_framed_glass_pane
+- quark:blue_framed_glass_pane
+- quark:brown_framed_glass_pane
+- quark:cyan_framed_glass_pane
+- quark:gray_framed_glass_pane
+- quark:green_framed_glass_pane
+- quark:light_blue_framed_glass_pane
+- quark:light_gray_framed_glass_pane
+- quark:lime_framed_glass_pane
+- quark:magenta_framed_glass_pane
+- quark:orange_framed_glass_pane
+- quark:pink_framed_glass_pane
+- quark:purple_framed_glass_pane
+- quark:red_framed_glass_pane
+- quark:white_framed_glass_pane
+- quark:yellow_framed_glass_pane
+
+#minecraft:coral_plants
+- minecraft:tube_coral
+- minecraft:brain_coral
+- minecraft:bubble_coral
+- minecraft:fire_coral
+- minecraft:horn_coral
+- upgrade_aquatic:acan_coral
+- upgrade_aquatic:finger_coral
+- upgrade_aquatic:star_coral
+- upgrade_aquatic:moss_coral
+- upgrade_aquatic:petal_coral
+- upgrade_aquatic:branch_coral
+- upgrade_aquatic:rock_coral
+- upgrade_aquatic:pillow_coral
+- upgrade_aquatic:chrome_coral
+- upgrade_aquatic:silk_coral
+
+#forge:storage_blocks/lumium
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- supplementaries:hanging_sign_warped
+- supplementaries:hanging_sign_crimson
+- quark:warped_chest
+- quark:crimson_chest
+- quark:warped_ladder
+- quark:crimson_ladder
+- quark:warped_post
+- quark:crimson_post
+- quark:warped_bookshelf
+- quark:crimson_bookshelf
+
+#atmospheric:kousa_logs
+- atmospheric:kousa_log
+- atmospheric:kousa_wood
+- atmospheric:stripped_kousa_log
+- atmospheric:stripped_kousa_wood
+
+#ars_nouveau:an_decorative/stone
+- ars_nouveau:ab_smooth
+- ars_nouveau:ab_clover
+- ars_nouveau:arcane_stone
+- ars_nouveau:arcane_bricks
+- ars_nouveau:ab_mosaic
+- ars_nouveau:ab_herring
+- ars_nouveau:ab_basket
+- ars_nouveau:ab_alternating
+- ars_nouveau:ab_smooth_slab
+- ars_nouveau:sas_basket
+- ars_nouveau:sas_clover
+- ars_nouveau:sas_herring
+- ars_nouveau:sas_mosaic
+- ars_nouveau:sas_alternating
+- ars_nouveau:sas_ashlar
+- ars_nouveau:as_gold_alt
+- ars_nouveau:as_gold_ashlar
+- ars_nouveau:as_gold_basket
+- ars_nouveau:as_gold_clover
+- ars_nouveau:as_gold_herring
+- ars_nouveau:as_gold_mosaic
+- ars_nouveau:as_gold_slab
+- ars_nouveau:as_gold_stone
+- ars_nouveau:ab_smooth_slab
+- ars_nouveau:ab_smooth
+- ars_nouveau:ab_clover
+
+#forge:mushrooms
+- botania:white_mushroom
+- botania:orange_mushroom
+- botania:magenta_mushroom
+- botania:light_blue_mushroom
+- botania:yellow_mushroom
+- botania:lime_mushroom
+- botania:pink_mushroom
+- botania:gray_mushroom
+- botania:light_gray_mushroom
+- botania:cyan_mushroom
+- botania:purple_mushroom
+- botania:blue_mushroom
+- botania:brown_mushroom
+- botania:green_mushroom
+- botania:red_mushroom
+- botania:black_mushroom
+
+#enhanced_mushrooms:red_mushroom_stems
+- enhanced_mushrooms:red_mushroom_stem
+- enhanced_mushrooms:red_mushroom_hyphae
+- enhanced_mushrooms:stripped_red_mushroom_stem
+- enhanced_mushrooms:stripped_red_mushroom_hyphae
+
+#alexsmobs:drops_bananas
+- minecraft:jungle_leaves
+
+#botania:livingwood
+- botania:livingwood
+
+#forge:storage_blocks/bronze
+
+#charm:barrels
+- minecraft:barrel
+- charm:acacia_barrel
+- charm:birch_barrel
+- charm:crimson_barrel
+- charm:dark_oak_barrel
+- charm:jungle_barrel
+- charm:oak_barrel
+- charm:spruce_barrel
+- charm:warped_barrel
+
+#create:safe_nbt
+- create:creative_motor
+- create:creative_fluid_tank
+- create:mechanical_piston
+- create:sticky_mechanical_piston
+- create:windmill_bearing
+- create:mechanical_bearing
+- create:clockwork_bearing
+- create:rope_pulley
+- create:cart_assembler
+- create:linear_chassis
+- create:secondary_linear_chassis
+- create:radial_chassis
+- create:sequenced_gearshift
+- create:rotation_speed_controller
+- create:andesite_funnel
+- create:andesite_belt_funnel
+- create:brass_funnel
+- create:brass_belt_funnel
+- create:creative_crate
+- create:redstone_link
+- create:analog_lever
+- create:adjustable_repeater
+- create:adjustable_pulse_repeater
+- #minecraft:signs
+
+#forge:sheetmetals/gold
+- immersiveengineering:sheetmetal_gold
+
+#supplementaries:pane_connection
+- supplementaries:iron_gate
+- supplementaries:gold_gate
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- botania:dreamwood_fence
+- botania:livingwood_fence
+- ars_nouveau:archwood_fence
+- immersiveengineering:alu_fence
+- immersiveengineering:steel_fence
+- immersiveengineering:treated_fence
+
+#autumnity:snail_foods
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+- minecraft:crimson_fungus
+- minecraft:warped_fungus
+- quark:glowshroom?
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- fruitful:flowering_oak_sapling
+- environmental:willow_sapling
+- environmental:cherry_sapling
+- environmental:pink_wisteria_sapling
+- environmental:blue_wisteria_sapling
+- environmental:white_wisteria_sapling
+- environmental:purple_wisteria_sapling
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+- minecraft:crimson_fungus
+- minecraft:warped_fungus
+- bayou_blues:cypress_sapling
+- ars_nouveau:blue_archwood_sapling
+- ars_nouveau:red_archwood_sapling
+- ars_nouveau:green_archwood_sapling
+- ars_nouveau:purple_archwood_sapling
+- upgrade_aquatic:river_sapling
+- abundance:jacaranda_sapling
+- abundance:redbud_sapling
+- abundance:flowering_redbud_sapling
+- atmospheric:rosewood_sapling
+- atmospheric:morado_sapling
+- atmospheric:yucca_sapling
+- atmospheric:kousa_sapling
+- atmospheric:aspen_sapling
+- atmospheric:grimwood_sapling
+- autumnity:maple_sapling
+- autumnity:red_maple_sapling
+- autumnity:orange_maple_sapling
+- autumnity:yellow_maple_sapling
+- quark:blue_blossom_sapling
+- quark:lavender_blossom_sapling
+- quark:orange_blossom_sapling
+- quark:pink_blossom_sapling
+- quark:yellow_blossom_sapling
+- quark:red_blossom_sapling
+
+#forge:storage_blocks/tin
+
+#forge:ores/copper
+- immersiveengineering:ore_copper
+- create:copper_ore
+
+#minecraft:unstable_bottom_center
+- #minecraft:fence_gates
+
+#minecraft:enderman_holdable
+- #minecraft:small_flowers
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:sand
+- minecraft:red_sand
+- minecraft:gravel
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+- minecraft:tnt
+- minecraft:cactus
+- minecraft:clay
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:melon
+- minecraft:mycelium
+- minecraft:crimson_fungus
+- minecraft:crimson_nylium
+- minecraft:crimson_roots
+- minecraft:warped_fungus
+- minecraft:warped_nylium
+- minecraft:warped_roots
+- savageandravage:spore_bomb
+- autumnity:large_pumpkin_slice
+- autumnity:carved_large_pumpkin_slice
+- quark:glowcelium
+- quark:glowshroom
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+- minecraft:white_wall_banner
+- minecraft:orange_wall_banner
+- minecraft:magenta_wall_banner
+- minecraft:light_blue_wall_banner
+- minecraft:yellow_wall_banner
+- minecraft:lime_wall_banner
+- minecraft:pink_wall_banner
+- minecraft:gray_wall_banner
+- minecraft:light_gray_wall_banner
+- minecraft:cyan_wall_banner
+- minecraft:purple_wall_banner
+- minecraft:blue_wall_banner
+- minecraft:brown_wall_banner
+- minecraft:green_wall_banner
+- minecraft:red_wall_banner
+- minecraft:black_wall_banner
+
+#forge:storage_blocks/electrum
+- immersiveengineering:storage_electrum
+
+#forge:mushroom_stems
+- #enhanced_mushrooms:brown_mushroom_stems
+- #enhanced_mushrooms:red_mushroom_stems
+- #enhanced_mushrooms:glowshroom_stems
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- environmental:willow_fence
+- environmental:cherry_fence
+- environmental:wisteria_fence
+- enhanced_mushrooms:red_mushroom_fence
+- enhanced_mushrooms:brown_mushroom_fence
+- enhanced_mushrooms:glowshroom_fence
+- bayou_blues:cypress_fence
+- ars_nouveau:archwood_fence
+- endergetic:poise_fence
+- upgrade_aquatic:driftwood_fence
+- upgrade_aquatic:river_fence
+- immersiveengineering:treated_fence
+- abundance:jacaranda_fence
+- abundance:redbud_fence
+- atmospheric:rosewood_fence
+- atmospheric:morado_fence
+- atmospheric:yucca_fence
+- atmospheric:kousa_fence
+- atmospheric:aspen_fence
+- atmospheric:grimwood_fence
+- autumnity:maple_fence
+
+#minecraft:wall_post_override
+- minecraft:torch
+- minecraft:soul_torch
+- minecraft:redstone_torch
+- minecraft:tripwire
+- #minecraft:signs
+- #minecraft:banners
+- #minecraft:pressure_plates
+- supplementaries:sconce
+- supplementaries:sconce_soul
+- supplementaries:sconce_ender
+- supplementaries:sconce_green
+- supplementaries:crank
+- inspirations:torch_lever
+- inspirations:wall_torch_lever
+- inspirations:soul_torch_lever
+- inspirations:wall_soul_torch_lever
+- nethers_delight:propelplant_torch
+
+#forge:sheetmetals/constantan
+- immersiveengineering:sheetmetal_constantan
+
+#alexsmobs:rattlesnake_spawns
+- #minecraft:sand
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#forge:obsidian
+- minecraft:obsidian
+
+#forge:enderman_place_on_blacklist
+
+#alexsmobs:kangaroo_spawns
+- #minecraft:sand
+- #forge:dirt
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#botania:livingrock
+- botania:livingrock
+
+#supplementaries:pouring_tank
+- tconstruct:channel?
+- tconstruct:scorched_channel?
+- ceramics:porcelain_channel?
+- ceramics:unfired_channel?
+- ceramics:clay_channel?
+- ceramics:terracotta_channel?
+- tconstruct:seared_channel?
+- tconstruct:casting_basin?
+- tconstrust:casting_table?
+- tconstrust:seared_basin?
+- tconstrust:scorched_basin?
+- create:basin?
+- #ceramics:terracotta_cisterns?
+- #ceramics:porcelain_cistern?
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#forge:storage_blocks/constantan
+- immersiveengineering:storage_constantan
+
+#minecraft:fire
+- minecraft:fire
+- minecraft:soul_fire
+- endergetic:ender_fire
+
+#pneumaticcraft:plastic_bricks
+- pneumaticcraft:plastic_brick_white
+- pneumaticcraft:plastic_brick_orange
+- pneumaticcraft:plastic_brick_magenta
+- pneumaticcraft:plastic_brick_light_blue
+- pneumaticcraft:plastic_brick_yellow
+- pneumaticcraft:plastic_brick_lime
+- pneumaticcraft:plastic_brick_pink
+- pneumaticcraft:plastic_brick_gray
+- pneumaticcraft:plastic_brick_light_gray
+- pneumaticcraft:plastic_brick_cyan
+- pneumaticcraft:plastic_brick_purple
+- pneumaticcraft:plastic_brick_blue
+- pneumaticcraft:plastic_brick_brown
+- pneumaticcraft:plastic_brick_green
+- pneumaticcraft:plastic_brick_red
+- pneumaticcraft:plastic_brick_black
+
+#forge:sheetmetals/electrum
+- immersiveengineering:sheetmetal_electrum
+
+#minecraft:base_stone_nether
+- minecraft:netherrack
+- minecraft:basalt
+- minecraft:blackstone
+
+#minecraft:wall_signs
+- minecraft:oak_wall_sign
+- minecraft:spruce_wall_sign
+- minecraft:birch_wall_sign
+- minecraft:acacia_wall_sign
+- minecraft:jungle_wall_sign
+- minecraft:dark_oak_wall_sign
+- minecraft:crimson_wall_sign
+- minecraft:warped_wall_sign
+- farmersdelight:canvas_wall_sign
+- farmersdelight:white_canvas_wall_sign
+- farmersdelight:orange_canvas_wall_sign
+- farmersdelight:magenta_canvas_wall_sign
+- farmersdelight:light_blue_canvas_wall_sign
+- farmersdelight:yellow_canvas_wall_sign
+- farmersdelight:lime_canvas_wall_sign
+- farmersdelight:pink_canvas_wall_sign
+- farmersdelight:gray_canvas_wall_sign
+- farmersdelight:light_gray_canvas_wall_sign
+- farmersdelight:cyan_canvas_wall_sign
+- farmersdelight:purple_canvas_wall_sign
+- farmersdelight:blue_canvas_wall_sign
+- farmersdelight:brown_canvas_wall_sign
+- farmersdelight:green_canvas_wall_sign
+- farmersdelight:red_canvas_wall_sign
+- farmersdelight:black_canvas_wall_sign
+- environmental:willow_wall_sign
+- environmental:cherry_wall_sign
+- environmental:wisteria_wall_sign
+- enhanced_mushrooms:red_mushroom_wall_sign
+- enhanced_mushrooms:brown_mushroom_wall_sign
+- enhanced_mushrooms:glowshroom_wall_sign
+- bayou_blues:cypress_wall_sign
+- endergetic:poise_wall_sign
+- upgrade_aquatic:driftwood_wall_sign
+- upgrade_aquatic:river_wall_sign
+- abundance:jacaranda_wall_sign
+- abundance:redbud_wall_sign
+- atmospheric:rosewood_wall_sign
+- atmospheric:morado_wall_sign
+- atmospheric:yucca_wall_sign
+- atmospheric:kousa_wall_sign
+- atmospheric:aspen_wall_sign
+- atmospheric:grimwood_wall_sign
+- autumnity:maple_sign
+
+#quark:vertical_slabs
+- supplementaries:checker_vertical_slab
+- supplementaries:stone_tile_vertical_slab
+- supplementaries:blackstone_tile_vertical_slab
+- environmental:grass_thatch_vertical_slab
+- environmental:cattail_thatch_vertical_slab
+- environmental:duckweed_thatch_vertical_slab
+- environmental:mud_brick_vertical_slab
+- environmental:ice_brick_vertical_slab
+- environmental:terracotta_brick_vertical_slab
+- environmental:white_terracotta_brick_vertical_slab
+- environmental:orange_terracotta_brick_vertical_slab
+- environmental:magenta_terracotta_brick_vertical_slab
+- environmental:light_blue_terracotta_brick_vertical_slab
+- environmental:yellow_terracotta_brick_vertical_slab
+- environmental:lime_terracotta_brick_vertical_slab
+- environmental:pink_terracotta_brick_vertical_slab
+- environmental:gray_terracotta_brick_vertical_slab
+- environmental:light_gray_terracotta_brick_vertical_slab
+- environmental:cyan_terracotta_brick_vertical_slab
+- environmental:purple_terracotta_brick_vertical_slab
+- environmental:blue_terracotta_brick_vertical_slab
+- environmental:brown_terracotta_brick_vertical_slab
+- environmental:green_terracotta_brick_vertical_slab
+- environmental:red_terracotta_brick_vertical_slab
+- environmental:black_terracotta_brick_vertical_slab
+- buzzier_bees:honeycomb_brick_vertical_slab
+- buzzier_bees:honeycomb_tile_vertical_slab
+- bayou_blues:algae_thatch_vertical_slab
+- endergetic:eumus_brick_vertical_slab
+- upgrade_aquatic:kelpy_cobblestone_vertical_slab
+- upgrade_aquatic:polar_kelpy_cobblestone_vertical_slab
+- upgrade_aquatic:thorny_kelpy_cobblestone_vertical_slab
+- upgrade_aquatic:ochre_kelpy_cobblestone_vertical_slab
+- upgrade_aquatic:tongue_kelpy_cobblestone_vertical_slab
+- upgrade_aquatic:kelpy_stone_brick_vertical_slab
+- upgrade_aquatic:polar_kelpy_stone_brick_vertical_slab
+- upgrade_aquatic:thorny_kelpy_stone_brick_vertical_slab
+- upgrade_aquatic:ochre_kelpy_stone_brick_vertical_slab
+- upgrade_aquatic:tongue_kelpy_stone_brick_vertical_slab
+- upgrade_aquatic:tooth_vertical_slab
+- upgrade_aquatic:tooth_brick_vertical_slab
+- upgrade_aquatic:scute_shingle_vertical_slab
+- upgrade_aquatic:scute_pavement_vertical_slab
+- upgrade_aquatic:coralstone_vertical_slab
+- upgrade_aquatic:bubble_coralstone_vertical_slab
+- upgrade_aquatic:brain_coralstone_vertical_slab
+- upgrade_aquatic:tube_coralstone_vertical_slab
+- upgrade_aquatic:horn_coralstone_vertical_slab
+- upgrade_aquatic:fire_coralstone_vertical_slab
+- upgrade_aquatic:acan_coralstone_vertical_slab
+- upgrade_aquatic:finger_coralstone_vertical_slab
+- upgrade_aquatic:star_coralstone_vertical_slab
+- upgrade_aquatic:moss_coralstone_vertical_slab
+- upgrade_aquatic:petal_coralstone_vertical_slab
+- upgrade_aquatic:branch_coralstone_vertical_slab
+- upgrade_aquatic:rock_coralstone_vertical_slab
+- upgrade_aquatic:pillow_coralstone_vertical_slab
+- upgrade_aquatic:silk_coralstone_vertical_slab
+- upgrade_aquatic:chrome_coralstone_vertical_slab
+- upgrade_aquatic:elder_prismarine_coralstone_vertical_slab
+- upgrade_aquatic:prismarine_coralstone_vertical_slab
+- upgrade_aquatic:dead_coralstone_vertical_slab
+- upgrade_aquatic:beachgrass_thatch_vertical_slab
+- atmospheric:arid_sandstone_vertical_slab
+- atmospheric:smooth_arid_sandstone_vertical_slab
+- atmospheric:cut_arid_sandstone_vertical_slab
+- atmospheric:arid_sandstone_brick_vertical_slab
+- atmospheric:red_arid_sandstone_vertical_slab
+- atmospheric:smooth_red_arid_sandstone_vertical_slab
+- atmospheric:cut_red_arid_sandstone_vertical_slab
+- atmospheric:red_arid_sandstone_brick_vertical_slab
+- atmospheric:ivory_travertine_vertical_slab
+- atmospheric:peach_travertine_vertical_slab
+- atmospheric:persimmon_travertine_vertical_slab
+- atmospheric:saffron_travertine_vertical_slab
+- savageandravage:gloomy_tile_vertical_slab
+
+#charm:bookcases
+- charm:acacia_bookcase
+- charm:birch_bookcase
+- charm:crimson_bookcase
+- charm:dark_oak_bookcase
+- charm:jungle_bookcase
+- charm:oak_bookcase
+- charm:spruce_bookcase
+- charm:warped_bookcase
+
+#alexsmobs:drops_acacia_blossoms
+- minecraft:acacia_leaves
+
+#forge:storage_blocks/elementium
+- botania:elementium_block
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- supplementaries:gold_trapdoor
+- supplementaries:netherite_trapdoor
+- buzzier_bees:honeycomb_trapdoor
+- ars_nouveau:archwood_trapdoor
+- upgrade_aquatic:tooth_trapdoor
+- upgrade_aquatic:glass_trapdoor
+- inspirations:glass_trapdoor
+
+#ars_nouveau:harvest/fellable
+- #ars_nouveau:harvest/foliage
+- #ars_nouveau:harvest/stems
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#alexsmobs:crow_fears
+- minecraft:carved_pumpkin
+- minecraft:jack_o_lantern
+
+#botania:shiny_flowers
+- botania:black_shiny_flower
+- botania:blue_shiny_flower
+- botania:brown_shiny_flower
+- botania:cyan_shiny_flower
+- botania:gray_shiny_flower
+- botania:green_shiny_flower
+- botania:light_blue_shiny_flower
+- botania:light_gray_shiny_flower
+- botania:lime_shiny_flower
+- botania:magenta_shiny_flower
+- botania:orange_shiny_flower
+- botania:pink_shiny_flower
+- botania:purple_shiny_flower
+- botania:red_shiny_flower
+- botania:white_shiny_flower
+- botania:yellow_shiny_flower
+
+#quark:crab_spawnable
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+- quark:dirty_glass
+- quark:framed_glass
+- quark:black_framed_glass
+- quark:blue_framed_glass
+- quark:brown_framed_glass
+- quark:cyan_framed_glass
+- quark:gray_framed_glass
+- quark:green_framed_glass
+- quark:light_blue_framed_glass
+- quark:light_gray_framed_glass
+- quark:lime_framed_glass
+- quark:magenta_framed_glass
+- quark:orange_framed_glass
+- quark:pink_framed_glass
+- quark:purple_framed_glass
+- quark:red_framed_glass
+- quark:white_framed_glass
+- quark:yellow_framed_glass
+
+#forge:storage_blocks/gunpowder
+
+#pneumaticcraft:stairs
+- pneumaticcraft:reinforced_brick_stairs
+- pneumaticcraft:compressed_brick_stairs
+
+#forge:wooden_doors
+- ars_nouveau:archwood_door
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+- fruitful:apple_oak_leaves
+- fruitful:flowering_oak_leaves
+- fruitful:blossoming_oak_leaves
+- fruitful:budding_oak_leaves
+- environmental:willow_leaves
+- environmental:cherry_leaves
+- environmental:pink_wisteria_leaves
+- environmental:blue_wisteria_leaves
+- environmental:purple_wisteria_leaves
+- environmental:white_wisteria_leaves
+- bayou_blues:cypress_leaves
+- ars_nouveau:blue_archwood_leaves
+- ars_nouveau:red_archwood_leaves
+- ars_nouveau:green_archwood_leaves
+- ars_nouveau:purple_archwood_leaves
+- upgrade_aquatic:river_leaves
+- abundance:jacaranda_leaves
+- abundance:budding_jacaranda_leaves
+- abundance:flowering_jacaranda_leaves
+- abundance:redbud_leaves
+- abundance:budding_redbud_leaves
+- abundance:flowering_redbud_leaves
+- atmospheric:rosewood_leaves
+- atmospheric:morado_leaves
+- atmospheric:flowering_morado_leaves
+- atmospheric:yucca_leaves
+- atmospheric:kousa_leaves
+- atmospheric:aspen_leaves
+- atmospheric:grimwood_leaves
+- #inspirations:enlightened_bushes
+- autumnity:maple_leaves
+- autumnity:red_maple_leaves
+- autumnity:orange_maple_leaves
+- autumnity:yellow_maple_leaves
+- quark:blue_blossom_leaves
+- quark:lavender_blossom_leaves
+- quark:orange_blossom_leaves
+- quark:pink_blossom_leaves
+- quark:yellow_blossom_leaves
+- quark:red_blossom_leaves
+
+#buzzier_bees:flower_blacklist
+- #botania:mystical_flowers
+- #botania:special_flowers
+- minecraft:wither_rose
+
+#enhanced_mushrooms:brown_mushroom_stems
+- enhanced_mushrooms:brown_mushroom_stem
+- enhanced_mushrooms:brown_mushroom_hyphae
+- enhanced_mushrooms:stripped_brown_mushroom_stem
+- enhanced_mushrooms:stripped_brown_mushroom_hyphae
+
+#computercraft:turtle_hoe_harvestable
+- #minecraft:crops
+- minecraft:cactus
+- minecraft:melon
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:jack_o_lantern
+
+#forge:storage_blocks/brass
+- create:brass_block
+
+#savageandravage:gloomy_tiles
+- savageandravage:gloomy_tiles
+- savageandravage:chiseled_gloomy_tiles
+- savageandravage:gloomy_tile_stairs
+- savageandravage:gloomy_tile_wall
+- savageandravage:gloomy_tile_slab
+- savageandravage:gloomy_tile_vertical_slab
+- savageandravage:runed_gloomy_tiles
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#minecraft:wither_immune
+- minecraft:barrier
+- minecraft:bedrock
+- minecraft:end_portal
+- minecraft:end_portal_frame
+- minecraft:end_gateway
+- minecraft:command_block
+- minecraft:repeating_command_block
+- minecraft:chain_command_block
+- minecraft:structure_block
+- minecraft:jigsaw
+- minecraft:moving_piston
+- supplementaries:spring_launcher_arm
+- supplementaries:safe
+- botania:infrangible_platform
+- tetra:forged_pillar
+- tetra:forged_platform
+- tetra:forged_platform_slab
+- tetra:forged_vent
+- tetra:forged_wall
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:acidian_lantern
+- endergetic:crystal_holder
+- endergetic:ender_fire
+
+#atmospheric:yucca_logs
+- atmospheric:yucca_log
+- atmospheric:yucca_wood
+- atmospheric:stripped_yucca_log
+- atmospheric:stripped_yucca_wood
+
+#forge:ores/ruby
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#immersiveengineering:scaffoldings/steel
+- immersiveengineering:steel_scaffolding_standard
+- immersiveengineering:steel_scaffolding_grate_top
+- immersiveengineering:steel_scaffolding_wooden_top
+
+#atmospheric:passion_vine_growable_on
+- #atmospheric:rosewood_logs
+- atmospheric:rosewood_leaves
+
+#forge:storage_blocks/zinc
+- create:zinc_block
+
+#forge:sand/red
+- minecraft:red_sand
+- atmospheric:red_arid_sand
+
+#copperpot:fume_inhibitors
+- minecraft:wet_sponge
+- #minecraft:coral_blocks
+
+#alexsmobs:emu_spawns
+- #minecraft:sand
+- #forge:dirt
+- minecraft:terracotta
+- minecraft:white_terracotta
+- minecraft:orange_terracotta
+- minecraft:magenta_terracotta
+- minecraft:light_blue_terracotta
+- minecraft:yellow_terracotta
+- minecraft:lime_terracotta
+- minecraft:pink_terracotta
+- minecraft:gray_terracotta
+- minecraft:light_gray_terracotta
+- minecraft:cyan_terracotta
+- minecraft:purple_terracotta
+- minecraft:blue_terracotta
+- minecraft:brown_terracotta
+- minecraft:green_terracotta
+- minecraft:red_terracotta
+- minecraft:black_terracotta
+
+#autumnity:slippery_snail_slime_blocks
+- minecraft:wet_sponge
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#create:sails
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- #environmental:willow_logs
+- #environmental:cherry_logs
+- #environmental:wisteria_logs
+- #enhanced_mushrooms:red_mushroom_stems
+- #enhanced_mushrooms:brown_mushroom_stems
+- #enhanced_mushrooms:glowshroom_stems
+- #bayou_blues:cypress_logs
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_purple_archwood_wood
+- #endergetic:poise_stems
+- #upgrade_aquatic:driftwood_logs
+- #upgrade_aquatic:river_logs
+- #abundance:jacaranda_logs
+- #abundance:redbud_logs
+- #atmospheric:rosewood_logs
+- #atmospheric:morado_logs
+- #atmospheric:yucca_logs
+- #atmospheric:kousa_logs
+- #atmospheric:aspen_logs
+- #atmospheric:grimwood_logs
+- #autumnity:maple_logs
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#endergetic:ender_fire_base_blocks
+- minecraft:end_stone
+- minecraft:end_stone_bricks
+- minecraft:end_stone_brick_slab
+- minecraft:end_stone_brick_stairs
+- minecraft:end_stone_brick_wall
+- endergetic:cracked_end_stone_bricks
+- endergetic:chiseled_end_stone_bricks
+- endergetic:eumus
+- endergetic:eumus_poismoss
+- endergetic:eumus_bricks
+- endergetic:chiseled_eumus_bricks
+- endergetic:cracked_eumus_bricks
+- endergetic:eumus_brick_slab
+- endergetic:eumus_brick_stairs
+- endergetic:eumus_brick_wall
+- endergetic:eumus_brick_vertical_slab
+- endergetic:poismoss
+- endergetic:crystal_holder
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_wall
+- quark:end_stone_brick_vertical_slab?
+- quark:biotite_ore?
+- quark:biotite_block?
+- quark:biotite_block_slab?
+- quark:biotite_block_stairs?
+- quark:biotite_block_vertical_slab?
+- quark:smooth_biotite?
+- quark:smooth_biotite_slab?
+- quark:smooth_biotite_stairs?
+- quark:smooth_biotite_vertical_slab?
+- quark:chiseled_biotite_block?
+- quark:biotite_pillar?
+- quark:biotite_bricks?
+- quark:basalt?
+- quark:basalt_slab?
+- quark:basalt_stairs?
+- quark:basalt_wall?
+- quark:basalt_vertical_slab?
+- quark:polished_basalt?
+- quark:polished_basalt_slab?
+- quark:polished_basalt_stairs?
+- quark:polished_basalt_vertical_slab?
+- quark:basalt_bricks?
+- quark:basalt_bricks_slab?
+- quark:basalt_bricks_stairs?
+- quark:basalt_bricks_wall?
+- quark:basalt_bricks_vertical_slab?
+- quark:chiseled_basalt_bricks?
+- quark:basalt_pavement?
+- quark:basalt_pillar?
+- quark:basalt_speleothem?
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- environmental:willow_slab
+- environmental:cherry_slab
+- environmental:wisteria_slab
+- enhanced_mushrooms:red_mushroom_slab
+- enhanced_mushrooms:brown_mushroom_slab
+- enhanced_mushrooms:glowshroom_slab
+- bayou_blues:cypress_slab
+- ars_nouveau:archwood_slab
+- endergetic:poise_slab
+- upgrade_aquatic:driftwood_slab
+- upgrade_aquatic:river_slab
+- abundance:jacaranda_slab
+- abundance:redbud_slab
+- atmospheric:rosewood_slab
+- atmospheric:morado_slab
+- atmospheric:yucca_slab
+- atmospheric:kousa_slab
+- atmospheric:aspen_slab
+- atmospheric:grimwood_slab
+- autumnity:maple_slab
+
+#alexsmobs:platypus_spawns
+- #minecraft:sand
+- #forge:gravel
+- #forge:dirt
+- minecraft:hay_block
+
+#forge:asphalt
+- immersivepetroleum:asphalt
+
+#create:toolboxes
+- create:white_toolbox
+- create:orange_toolbox
+- create:magenta_toolbox
+- create:light_blue_toolbox
+- create:yellow_toolbox
+- create:lime_toolbox
+- create:pink_toolbox
+- create:gray_toolbox
+- create:light_gray_toolbox
+- create:cyan_toolbox
+- create:purple_toolbox
+- create:blue_toolbox
+- create:brown_toolbox
+- create:green_toolbox
+- create:red_toolbox
+- create:black_toolbox
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+- #farmersdelight:wild_crops
+- #botania:mystical_flowers
+- environmental:cartwheel
+- environmental:bluebell
+- environmental:violet
+- environmental:dianthus
+- environmental:red_lotus_flower
+- environmental:white_lotus_flower
+- environmental:red_hibiscus
+- environmental:orange_hibiscus
+- environmental:yellow_hibiscus
+- environmental:pink_hibiscus
+- environmental:magenta_hibiscus
+- environmental:purple_hibiscus
+- buzzier_bees:buttercup
+- buzzier_bees:white_clover
+- buzzier_bees:pink_clover
+- bayou_blues:light_gray_lily
+- bayou_blues:white_lily
+- bayou_blues:blue_lily
+- bayou_blues:cyan_lily
+- bayou_blues:light_blue_lily
+- bayou_blues:magenta_lily
+- bayou_blues:pink_lily
+- bayou_blues:purple_lily
+- upgrade_aquatic:white_searocket
+- upgrade_aquatic:pink_searocket
+- abundance:lavender
+- abundance:sunny_marigold
+- abundance:shady_marigold
+- abundance:amaranthus
+- abundance:chicory
+- abundance:nemophila
+- abundance:purple_african_daisy
+- abundance:yellow_african_daisy
+- atmospheric:warm_monkey_brush
+- atmospheric:hot_monkey_brush
+- atmospheric:scalding_monkey_brush
+- atmospheric:yucca_flower
+- atmospheric:gilia
+- atmospheric:water_hyacinth
+- autumnity:autumn_crocus
+
+#botania:enchanter_flowers
+- #botania:mystical_flowers
+- #botania:shiny_flowers
+- #botania:mundane_floating_flowers
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#farmersdelight:wild_crops
+- farmersdelight:wild_carrots
+- farmersdelight:wild_potatoes
+- farmersdelight:wild_beetroots
+- farmersdelight:wild_cabbages
+- farmersdelight:wild_tomatoes
+- farmersdelight:wild_onions
+- farmersdelight:wild_rice
+
+#forge:storage_blocks/manasteel
+- botania:manasteel_block
+
+#supplementaries:rope_support
+- supplementaries:rope
+- supplementaries:cracked_bell
+- minecraft:bell
+- minecraft:grindstone
+- create:peculiar_bell?
+- create:haunted_bell?
+- farmersdelight:rope?
+- inspirations:rope?
+- inspirations:vine?
+- farmersdelight:rope?
+- xercamod:rope?
+- druidcraft:rope?
+
+#sereneseasons:winter_crops
+- farmersdelight:cabbages
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#supplementaries:water_holder
+- minecraft:composter
+- farmersdelight:basket?
+- #adorn:kitchen_sinks?
+
+#forge:stone
+- #pneumaticcraft:reinforced_stone
+- #pneumaticcraft:compressed_stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+- create:limestone
+- create:polished_limestone
+- create:weathered_limestone
+- create:polished_weathered_limestone
+- create:dolomite
+- create:polished_dolomite
+- create:gabbro
+- create:polished_gabbro
+- create:scoria
+- create:polished_scoria
+- create:dark_scoria
+- create:polished_dark_scoria
+- quark:basalt
+- quark:brimstone
+- quark:jasper
+- quark:limestone
+- quark:marble
+- quark:permafrost
+- quark:slate
+- quark:myalite
+- quark:polished_basalt
+- quark:polished_jasper
+- quark:polished_limestone
+- quark:polished_marble
+- quark:polished_slate
+- quark:polished_myalite
+
+#computercraft:computer
+- computercraft:computer_normal
+- computercraft:computer_advanced
+- computercraft:computer_command
+
+#environmental:willow_logs
+- environmental:willow_log
+- environmental:willow_wood
+- environmental:stripped_willow_log
+- environmental:stripped_willow_wood
+
+#minecraft:standing_signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- farmersdelight:canvas_sign
+- farmersdelight:white_canvas_sign
+- farmersdelight:orange_canvas_sign
+- farmersdelight:magenta_canvas_sign
+- farmersdelight:light_blue_canvas_sign
+- farmersdelight:yellow_canvas_sign
+- farmersdelight:lime_canvas_sign
+- farmersdelight:pink_canvas_sign
+- farmersdelight:gray_canvas_sign
+- farmersdelight:light_gray_canvas_sign
+- farmersdelight:cyan_canvas_sign
+- farmersdelight:purple_canvas_sign
+- farmersdelight:blue_canvas_sign
+- farmersdelight:brown_canvas_sign
+- farmersdelight:green_canvas_sign
+- farmersdelight:red_canvas_sign
+- farmersdelight:black_canvas_sign
+- environmental:willow_sign
+- environmental:cherry_sign
+- environmental:wisteria_sign
+- enhanced_mushrooms:red_mushroom_sign
+- enhanced_mushrooms:brown_mushroom_sign
+- enhanced_mushrooms:glowshroom_sign
+- bayou_blues:cypress_sign
+- endergetic:poise_sign
+- upgrade_aquatic:driftwood_sign
+- upgrade_aquatic:river_sign
+- abundance:jacaranda_sign
+- abundance:redbud_sign
+- atmospheric:rosewood_sign
+- atmospheric:morado_sign
+- atmospheric:yucca_sign
+- atmospheric:kousa_sign
+- atmospheric:aspen_sign
+- atmospheric:grimwood_sign
+- autumnity:maple_sign
+
+#minecraft:infiniburn_end
+- #minecraft:infiniburn_overworld
+- minecraft:bedrock
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#ars_nouveau:magic_plants
+- #ars_nouveau:magic_saplings
+- ars_nouveau:mana_berry_bush
+- ars_nouveau:mana_bloom_crop
+
+#alexsmobs:soul_vulture_spawns
+- #alexsmobs:soul_vulture_perches
+- #minecraft:soul_fire_base_blocks
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+
+#minecraft:planks/archwood
+- ars_nouveau:archwood_planks
+- ars_nouveau:archwood_planks
+
+#alexsmobs:leafcutter_ant_breakables
+- #minecraft:leaves
+
+#botania:generating_special_flowers
+- botania:dandelifeon
+- botania:endoflame
+- botania:entropinnyum
+- botania:gourmaryllis
+- botania:hydroangeas
+- botania:kekimurus
+- botania:munchdew
+- botania:narslimmus
+- botania:rafflowsia
+- botania:rosa_arcana
+- botania:shulk_me_not
+- botania:spectrolus
+- botania:thermalily
+
+#farmersdelight:heat_conductors
+- minecraft:hopper
+- create:chute?
+
+#charm:chests/normal
+- minecraft:chest
+- charm:acacia_chest
+- charm:birch_chest
+- charm:crimson_chest
+- charm:dark_oak_chest
+- charm:jungle_chest
+- charm:oak_chest
+- charm:spruce_chest
+- charm:warped_chest
+
+#forge:storage_blocks/apatite
+
+#neapolitan:chimpanzee_jumping_blocks
+- #minecraft:beds
+- minecraft:slime_block
+
+#alexsmobs:seal_spawns
+- #minecraft:sand
+- #forge:gravel
+- #minecraft:ice
+- #minecraft:base_stone_overworld
+- minecraft:snow_block
+
+#minecraft:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+
+#alexsmobs:mungus_replace_mushroom
+- minecraft:grass_block
+- minecraft:dirt
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+
+#forge:ores/silver
+- immersiveengineering:ore_silver
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+
+#inspirations:carpeted_trapdoors
+- inspirations:white_carpeted_trapdoor
+- inspirations:orange_carpeted_trapdoor
+- inspirations:magenta_carpeted_trapdoor
+- inspirations:light_blue_carpeted_trapdoor
+- inspirations:yellow_carpeted_trapdoor
+- inspirations:lime_carpeted_trapdoor
+- inspirations:pink_carpeted_trapdoor
+- inspirations:gray_carpeted_trapdoor
+- inspirations:light_gray_carpeted_trapdoor
+- inspirations:cyan_carpeted_trapdoor
+- inspirations:purple_carpeted_trapdoor
+- inspirations:blue_carpeted_trapdoor
+- inspirations:brown_carpeted_trapdoor
+- inspirations:green_carpeted_trapdoor
+- inspirations:red_carpeted_trapdoor
+- inspirations:black_carpeted_trapdoor
+
+#create:fan_heaters
+- farmersdelight:stove
+- create:blaze_burner
+- create:lit_blaze_burner
+- minecraft:magma_block
+- minecraft:campfire
+- minecraft:lava
+- minecraft:fire
+- minecraft:soul_fire
+- minecraft:soul_campfire
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#quark:pike_trophies
+- minecraft:skeleton_skull
+- minecraft:zombie_head
+- minecraft:creeper_head
+
+#environmental:grass_like
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:mycelium
+- quark:glowcelium?
+- atmospheric:crustose?
+
+#forge:wg_clay
+- minecraft:clay
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+
+#forge:barrels
+- #forge:barrels/wooden
+
+#computercraft:turtle_shovel_harvestable
+- minecraft:melon
+- minecraft:pumpkin
+- minecraft:carved_pumpkin
+- minecraft:jack_o_lantern
+
+#forge:wg_erodible
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:mycelium
+- minecraft:coarse_dirt
+- minecraft:podzol
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#alexsmobs:mungus_replace_nether
+- minecraft:netherrack
+- minecraft:warped_nylium
+- minecraft:crimson_nylium
+
+#forge:dirt
+- farmersdelight:rich_soil
+- botania:dry_grass
+- botania:golden_grass
+- botania:infused_grass
+- botania:mutated_grass
+- botania:scorched_grass
+- botania:vivid_grass
+- environmental:mud
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:coarse_dirt
+- minecraft:podzol
+- minecraft:mycelium
+
+#minecraft:bamboo_plantable_on
+- #minecraft:sand
+- minecraft:bamboo
+- minecraft:bamboo_sapling
+- minecraft:gravel
+- minecraft:dirt
+- minecraft:grass_block
+- minecraft:podzol
+- minecraft:coarse_dirt
+- minecraft:mycelium
+- supplementaries:fodder
+- supplementaries:planter
+- supplementaries:planter_rich?
+- farmersdelight:rich_soil
+- botania:dry_grass
+- botania:golden_grass
+- botania:vivid_grass
+- botania:scorched_grass
+- botania:infused_grass
+- botania:mutated_grass
+- #inspirations:mulch
+
+#pneumaticcraft:doors
+- pneumaticcraft:pneumatic_door
+
+#pneumaticcraft:reinforced_stone_bricks
+- pneumaticcraft:reinforced_bricks
+
+#quark:lead_connectable
+- #minecraft:fences
+- quark:paper_lantern
+- quark:paper_lantern_sakura
+
+#minecraft:pressure_plates
+- minecraft:light_weighted_pressure_plate
+- minecraft:heavy_weighted_pressure_plate
+- #minecraft:wooden_pressure_plates
+- #minecraft:stone_pressure_plates
+
+#forge:ores/nickel
+- immersiveengineering:ore_nickel
+
+#create:windowable
+
+#buzzier_bees:scented_candles
+- buzzier_bees:dandelion_scented_candle
+- buzzier_bees:poppy_scented_candle
+- buzzier_bees:blue_orchid_scented_candle
+- buzzier_bees:allium_scented_candle
+- buzzier_bees:azure_bluet_scented_candle
+- buzzier_bees:red_tulip_scented_candle
+- buzzier_bees:orange_tulip_scented_candle
+- buzzier_bees:white_tulip_scented_candle
+- buzzier_bees:pink_tulip_scented_candle
+- buzzier_bees:oxeye_daisy_scented_candle
+- buzzier_bees:cornflower_scented_candle
+- buzzier_bees:lily_of_the_valley_scented_candle
+- buzzier_bees:wither_rose_scented_candle
+- buzzier_bees:white_clover_scented_candle
+- buzzier_bees:pink_clover_scented_candle
+- buzzier_bees:buttercup_scented_candle
+- buzzier_bees:cartwheel_scented_candle
+- buzzier_bees:bluebell_scented_candle
+- buzzier_bees:violet_scented_candle
+- buzzier_bees:dianthus_scented_candle
+- buzzier_bees:red_lotus_flower_scented_candle
+- buzzier_bees:white_lotus_flower_scented_candle
+- buzzier_bees:yellow_hibiscus_scented_candle
+- buzzier_bees:orange_hibiscus_scented_candle
+- buzzier_bees:red_hibiscus_scented_candle
+- buzzier_bees:pink_hibiscus_scented_candle
+- buzzier_bees:magenta_hibiscus_scented_candle
+- buzzier_bees:purple_hibiscus_scented_candle
+- buzzier_bees:warm_monkey_brush_scented_candle
+- buzzier_bees:hot_monkey_brush_scented_candle
+- buzzier_bees:scalding_monkey_brush_scented_candle
+- buzzier_bees:water_hyacinth_scented_candle
+- buzzier_bees:gilia_scented_candle
+- buzzier_bees:yucca_flower_scented_candle
+- buzzier_bees:pink_searocket_scented_candle
+- buzzier_bees:white_searocket_scented_candle
+- buzzier_bees:autumn_crocus_scented_candle
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#forge:wg_dirt
+- minecraft:dirt
+- minecraft:coarse_dirt
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+
+#forge:fence_gates/wooden
+- environmental:willow_fence_gate
+- environmental:cherry_fence_gate
+- environmental:wisteria_fence_gate
+- enhanced_mushrooms:red_mushroom_fence_gate
+- enhanced_mushrooms:brown_mushroom_fence_gate
+- enhanced_mushrooms:glowshroom_fence_gate
+- bayou_blues:cypress_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- endergetic:poise_fence_gate
+- upgrade_aquatic:driftwood_fence_gate
+- upgrade_aquatic:river_fence_gate
+- abundance:jacaranda_fence_gate
+- abundance:redbud_fence_gate
+- atmospheric:rosewood_fence_gate
+- atmospheric:morado_fence_gate
+- atmospheric:yucca_fence_gate
+- atmospheric:kousa_fence_gate
+- atmospheric:aspen_fence_gate
+- atmospheric:grimwood_fence_gate
+- autumnity:maple_fence_gate
+
+#inspirations:shelves
+- inspirations:shelf
+- inspirations:ancient_shelf
+- inspirations:rainbow_shelf
+- inspirations:tomes_shelf
+
+#forge:ores/aluminum
+- immersiveengineering:ore_aluminum
+
+#ars_nouveau:sylph/kinda_likes
+
+#forge:ores/uranium
+- immersiveengineering:ore_uranium
+
+#environmental:wisteria_logs
+- environmental:wisteria_log
+- environmental:wisteria_wood
+- environmental:stripped_wisteria_log
+- environmental:stripped_wisteria_wood
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#create:windmill_sails
+- create:sail_frame
+- create:white_sail
+- create:orange_sail
+- create:magenta_sail
+- create:light_blue_sail
+- create:yellow_sail
+- create:lime_sail
+- create:pink_sail
+- create:gray_sail
+- create:light_gray_sail
+- create:cyan_sail
+- create:purple_sail
+- create:blue_sail
+- create:brown_sail
+- create:green_sail
+- create:red_sail
+- create:black_sail
+- #minecraft:wool
+
+#endergetic:poise_plantable
+- endergetic:eumus_poismoss
+- endergetic:poismoss
+
+#sereneseasons:spring_crops
+- supplementaries:flax
+- farmersdelight:onions
+
+#endergetic:end_crystal_placeable
+- minecraft:obsidian
+- minecraft:bedrock
+- endergetic:crystal_holder
+- endergetic:mystical_obsidian
+- endergetic:mystical_obsidian_rune
+- endergetic:mystical_obsidian_activation_rune
+- endergetic:activated_mystical_obsidian_activation_rune
+
+#forge:logs
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_purple_archwood_wood
+
+#botania:terra_plate_base
+- botania:livingrock
+- botania:shimmerrock
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+- fruitful:blossoming_oak_leaves
+- atmospheric:flowering_morado_leaves
+
+#alexsmobs:void_worm_breakables
+- #minecraft:leaves
+- minecraft:bamboo
+- minecraft:chorus_plant
+- minecraft:chorus_flower
+
+#inspirations:small_flowers
+- inspirations:cyan_flower
+- inspirations:syringa
+- inspirations:paeonia
+- inspirations:rose
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- environmental:willow_planks
+- environmental:vertical_willow_planks
+- environmental:cherry_planks
+- environmental:vertical_cherry_planks
+- environmental:wisteria_planks
+- environmental:vertical_wisteria_planks
+- enhanced_mushrooms:red_mushroom_planks
+- enhanced_mushrooms:brown_mushroom_planks
+- enhanced_mushrooms:glowshroom_planks
+- enhanced_mushrooms:vertical_red_mushroom_planks
+- enhanced_mushrooms:vertical_brown_mushroom_planks
+- enhanced_mushrooms:vertical_glowshroom_planks
+- bayou_blues:cypress_planks
+- bayou_blues:vertical_cypress_planks
+- ars_nouveau:archwood_planks
+- endergetic:poise_planks
+- endergetic:vertical_poise_planks
+- upgrade_aquatic:driftwood_planks
+- upgrade_aquatic:vertical_driftwood_planks
+- upgrade_aquatic:river_planks
+- upgrade_aquatic:vertical_river_planks
+- abundance:jacaranda_planks
+- abundance:redbud_planks
+- abundance:vertical_jacaranda_planks
+- abundance:vertical_redbud_planks
+- atmospheric:rosewood_planks
+- atmospheric:morado_planks
+- atmospheric:yucca_planks
+- atmospheric:kousa_planks
+- atmospheric:aspen_planks
+- atmospheric:grimwood_planks
+- atmospheric:vertical_rosewood_planks
+- atmospheric:vertical_morado_planks
+- atmospheric:vertical_yucca_planks
+- atmospheric:vertical_kousa_planks
+- atmospheric:vertical_aspen_planks
+- atmospheric:vertical_grimwood_planks
+- autumnity:maple_planks
+- autumnity:vertical_maple_planks
+- quark:vertical_oak_planks
+- quark:vertical_spruce_planks
+- quark:vertical_birch_planks
+- quark:vertical_jungle_planks
+- quark:vertical_acacia_planks
+- quark:vertical_dark_oak_planks
+- quark:vertical_warped_planks
+- quark:vertical_crimson_planks
+- quark:black_stained_planks
+- quark:blue_stained_planks
+- quark:brown_stained_planks
+- quark:cyan_stained_planks
+- quark:gray_stained_planks
+- quark:green_stained_planks
+- quark:light_blue_stained_planks
+- quark:light_gray_stained_planks
+- quark:lime_stained_planks
+- quark:magenta_stained_planks
+- quark:orange_stained_planks
+- quark:pink_stained_planks
+- quark:purple_stained_planks
+- quark:red_stained_planks
+- quark:white_stained_planks
+- quark:yellow_stained_planks
+- quark:vertical_black_stained_planks
+- quark:vertical_blue_stained_planks
+- quark:vertical_brown_stained_planks
+- quark:vertical_cyan_stained_planks
+- quark:vertical_gray_stained_planks
+- quark:vertical_green_stained_planks
+- quark:vertical_light_blue_stained_planks
+- quark:vertical_light_gray_stained_planks
+- quark:vertical_lime_stained_planks
+- quark:vertical_magenta_stained_planks
+- quark:vertical_orange_stained_planks
+- quark:vertical_pink_stained_planks
+- quark:vertical_purple_stained_planks
+- quark:vertical_red_stained_planks
+- quark:vertical_white_stained_planks
+- quark:vertical_yellow_stained_planks
+
+#botania:special_flowers
+- #botania:misc_special_flowers
+- #botania:generating_special_flowers
+- #botania:functional_special_flowers
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+- upgrade_aquatic:kelpy_cobblestone
+- upgrade_aquatic:tongue_kelpy_cobblestone
+- upgrade_aquatic:thorny_kelpy_cobblestone
+- upgrade_aquatic:ochre_kelpy_cobblestone
+- upgrade_aquatic:polar_kelpy_cobblestone
+- create:granite_cobblestone
+- create:diorite_cobblestone
+- create:andesite_cobblestone
+- create:limestone_cobblestone
+- create:weathered_limestone_cobblestone
+- create:dolomite_cobblestone
+- create:gabbro_cobblestone
+- create:scoria_cobblestone
+- create:dark_scoria_cobblestone
+- quark:cobbedstone
+- quark:cobbled_deepslate
+
+#pneumaticcraft:jackhammer_ores
+- #forge:ores
+- #minecraft:logs
+
+#botania:functional_special_flowers
+- botania:agricarnation
+- botania:agricarnation_chibi
+- botania:bellethorn
+- botania:bellethorn_chibi
+- botania:bubbell
+- botania:bubbell_chibi
+- botania:clayconia
+- botania:clayconia_chibi
+- botania:daffomill
+- botania:dreadthorn
+- botania:exoflame
+- botania:fallen_kanade
+- botania:heisei_dream
+- botania:hopperhock
+- botania:hopperhock_chibi
+- botania:hyacidus
+- botania:jaded_amaranthus
+- botania:jiyuulia
+- botania:jiyuulia_chibi
+- botania:labellia
+- botania:loonium
+- botania:marimorphosis
+- botania:marimorphosis_chibi
+- botania:medumone
+- botania:orechid
+- botania:orechid_ignem
+- botania:pollidisiac
+- botania:rannuncarpus
+- botania:rannuncarpus_chibi
+- botania:solegnolia
+- botania:solegnolia_chibi
+- botania:spectranthemum
+- botania:tangleberrie
+- botania:tangleberrie_chibi
+- botania:tigerseye
+- botania:vinculotus
+
+#botania:terraformable
+- #forge:stone
+- #forge:dirt
+- #minecraft:sand
+- minecraft:grass_block
+- minecraft:gravel
+- minecraft:snow
+
+#alexsmobs:soul_vulture_perches
+- minecraft:bone_block
+- #minecraft:logs
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#minecraft:fence_gates
+- minecraft:acacia_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- botania:dreamwood_fence_gate
+- botania:livingwood_fence_gate
+- environmental:willow_fence_gate
+- environmental:cherry_fence_gate
+- environmental:wisteria_fence_gate
+- bayou_blues:cypress_fence_gate
+- abundance:jacaranda_fence_gate
+- abundance:redbud_fence_gate
+
+#forge:ores
+- ars_nouveau:arcane_ore
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- immersiveengineering:ore_copper
+- immersiveengineering:ore_aluminum
+- immersiveengineering:ore_lead
+- immersiveengineering:ore_silver
+- immersiveengineering:ore_nickel
+- immersiveengineering:ore_uranium
+- create:copper_ore
+- create:zinc_ore
+- #forge:ores/biotite
+
+#forge:sheetmetals/iron
+- immersiveengineering:sheetmetal_iron
+
+#forge:fences
+- ars_nouveau:archwood_fence
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+
+#forge:storage_blocks/petcoke
+- immersivepetroleum:petcoke_block
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#minecraft:nylium
+- minecraft:crimson_nylium
+- minecraft:warped_nylium
+
+#savageandravage:blast_proof
+- savageandravage:blast_proof_plates
+- savageandravage:blast_proof_stairs
+- savageandravage:blast_proof_slab
+- savageandravage:blast_proof_vertical_slab
+
+#alexsmobs:warped_mosco_breakables
+- #minecraft:leaves
+- minecraft:nether_wart_block
+- minecraft:warped_wart_block
+
+#forge:storage_blocks/bamboo
+
+#supplementaries:hang_from_ropes
+- supplementaries:rope
+- supplementaries:sack
+- supplementaries:hanging_flower_pot
+- supplementaries:cracked_bell
+- supplementaries:rope_chandelier?
+- supplementaries:rope_soul_chandelier?
+- farmersdelight:rope?
+- inspirations:rope?
+- inspirations:vine?
+- druidcraft:rope?
+- xercamod:rope?
+
+#forge:storage_blocks/slag
+
+#pneumaticcraft:block_tracker_misc_blocks
+- minecraft:tnt
+- minecraft:tripwire
+- minecraft:bee_nest
+- minecraft:infested_chiseled_stone_bricks
+- minecraft:infested_cracked_stone_bricks
+- minecraft:infested_cobblestone
+- minecraft:infested_stone
+- minecraft:infested_mossy_stone_bricks
+- minecraft:infested_stone_bricks
+
+#supplementaries:bellows_tickable
+- #minecraft:campfires
+- minecraft:furnace
+- minecraft:blast_furnace
+- minecraft:smoker
+- charm:kiln?
+- environmental:kiln?
+- atum:kiln?
