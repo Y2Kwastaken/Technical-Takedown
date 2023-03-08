@@ -126,7 +126,7 @@
 * [Blueprint](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/3607198)
 * [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios/files/4419403)
 * [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/3494919)
-* [Selene](https://www.curseforge.com/minecraft/mc-mods/selene/files/3517008)
+* [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/selene/files/3517008)
 * [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel/files/3535459)
 * [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/4022663)
 * [Libx](https://www.curseforge.com/minecraft/mc-mods/libx/files/3329216)
