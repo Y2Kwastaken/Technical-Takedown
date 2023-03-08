@@ -144,3 +144,5 @@
 * [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus/files/3522094)
 * [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601)
 * [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib/files/3933561)
+* [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/3857643)
