@@ -47,8 +47,6 @@
 * [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files/3303283)
 * [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files/3494974)
 * [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3561379)
-* [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced/files/4219736)
-* [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas/files/4368057)
 
 ### Vanilla-Style
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark/files/3642325)
@@ -75,6 +73,7 @@
 * [Better Badlands](https://www.curseforge.com/minecraft/mc-mods/better-badlands/files/3195284)
 * [Enhanced Mushrooms](https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms/files/3353212)
 * [Fruitful](https://www.curseforge.com/minecraft/mc-mods/fruitful/files/3342857)
+* [Player Tracking](https://www.curseforge.com/minecraft/mc-mods/player-tracking/files/3379798)
 
 ### Food
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/3765350)
@@ -102,7 +101,6 @@
 * [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs/files/4120133)
 * [Capybara Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod-capybara-only/files/3424488)
 * [BetterEnd Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/files/3523090)
-* [Caves and Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport/files/3592876)
 * [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation/files/3260763)
 * [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/3404859)
 * [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/3535953)
@@ -154,8 +152,6 @@
 * [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601)
 * [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3333962)
 * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/3553840)
-* [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api/files/3498310)
-* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/3857643)
 * [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/3647098)
-* [CaveBiomeAPI](https://www.curseforge.com/minecraft/mc-mods/cavebiomeapi/files/3519248)
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
+* [Collective](https://www.curseforge.com/minecraft/mc-mods/collective/files/4312565)
