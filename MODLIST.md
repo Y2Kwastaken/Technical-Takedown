@@ -36,11 +36,7 @@
 * [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot/files/3098221)
 * [Xaero's Minimap Fairplay Edition](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition/files/4135347)
 * [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4424627)
-
-### Cosmetics
 * [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books/files/3780206)
-* [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked/files/3738137)
-* [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/3943137)
 
 ### Worldgen
 * [TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged/files/4044290)
@@ -122,7 +118,10 @@
 ### Magic
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/4300733)
 * [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo/files/3899109)
+* [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon/files/3157832)
+* [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files/3682110)
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania/files/4066054)
+* [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3813365)
 
 ### Libraries / Programming Dependencies
 * [Blueprint](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/3607198)
@@ -144,4 +143,4 @@
 * [Differentiate](https://www.curseforge.com/minecraft/mc-mods/differentiate/files/3397138)
 * [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus/files/3522094)
 * [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601)
-* [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib/files/3933561)
+* [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3333962)
