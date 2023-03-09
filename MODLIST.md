@@ -155,3 +155,4 @@
 * [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/3647098)
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
 * [Collective](https://www.curseforge.com/minecraft/mc-mods/collective/files/4312565)
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all?filter-status=1&filter-game-version=2020709689:8203)
