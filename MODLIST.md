@@ -47,6 +47,8 @@
 * [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files/3303283)
 * [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files/3494974)
 * [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3561379)
+* [Dungeons Enhanced](https://www.curseforge.com/minecraft/mc-mods/dungeonsenhanced/files/4219736)
+* [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas/files/4368057)
 
 ### Vanilla-Style
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark/files/3642325)
@@ -79,8 +81,6 @@
 * [Farmer's Delight Compats](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-compats/files/3439904)
 * [The Irregular Chef!](https://www.curseforge.com/minecraft/mc-mods/the-irregular-chef/files/3411810)
 * [Copper Pot!](https://www.curseforge.com/minecraft/mc-mods/copper-pot/files/3584139)
-* [Simply Tea!](https://www.curseforge.com/minecraft/mc-mods/simply-tea/files/3310150)
-* [Farmer's Tea](https://www.curseforge.com/minecraft/mc-mods/farmers-tea/files/3438997)
 * [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight/files/3443481)
 * [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan/files/3567243)
 * [Abnormal's Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight/files/3549585)
@@ -99,6 +99,14 @@
 * [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4167327)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/3776277)
 * [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3665636)
+* [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs/files/4120133)
+* [Capybara Mod](https://www.curseforge.com/minecraft/mc-mods/unnamed-animal-mod-capybara-only/files/3424488)
+* [BetterEnd Reforked](https://www.curseforge.com/minecraft/mc-mods/betterend-re-forked/files/3523090)
+* [Caves and Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport/files/3592876)
+* [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation/files/3260763)
+* [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/3404859)
+* [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/3535953)
+* [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge/files/3482306)
 
 ### Tech/Automation
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/3536025)
@@ -122,6 +130,7 @@
 * [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files/3682110)
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania/files/4066054)
 * [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3813365)
+* [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism/files/3861416)
 
 ### Libraries / Programming Dependencies
 * [Blueprint](https://www.curseforge.com/minecraft/mc-mods/blueprint/files/3607198)
@@ -144,3 +153,9 @@
 * [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus/files/3522094)
 * [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601)
 * [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3333962)
+* [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/3553840)
+* [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api/files/3498310)
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/3857643)
+* [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/3647098)
+* [CaveBiomeAPI](https://www.curseforge.com/minecraft/mc-mods/cavebiomeapi/files/3519248)
+* [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
