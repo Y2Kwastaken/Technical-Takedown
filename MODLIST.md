@@ -1,13 +1,14 @@
 ### Performance/Bug fixes
 * [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files/4397474)
 * [Rubidium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra/files/4174674)
-* [Magnesium/Rubidium Dynamic Lights ](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged/files/3574974)
+* [Rubidium Toolkit](https://www.curseforge.com/minecraft/mc-mods/rubidium-toolkit/files/4375360)
 * [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4296206)
 * [Roadrunner](https://www.curseforge.com/minecraft/mc-mods/roadrunner/files/3683120)
 * [Sulfuric](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged/files/3496027)
 * [Krypton Reforged](https://www.curseforge.com/minecraft/mc-mods/krypton-reforged)
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/4074330)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge/files/3249059)
+* [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend/files/3421281)
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps/files/3658432)
 * [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass/files/3103028)
 * [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix/files/3098229)
@@ -102,7 +103,6 @@
 * [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files/4167327)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/3776277)
 * [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/3665636)
-* [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/3647098)
 
 ### Tech/Automation
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/3536025)
@@ -114,6 +114,7 @@
 * [Just Enough Immersive Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-immersive-multiblocks/files/3836732)
 * [PneumaticCraft: Repressurized](https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/files/3834640)
 * [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked/files/4395617)
+* [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals/files/3857897)
 * [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3527504)
 * [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3527508)
 * [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify/files/3597580)
@@ -144,5 +145,3 @@
 * [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus/files/3522094)
 * [Geckolib](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4182601)
 * [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib/files/3933561)
-* [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
-* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/3857643)
