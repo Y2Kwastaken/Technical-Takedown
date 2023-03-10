@@ -126,7 +126,6 @@
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/4300733)
 * [Ars Creo](https://www.curseforge.com/minecraft/mc-mods/ars-creo/files/3899109)
 * [Eidolon](https://www.curseforge.com/minecraft/mc-mods/eidolon/files/3157832)
-* [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3/files/3682110)
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania/files/4066054)
 * [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3813365)
 * [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism/files/3861416)
