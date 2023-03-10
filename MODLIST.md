@@ -1,7 +1,7 @@
 ### Performance/Bug fixes
 * [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium/files/4397474)
-* [Rubidium Extra](https://www.curseforge.com/minecraft/mc-mods/rubidium-extra/files/4174674)
-* [Rubidium Toolkit](https://www.curseforge.com/minecraft/mc-mods/rubidium-toolkit/files/4375360)
+* [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras/files/3955105)
+* [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged/files/3574974)
 * [TexTrue's Rubidium Options](https://www.curseforge.com/minecraft/mc-mods/textrues-rubidium-options/files/4296206)
 * [Roadrunner](https://www.curseforge.com/minecraft/mc-mods/roadrunner/files/3683120)
 * [Sulfuric](https://www.curseforge.com/minecraft/mc-mods/phosphor-reforged/files/3496027)
@@ -74,6 +74,7 @@
 * [Enhanced Mushrooms](https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms/files/3353212)
 * [Fruitful](https://www.curseforge.com/minecraft/mc-mods/fruitful/files/3342857)
 * [Player Tracking](https://www.curseforge.com/minecraft/mc-mods/player-tracking/files/3379798)
+* [Ore Stone Variants](https://www.curseforge.com/minecraft/mc-mods/ore-stone-variants/files/3632364)
 
 ### Food
 * [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight/files/3765350)
