@@ -20,8 +20,22 @@ onEvent('lootjs', event => {
 	event
 		.addBlockLootModifier('minecraft:tall_grass')
 		.thenRemove('occultism:datura_seeds')
-	
+
 	event
 		.addBlockLootModifier('minecraft:grass')
 		.thenRemove('occultism:datura_seeds')
+})
+
+onEvent('player.logged_in', event => {
+
+	if (event.player.stages.has('starting_items')) {
+		return;
+	}
+
+	event.player.stages.add('starting_items');
+	event.player.give('minecraft:stone_sword')
+	event.player.give('minecraft:stone_pickaxe')
+	event.player.give('minecraft:stone_axe')
+	event.player.give('minecraft:stone_shovel')
+	event.player.give('16x farmersdelight:roast_chicken')
 })

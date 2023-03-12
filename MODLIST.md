@@ -107,7 +107,8 @@
 * [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/3404859)
 * [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge/files/3535953)
 * [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-forge/files/3482306)
-* [Ice and Fire](https://github.com/AlexModGuy/Ice_and_Fire/releases/tag/latest-snapshot)
+* [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/4434014)
+* [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones/files/3515707)
 
 ### Tech/Automation
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create/files/3536025)
