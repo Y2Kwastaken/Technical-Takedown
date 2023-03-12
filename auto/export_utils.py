@@ -41,16 +41,18 @@ def hard_copy(from_path: str, to_path: str) -> None:
     if os.path.exists(to_path):
         shutil.rmtree(to_path)
     shutil.copytree(from_path, to_path)
-    print(f"Copying files from {from_path} to {to_path} (overwriting all files).")
+    print(
+        f"Copying files from {from_path} to {to_path} (overwriting all files).")
 
 
 def soft_copy(from_path: str, to_path: str) -> None:
     """Copy files from the from_path to the to_path, only overwriting files that exist in the from_path."""
-    if (os.path.exists(to_path)):
-        print(f"Copying files from {from_path} to {to_path}")
-        shutil.copytree(from_path, to_path, dirs_exist_ok=True)
-    else:
-        print(f"Destination path {to_path} does not exist. Skipping copy.")
+    if not os.path.exists(to_path):
+        print("Creating directory: " + to_path + " (does not exist).")
+        os.mkdir(to_path)
+
+    print(f"Copying files from {from_path} to {to_path}")
+    shutil.copytree(from_path, to_path, dirs_exist_ok=True)
 
 
 if __name__ == "__main__":
