@@ -7,14 +7,8 @@ settings.logErroringRecipes = true
 
 console.info('Hello, World! (You will see this line every time server resources reload)')
 
-onEvent('recipes', event => {
-	// Change recipes here
+onEvent('block.loot_tables', event => {
+	event.addSimpleBlock('iceandfire:silver_ore', 'immersiveengineering:ore_silver')
+	event.addSimpleBlock('iceandfire:copper_ore', 'immersiveengineering:ore_copper')
 })
 
-onEvent('item.tags', event => {
-	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
-	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
-
-	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
-})
