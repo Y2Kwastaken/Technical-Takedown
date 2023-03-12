@@ -1,5 +1,7 @@
 import os
+import tqdm
 import shutil
+import requests
 
 SYSTEM_PATHS: dict[str, str] = {}
 PATHS: str = "auto/paths.csv"
@@ -24,10 +26,13 @@ class MinecraftFolder():
         self.configs_path = self.path + "/config"
         self.defaultconfigs_path = self.path + "/defaultconfigs"
 
-    def __init__(self) -> None:
+    def __init__(self, system_var: str) -> None:
         if (SYSTEM_PATHS == {}):
             get_system_paths()
-        self.path = SYSTEM_PATHS["instance"]
+        self.path = SYSTEM_PATHS[system_var]
+        if (self.path == ""):
+            raise ValueError("System path not found.")
+
         self.kubejs_path = self.path + "/kubejs"
         self.configs_path = self.path + "/config"
         self.defaultconfigs_path = self.path + "/defaultconfigs"
@@ -53,6 +58,51 @@ def soft_copy(from_path: str, to_path: str) -> None:
 
     print(f"Copying files from {from_path} to {to_path}")
     shutil.copytree(from_path, to_path, dirs_exist_ok=True)
+
+
+def download_file(url: str, download_location: str) -> None:
+    """Downloads a file from the specified url while showing a progress bar."""
+    # Uses tqdm and requests
+    # https://stackoverflow.com/questions/37573483/progress-bar-while-download-file-over-http-with-requests
+    response = requests.get(url, stream=True)
+    total_size_in_bytes = int(response.headers.get('content-length', 0))
+    with open(download_location, 'wb') as file, tqdm.tqdm(
+        total=total_size_in_bytes,
+        unit='iB',
+        unit_scale=True,
+        unit_divisor=1024,
+    ) as progress_bar:
+        for data in response.iter_content(chunk_size=1024):
+            size = file.write(data)
+            progress_bar.update(size)
+
+
+class DirectoryManager():
+
+    def __init__(self, target_path: str):
+        self.target_path = target_path
+        self.current_path = os.getcwd()
+
+    def change(self):
+        os.chdir(self.target_path)
+
+    def return_to_current(self):
+        os.chdir(self.current_path)
+
+    def execute(self, function):
+        os.chdir(self.target_path)
+        function()
+        os.chdir(self.current_path)
+        
+    def delete(self, file_name: str) -> None:
+        """Delete the specified file."""
+        os.chdir(self.target_path)
+        if os.path.exists(file_name):
+            os.remove(file_name)
+            print(f"Deleted file: {file_name}")
+        else:
+            print(f"File not found: {file_name}")
+        os.chdir(self.current_path)
 
 
 if __name__ == "__main__":
