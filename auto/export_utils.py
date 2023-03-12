@@ -1,6 +1,7 @@
 import os
 import tqdm
 import shutil
+import zipfile
 import requests
 
 SYSTEM_PATHS: dict[str, str] = {}
@@ -93,7 +94,7 @@ class DirectoryManager():
         os.chdir(self.target_path)
         function()
         os.chdir(self.current_path)
-        
+
     def delete(self, file_name: str) -> None:
         """Delete the specified file."""
         os.chdir(self.target_path)
@@ -104,6 +105,18 @@ class DirectoryManager():
             print(f"File not found: {file_name}")
         os.chdir(self.current_path)
 
+    def package(self, file_name: str) -> None:
+        """Zip the specified directory."""
+        zf = zipfile.ZipFile(file_name, "w")
+        for dirname, _, files in os.walk(self.target_path):
+            print("Zipping directory: " + dirname)
+            for filename in files:
+                print("Zipping file: " + filename)
+                zf.write(os.path.join(dirname, filename))
+                print("Zipped file: " + filename)
+            print("Zipped directory: " + dirname)
+        zf.close()
+        print("finished zipping")
 
 if __name__ == "__main__":
     print("This is a module, not a script.")
