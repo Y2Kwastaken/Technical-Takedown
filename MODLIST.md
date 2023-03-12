@@ -74,6 +74,7 @@
 * [Enhanced Mushrooms](https://www.curseforge.com/minecraft/mc-mods/enhanced-mushrooms/files/3353212)
 * [Fruitful](https://www.curseforge.com/minecraft/mc-mods/fruitful/files/3342857)
 * [Player Tracking](https://www.curseforge.com/minecraft/mc-mods/player-tracking/files/3379798)
+* [Caves and Cliffs Backport](https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport/files/3592876)
 * [Ore Stone Variants](https://www.curseforge.com/minecraft/mc-mods/ore-stone-variants/files/3632364)
 
 ### Food
@@ -154,6 +155,9 @@
 * [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3333962)
 * [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge/files/3553840)
 * [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs/files/3647098)
+* [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs/files/3623207)
+* [CatLib](https://www.curseforge.com/minecraft/mc-mods/catlib)
+* [CavesBiomeAPI](https://www.curseforge.com/minecraft/mc-mods/cavebiomeapi/files/3519248)
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
 * [Collective](https://www.curseforge.com/minecraft/mc-mods/collective/files/4312565)
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all?filter-status=1&filter-game-version=2020709689:8203)
