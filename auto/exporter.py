@@ -1,7 +1,7 @@
 import export_utils as eu
 from export_utils import MinecraftFolder
 
-instance: MinecraftFolder = MinecraftFolder()
+instance: MinecraftFolder = MinecraftFolder("instance")
 
 if __name__ == "__main__":
     to_export: str = input("What to export [all, kubejs, config]: ")
