@@ -14,6 +14,65 @@ onEvent('block.loot_tables', event => {
 
 onEvent('recipes', event => {
 	event.shapeless('occultism:datura_seeds', ['minecraft:dragon_breath', 'minecraft:wheat_seeds'])
+	event.remove({ output: "advancedperipherals:player_detector" })
+	event.custom({
+		"type": "immersiveengineering:arc_furnace",
+		"additives": [
+			{
+				"tag": "forge:ingots/netherite"
+			},
+			{
+				"tag": "forge:ingots/thallasium"
+			},
+			{
+				"tag": "forge:ingots/constantan"
+			},
+		],
+		conditions: [
+			{
+				"type": "forge:not",
+				"value": {
+					"type": "forge:tag_empty",
+					"tag": "forge:ingots/netherite"
+				}
+			},
+			{
+				"type": "forge:not",
+				"value": {
+					"type": "forge:tag_empty",
+					"tag": "forge:ingots/thallasium"
+				}
+			},
+			{
+				"type": "forge:not",
+				"value": {
+					"type": "forge:tag_empty",
+					"tag": "forge:ingots/constantan"
+				}
+			}
+		],
+		"energy": 320000,
+		"input": {
+			"item": "advancedperipherals:environment_detector"
+		},
+		"results": [
+			{
+				"base_ingredient": {
+					"item": "advancedperipherals:player_detector"
+				},
+				"count": 1,
+			}
+		],
+		"secondaries": [
+			{
+				"chance": 0.75,
+				"output": {
+					"item": "advancedperipherals:player_detector"
+				}
+			}
+		],
+		"time": 6000
+	})
 })
 
 onEvent('lootjs', event => {

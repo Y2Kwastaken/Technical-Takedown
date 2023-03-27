@@ -124,6 +124,7 @@
 * [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/3527504)
 * [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons/files/3527508)
 * [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify/files/3597580)
+* [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah/files/3232535)
   
 ### Magic
 * [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau/files/4300733)
@@ -162,3 +163,4 @@
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino/files/3525704)
 * [Collective](https://www.curseforge.com/minecraft/mc-mods/collective/files/4312565)
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all?filter-status=1&filter-game-version=2020709689:8203)
+* [Lollipop](https://www.curseforge.com/minecraft/mc-mods/lollipop/files/3232534)
